@@ -1,14 +1,11 @@
 ---
-layout: default
+layout: post
 title: "Terreur - Dan Simmons"
-date: 2020-06-08 00:00:01
-published: 2020-06-08 00:00:01
 categories: lectures
-tags: ["Dan Simmons", "livres", "psf"]
 comments: true
 ---
 
-![moutons](/_pics/lv/simmons_dan/terreur.jpg)
+![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/simmons_dan/terreur.jpg)
 
 **Terreur** est un peu mon dernier gros coup de cœur. J'ai du le terminé fin 2018 et depuis, je ne cesse de dire que je devrais en laisser une trace écrite.
 
@@ -18,4 +15,4 @@ Le bouquin est un peu plus long que ceux que je lis d'habitude avec un peu plus 
 
 Si le fantastique est présent avec parcimonie au début, c'est surtout l'ambiance sombre du cercle polaire qui m'a immergé dans le roman. Bref, Terreur m'a vraiment marqué. Une sacré lecture. Pour se faire une idée, la série éponyme est assez fidèle et peut donner envie de compléter par la lecture.
 
-![moutons](/_pics/lv/simmons_dan/erebus.jpg)
+![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/simmons_dan/erebus.jpg)

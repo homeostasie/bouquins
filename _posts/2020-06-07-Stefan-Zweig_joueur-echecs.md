@@ -5,7 +5,7 @@ categories: lectures
 comments: true
 ---
 
-![moutons](/_pics/lv/zweig_stefan/joueur-echecs.jpg)
+![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/zweig_stefan/joueur-echecs.jpg)
 
 J'ai vraiment du mal à me motiver à écrire sur ce blog ces derniers temps... Pour autant mon rythme de lecture n'a jamais été aussi bon. J'ai une petite envie de classique en ce moment et après avoir écumer les listes de sens critique, je me suis forgé une solide pal. Pour entamer ce travail, j'ai pré-sélectionné des petits bouquins. J'ai commencé avec celui-là : **Le joueur d'échecs** de *Stefan Zweig*.
 
