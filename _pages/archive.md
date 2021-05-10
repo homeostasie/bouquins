@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /archive/
-title: Archives
+title: 
 ---
-
 
 <div id="archives">
   <section id="archive">
