@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lectures
+title: 
 permalink: /lectures/
 comments: true
 ---
@@ -135,7 +135,7 @@ comments: true
 1. *Carbone modifié*
 2. *Anges déchus*
 
-### Uchronie (**\#1**)
+### Uchronie
 
 **Stéphane Beauverger** - *Le Déchronologue*
 
