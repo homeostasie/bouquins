@@ -9,7 +9,7 @@ Je regrette de n'avoir jamais publié sur ce blog un seul billet issue du monde 
 
 **H2** propose de suivre l'entrée au lycée d'un petit trio de copain : Hiro , Hideo et Haruka. 
 
-![](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/adachi_mitsuru/h2.jpng)
+![](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/adachi_mitsuru/h2.png)
 
 ![](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/adachi_mitsuru/h2-mes-1.jpg) ![](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/adachi_mitsuru/h2-mes-2.jpg)
 
