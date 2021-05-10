@@ -12,7 +12,7 @@ Je regrette de n'avoir jamais publié sur ce blog un seul billet issue du monde 
 **H2** propose de suivre l'entrée au lycée d'un petit trio de copain : Hiro , Hideo et Haruka. 
 
 
-<img href="https://github.com/homeostasie/bouquins/raw/master/_pics/lv/adachi_mitsuru/h2-mes-1.jpg" style="display:'inline"/><img href="https://github.com/homeostasie/bouquins/raw/master/_pics/lv/adachi_mitsuru/h2-mes-2.jpg" style="display:'inline"/>
+<img href="https://github.com/homeostasie/bouquins/raw/master/_pics/lv/adachi_mitsuru/h2-mes-1.jpg" style="float:left"/><img href="https://github.com/homeostasie/bouquins/raw/master/_pics/lv/adachi_mitsuru/h2-mes-2.jpg" style="float:left"/>
 
 
 **Hiro**, lanceur, vient de se blesser au bras et est contraint contre son grès d'arrêter le baseball. Il décide alors d'intégrer un lycée sans club... Mais très rapidement, il va se rendre compte que si, il peut jouer car son médecin était un charlatant. Il va alors faire la rencontre d'Haruka qui rêve de monter une équipe de baseball. 
