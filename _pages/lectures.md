@@ -154,7 +154,7 @@ comments: true
 
 **Orson Scott Card** - *Le cycle d'Ender*
 1. *La Stratégie Ender*
-2. *La voix des morts*
+2. [*La voix des morts*](https://homeostasie.github.io/bouquins/Orson-Scott-Card_La-voix-des-morts/)
 
 **James S. A. Corey** - *The expanse*
 1. *L'Éveil du Léviathan*
