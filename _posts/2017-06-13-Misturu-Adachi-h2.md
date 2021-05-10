@@ -5,11 +5,12 @@ categories: lectures
 comments: true
 ---
 
+![](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/adachi_mitsuru/h2.png)
+
 Je regrette de n'avoir jamais publié sur ce blog un seul billet issue du monde des bds où de l'animation japonaise. Du coup, pourquoi ne pas commencer par l'un de mes coups de cœur ? Il y a deux petites dizaines d'années, j'ai découvert Misturu Adachi via [Iscariote](http://www.iscariote.org/). J'ai tout de suite accroché à son style de tranche de vie mélangeant, sport, amitié, famille. 
 
 **H2** propose de suivre l'entrée au lycée d'un petit trio de copain : Hiro , Hideo et Haruka. 
 
-![](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/adachi_mitsuru/h2.png)
 
 ![](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/adachi_mitsuru/h2-mes-1.jpg) ![](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/adachi_mitsuru/h2-mes-2.jpg)
 
@@ -26,9 +27,6 @@ Les dessins de la ville sont sublimes et très travaillés. Des planches entièr
 Les personnages, d'humeur comique gagne en intensité et en dynamisme durant les matchs. Relativement peu bavard, leurs émotions sont également retranscrites par une mise en scène soignée.
 
 ![](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/adachi_mitsuru/h2-bat-1.jpg) ![](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/adachi_mitsuru/h2-bat-2.jpg)
-
-
-![](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/adachi_mitsuru/h2-mes-1.jpg) ![](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/adachi_mitsuru/h2-mes-2.jpg)
 
 
 La lecture en 34 volumes se fait finalement très rapidement et ne subit que peu de temps mort. Le tout forme vraiment un ensemble très cohérent. Comme souvent avec Adachi, on touche un peu à tous les sujets sociétaux et on regrette que certains personnages ne soient pas plus développés. 
