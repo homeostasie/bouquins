@@ -31,8 +31,6 @@ Je pense avoir préféré ce tome au premier et ce n'est pas peu dire. Véritabl
 
 
 > "Porte-Parole, releva Ouanda, vous avez à présent violé pratiquement toutes les règles de la méthode anthropologique.
-
 > -- Quelles sont celles qui m'ont échappé ?
-
 > -- La seule que je voie, c'est que vous n'avez encore tué personne."
 
