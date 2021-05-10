@@ -19,7 +19,7 @@ comments: true
 
 **Robert Louis Stevenson** - *L'Île au trésor*
 
-**Akira Yoshimura** - *Le Convoi de l'eau*
+**Akira Yoshimura** - [*Le Convoi de l'eau*](https://homeostasie.github.io/bouquins/Akira-Yoshimura_Le-convoi-de-l-eau/)
 
 **Marguerite Yourcenar** - *Mémoires d'Hadrien*
 
