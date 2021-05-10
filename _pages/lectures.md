@@ -100,7 +100,7 @@ comments: true
 
 **Doctor Who** - Justin Richards - *Apollo 23*
 
-**Harlan Ellison** - *Je n'ai pas de bouche et il faut que je crie.*
+**Harlan Ellison** - [*Je n'ai pas de bouche et il faut que je crie.*](https://homeostasie.github.io/bouquins/Harlan-Ellison_Je-n-ai-pas-de-bouche-et-il-faut-que-je-crie/)
 
 **Dimitri Gloukhovski** - *Metro 2033*
 
