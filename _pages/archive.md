@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /archive/
+permalink: /
 title: 
 ---
 
