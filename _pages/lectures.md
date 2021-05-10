@@ -225,7 +225,7 @@ comments: true
 * *Le sentiment du fer*
 
 **Jean-Philippe Jaworski** - *Rois du monde*
-* *Même pas mort*
+* [*Même pas mort*](https://homeostasie.github.io/bouquins/Jean-philippe-jaworski_meme-pas-mort/)
 
 **George R. R. Martin** - *Le Trône de Fer*
 
