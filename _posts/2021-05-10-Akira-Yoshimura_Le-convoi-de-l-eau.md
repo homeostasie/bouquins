@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Le convoi de l'eauAkira Yoshimura"
+title: "Le convoi de l'eau - Akira Yoshimura"
 categories: lectures
 comments: true
 ---
