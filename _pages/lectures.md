@@ -24,20 +24,20 @@ comments: true
 **Marguerite Yourcenar** - *Mémoires d'Hadrien*
 
 
-# Guerre
+### Guerre
 
-### WW1 
+#### WW1 
 
 **Erich Maria Remarque** - *À L’Ouest rien de nouveau*
 
-### WW2
+#### WW2
 
 **Kathrine Kressman Taylor** - *Inconnu à cette adresse*
 
 **Stefan Zweig** - [*Le Joueur d'échecs*](https://homeostasie.github.io/bouquins/Stefan-Zweig_joueur-echecs/)
 
 
-# Enquête / Polar
+### Enquête / Polar
 
 **Jake Adelstien** - *Tokyo Vice*
 
