@@ -122,7 +122,7 @@ comments: true
 
 **Paolo Bacigalupi** - *La Fille automate*
 
-**Philip K. Dick** - *Blade Runner*
+**Philip K. Dick** - [*Blade Runner*](https://homeostasie.github.io/bouquins/Philip-Kindred-Dick_blade-runner/)
 
 **Georges Alec Effinger** - *Marîd Audran*
 1. *Gravité à la manque*
@@ -197,7 +197,7 @@ comments: true
 
 ### Star Wars
 
-*Jedi fou* - **Timothy Zahn** - 
+[*Jedi fou*](https://homeostasie.github.io/bouquins/SW-Jedi-fou/) - **Timothy Zahn** - 
 1. *L'Héritier de l'Empire*
 2. *La Bataille des Jedi*
 3. *L'Ultime Commandement*
