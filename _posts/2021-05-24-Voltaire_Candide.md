@@ -5,7 +5,7 @@ categories: lectures
 comments: true
 ---
 
-![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/volaire/candide.jpg)
+![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/voltaire/candide.jpg)
 
 **Candide** est probablement l'un des romans les plus connus en France. Il est étudié chaque année par des générations d'élèves. J'avoue me rappeler l'avoir lu à l'école mais impossible d'être certain de l'année. Comme la plupart des romans lus quand j'étais élève, j'en gardais un assez mauvais souvenir. Il faut dire qu'en général, je ne conserve que peu de souvenir positif des mes cours de Français à l'époque.
 
