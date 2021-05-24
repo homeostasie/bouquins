@@ -204,7 +204,7 @@ comments: true
 2. *La Bataille des Jedi*
 3. *L'Ultime Commandement*
 
-*Solo* - **Ann C. Crispin**
+[*Solo*](https://homeostasie.github.io/bouquins/SW-Solo/) - **Ann C. Crispin**
 1. *Le Coup du paradis*
 2. *Le gambit du Hutt*
 3. *L'aube de la Rébellion*
