@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Candide ou l'optimisme - Voltaire"
+categories: lectures
+comments: true
+---
+
+![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/volaire/candide.jpg)
+
+**Candide** est probablement l'un des romans les plus connus en France. Il est étudié chaque année par des générations d'élèves. J'avoue me rappeler l'avoir lu à l'école mais impossible d'être certain de l'année. Comme la plupart des romans lus quand j'étais élève, j'en gardais un assez mauvais souvenir. Il faut dire qu'en général, je ne conserve que peu de souvenir positif des mes cours de Français à l'époque.
+
+Un peu poussé par mon collègue du CDI, j'ai tenté l'expérience 20 ans plus tard... et quelle claque. Le roman est très court. Les chapitres font à peine quelques pages. Chaque page est l'occasion de se moquer de l'église, du pouvoir, des scientifiques et des philosophe... L'humour est très présent. Il y a beaucoup de second degré. J'ai vraiment rigoler pendant la lecture. J'ai pris un plaisir fou à le lire.
