@@ -19,7 +19,7 @@ comments: true
 
 **Robert Louis Stevenson** - *L'Île au trésor*
 
-**Voltaire** - *Candide*
+**Voltaire** - [*Candide*](https://homeostasie.github.io/bouquins/Voltaire_Candide/)
 
 **Akira Yoshimura** - [*Le Convoi de l'eau*](https://homeostasie.github.io/bouquins/Akira-Yoshimura_Le-convoi-de-l-eau/)
 
