@@ -210,7 +210,8 @@ comments: true
 3. *L'aube de la Rébellion*
 
 *Chasseurs de prime* - **K.W. Jeter**
-1. L'armure Mandalorienne
+1. *L'armure Mandalorienne*
+2. *Le vaisseau Esclave*
 
 *X-Xings* 
 1. *L'escadron Rogue*
