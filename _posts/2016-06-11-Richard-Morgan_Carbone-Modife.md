@@ -32,8 +32,7 @@ Carbone modifié pourrait vraiment être un grosse tuerie mais malheureusement l
 Il reste de cette lecture beaucoup de plaisir avec une plume des plus agréables. Le suite est apparemment assez différente. Vivement ! En plus apparamment une adaptation est prévu sous forme de série par Netflix.
 
 > "Oumou Prescott s'est penchée vers moi.
-
 > -- M. Bancroft a eu affaire à la police, ce matin, a-t-elle murmuré. Vous êtes moins subtil que nous l'espérions.
-
 > -- Je suis juste en train de m'échauffer."
+
 ![milady](/https://github.com/homeostasie/bouquins/raw/master/_pics/lv/morgan_richard/cm-4.png)
