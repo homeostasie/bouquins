@@ -176,7 +176,7 @@ comments: true
 
 **Frank M. Robinson** - *Destination ténèbres*
 
-**John Scalzi** - *Redshirts - Au mépris du danger*
+**John Scalzi** - [*Redshirts - Au mépris du danger*](https://homeostasie.github.io/bouquins/John-Scalzi_Redshirts/)
 
 **John Scalzi** - *Le viel homme et la guerre*
 1. *Le viel homme et la guerre*
