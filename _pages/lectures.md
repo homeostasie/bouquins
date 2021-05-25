@@ -134,7 +134,7 @@ comments: true
 **William Gibson** - *Neuromancien*
 
 **Richard Morgan**
-1. *Carbone modifié*
+1. [*Carbone modifié*](https://homeostasie.github.io/bouquins/Richard-Morgan_Carbone-Modife/)
 2. *Anges déchus*
 
 ### Uchronie
@@ -253,7 +253,7 @@ comments: true
 
 **J.R.R. Tolkien** - *Les Enfants de Húrin*
 
-**J.R.R. Tolkien** - *Le Seigneur des Anneaux*
+**J.R.R. Tolkien** - [*Le Seigneur des Anneaux*](https://homeostasie.github.io/bouquins/J.R.R.-Tolkien_Le-Seigneur-des-anneaux/)
 1. *La communauté de l'anneau*
 2. *Les deux tours*
 3. *Le retour du roi*
