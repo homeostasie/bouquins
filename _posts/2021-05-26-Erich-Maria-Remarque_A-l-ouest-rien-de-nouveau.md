@@ -1,14 +1,20 @@
 ---
 layout: post
-title: "Candide ou l'optimisme - Voltaire"
+title: "À L’Ouest rien de nouveau - Erich Maria Remarque "
 categories: lectures
 comments: true
 ---
 
-![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/voltaire/candide.jpg)
+![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/remarque_erich-maria/ouest-1.jpg)
 
-**Candide** est probablement l'un des romans les plus connus en France. Il est étudié chaque année par des générations d'élèves. Je me rappelle l'avoir lu à l'école mais impossible d'être certain de l'année. Comme la plupart des romans lus quand j'étais élève, j'en garde un souvenir peu flatteur... tout comme plus globalement du Français durant mon cursus scolaire.
+Ces dernières années 2021 sont marquées par des lectures beaucoup plus classiques. Beaucoup de coup de cœur : La supplication, Mémoire d'Hadrien pour finalement assez peu d'ennui : Crime et Châtiment. Ici, j'ai eu envie de m'attaquer à un roman sur la guerre. En particulier la première guerre mondiale. 
 
->  Les canons renversèrent d’abord à peu près six mille hommes de chaque côté ; ensuite la mousqueterie ôta du meilleur des mondes environ neuf à dix mille coquins qui en infectaient la surface. La baïonnette fut aussi la raison suffisante de la mort de quelques milliers d’hommes.
+**À L’Ouest rien de nouveau** est le récit d'un petit groupe de potes de classe et qui sur motivation du professeur va s'engager dans l'armée impériale allemande. On n'est donc du côté Allemand mais le roman est assez simple à transposer et se veut assez universel. Wikipédia me dit même que l'auteur a été chassé de l'allemagne lors de la montée du nazisme dans les années 1930. On va suivre principalement Paul pendant ses classes, les tranchées, ses perm et suivre ses états d'âme avec le froid, la faimn ses copains, sa désillusion et sa compréhension de la guerre et des champs de bataille.
 
-Un peu poussé par mon collègue du CDI, j'ai tenté l'expérience 20 ans plus tard... et quelle claque. Le roman est très court. Les chapitres font à peine quelques pages. Chaque page, chaque phrase sont l'occasion de se moquer de l'église, du pouvoir, des scientifiques et des philosophes... L'humour est très présent. Il y a beaucoup de second degré. J'ai vraiment rigoler pendant la lecture. J'ai pris un plaisir fou à le lire. Je comprends maintenant le surnom l'irrévérencieux. Mais comment Voltaire a réussi à ne pas se faire buter ?
+Chose assez rare, la lecture de ce livre m'a fait un petit flashback sur une scène que je me suis rappelé avoir étudié à l'école. Au début du roman, un des leurs est entrain de vivre ses derniers instants et tous les personnages, même le mourant ne sont préoccupés que par les bottes de ce dernier. La lecture dans son ensemble a été assez intense même si le roman est fluide et facile d'accès. Il n'est ni morbide ni malsain. On suit vraiment notre personnage qui était trop jeune pour s'engager et nous raconte son quotidien. On arrive tout de même à sourire quand il font des conneries avec Kat. 
+
+Une très belle lecture. Hautement recommandé. *(à condition d'être bien luné tout de même)*
+
+> Il y a quelques mois, j'étais assis dans un abri et je jouais aux cartes ; au bout d'un instant, je me lève et je vais voir des connaissances dans un autre abri. Lorsque je revins, il ne restait plus une miette du premier ; il avait été écrabouillé par une marmite. Je retournai vers le second abri et j'arrivai juste à temps pour aider à le dégager, car il venait d'être détruit à son tour.
+
+![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/remarque_erich-maria/ouest-2.jpg)
