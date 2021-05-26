@@ -1,14 +1,20 @@
 ---
 layout: post
-title: "Le Joueur d'échecs - Stefan Zweig"
+title: "À L’Ouest rien de nouveau - Erich Maria Remarque "
 categories: lectures
 comments: true
 ---
 
-![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/zweig_stefan/joueur-echecs.jpg)
+![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/remarque_erich-maria/ouest-1.jpg)
 
-J'ai vraiment du mal à me motiver à écrire sur ce blog ces derniers temps... Pour autant mon rythme de lecture n'a jamais été aussi bon. J'ai une petite envie de classique en ce moment et après avoir écumer les listes de sens critique, je me suis forgé une solide pal. Pour entamer ce travail, j'ai pré-sélectionné des petits bouquins. J'ai commencé avec celui-là : **Le joueur d'échecs** de *Stefan Zweig*.
+Ces dernières années 2021 sont marquées par des lectures beaucoup plus classiques. Beaucoup de coup de cœur : La supplication, Mémoire d'Hadrien pour finalement assez peu d'ennui : Crime et Châtiment. Ici, j'ai eu envie de m'attaquer à un roman sur la guerre. En particulier la première guerre mondiale. 
 
-Le joueur d'échecs est un petit roman (une centaine de pages) assez simple. On embarque sur un paquebot, le narrateur un péquin moyen et totalement anodin remarque le champion du monde d'échecs qui est un personnage atypique. Il nous raconte d'abord l'ascension de ce génie des échecs. Aidé par une grande gueule, ils vont essayer de défier le maître. Alors qu'ils prennent une rouste, il trouve de l'aide de la part d'un inconnu qui prétend ne pas avoir joué au échecs depuis un sacré bout de temps. Ils arrivent alors à motiver le champion à jouer contre eux sérieusement.
+**À L’Ouest rien de nouveau** est le récit d'un petit groupe de potes de classe et qui sur motivation du professeur va s'engager dans l'armée impériale allemande. On n'est donc du côté Allemand mais le roman est assez simple à transposer et se veut assez universel. Wikipédia me dit même que l'auteur a été chassé de l'allemagne lors de la montée du nazisme dans les années 1930. On va suivre principalement Paul pendant ses classes, les tranchées, ses perm et suivre ses états d'âme avec le froid, la faimn ses copains, sa désillusion et sa compréhension de la guerre et des champs de bataille.
 
-Le roman est assez simple dans sa présentation. La partie vraiment marquante est celle où cet inconnu nous explique comment il a appris à jouer aux échecs. La fin est assez splendide également.
+Chose assez rare, la lecture de ce livre m'a fait un petit flashback sur une scène que je me suis rappelé avoir étudié à l'école. Au début du roman, un des leurs est entrain de vivre ses derniers instants et tous les personnages, même le mourant ne sont préoccupés que par les bottes de ce dernier. La lecture dans son ensemble a été assez intense même si le roman est fluide et facile d'accès. Il n'est ni morbide ni malsain. On suit vraiment notre personnage qui était trop jeune pour s'engager et nous raconte son quotidien. On arrive tout de même à sourire quand il font des conneries avec Kat. 
+
+Une très belle lecture. Hautement recommandé. *(à condition d'être bien luné tout de même)*
+
+> Il y a quelques mois, j'étais assis dans un abri et je jouais aux cartes ; au bout d'un instant, je me lève et je vais voir des connaissances dans un autre abri. Lorsque je revins, il ne restait plus une miette du premier ; il avait été écrabouillé par une marmite. Je retournai vers le second abri et j'arrivai juste à temps pour aider à le dégager, car il venait d'être détruit à son tour.
+
+![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/remarque_erich-maria/ouest-2.jpg)
