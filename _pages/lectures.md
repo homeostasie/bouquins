@@ -30,7 +30,7 @@ comments: true
 
 #### WW1 
 
-**Erich Maria Remarque** - *À L’Ouest rien de nouveau*
+**Erich Maria Remarque** - [*À L’Ouest rien de nouveau*](https://homeostasie.github.io/bouquins/Erich-Maria-Remarque_A-l-ouest-rien-de-nouveau/)
 
 #### WW2
 
