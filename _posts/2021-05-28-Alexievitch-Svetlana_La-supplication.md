@@ -4,7 +4,7 @@ title: "La supplication - Svetlana Alexievitch"
 categories: lectures
 comments: true
 ---
- - 
+  
 ![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/alexievitch_svetlana/supplication-1.jpg)
 
 Un point de départ anodin, je suis né en 1986 date de la catastrophe. J'ai beaucoup aimé les jeux vidéo Stalker, j'ai vraiment accroché à la série netflix **Chernobyl** et un peu par hasard, j'ai découvert que **La supplication** est au programme de 2020 / 2021 de sup en prépa maths. Du coup, je me suis lancé.
