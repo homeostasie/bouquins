@@ -7,7 +7,7 @@ comments: true
 
 # 1. Classique
 
-**Svetlana Alexievitch** - *La supplication*
+**Svetlana Alexievitch** - [*La supplication*](https://homeostasie.github.io/bouquins/Alexievitch-Svetlana_La-supplication/)
 
 **Albert Camus** - *L'Étranger*
 
