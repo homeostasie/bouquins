@@ -110,7 +110,7 @@ comments: true
 
 **Philip Kindred Kick**
 
-* *Nouvelles - Tome 2* - Partie 1 & 2
+* [*Nouvelles - Tome 2*](https://homeostasie.github.io/bouquins/Philip-Kindred-Dick_Nouvelles/) - Partie 1 & 2
 * *Siva*
 * *Substance Mort*
 * *Ubik*
