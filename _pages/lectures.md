@@ -188,13 +188,13 @@ comments: true
 
 **Kim Stanley Robinson** - *Trilogie Martienne*
 1. *Mars la rouge*
-2. *Mars la verte*
-3. *Mars la bleue*
+2. [*Mars la verte*](https://homeostasie.github.io/bouquins/Kim-Stanley-Robinson_Mars-verte-bleue/)
+3. [*Mars la bleue*](https://homeostasie.github.io/bouquins/Kim-Stanley-Robinson_Mars-verte-bleue/)
 
 **Peter Watts** - *Les rifteurs*
 1. *Starfish*
 
-**Andy Weir** - *Seul sur Mars*
+**Andy Weir** - [*Seul sur Mars*](https://homeostasie.github.io/bouquins/Andy-Weir_Seul-sur-Mars/)
 
 
 ### Star Wars
