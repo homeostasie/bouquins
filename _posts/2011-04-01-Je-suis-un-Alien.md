@@ -6,7 +6,6 @@ comments: true
 ---
 
 
-> [![le logo google][logo]][google]
 [![pics](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2011/hort.jpg)](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2011/hor.jpg)
 
 > Et vous ?
