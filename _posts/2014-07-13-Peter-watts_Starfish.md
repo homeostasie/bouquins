@@ -15,11 +15,11 @@ comments: true
 
 D'un autre côté, **Starfish** m'a un peu laissé sur ma faim sur un point. Tout est tellement parfait dans ce **huis clos**. Oppressant de part son emplacement ancrée dans un fond abyssal, paysage attirant et repoussant au possible. Les personnages peuvent tous péter un câble facilement et devenir de vrais psychopathes... Mais, car il y a un mais pour moi, j'ai trouvé que *ça manquait un peu de burne*, ça manque de mort, on a envie de voir la situation se dégrader. J'ai envie d'avoir un vrai thriller. *L'horrifique est là, mais pas l'horreur*.
 
-> ![jv](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/beebe.jpg)
+> ![jv](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/watts_peter/beebe.jpg)
 
 À la fin de lecture, j'étais vraiment déçu, mais avec une petite semaine de recul et un petit coup de frais dans la tête, je suis bien moins négatif sur le roman. Malgré la très grande ressemblance que j'ai pu lui trouver avec le **Volcryn** de George R.R. Martin, **Starfish** est un roman de **hard-sf**. Il peut difficilement rentrer dans la case des romans divertissants. **C'est engagé, engageant** mais tout n'est pas offert au lecteur et en l’occurrence pour moi c'est un peu comme un ballon qu'on gonfle, qu'on gonfle et qui devient tellement gros que le seul truc qu'on attend est l'explosion... et malheureusement, je l'attends encore. Peut-être dans les prochains tomes...
 
-> ![jv](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/poisson.jpg)
+> ![jv](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/watts_peter/poisson.jpg)
 
 > Petit conseil à la limite du ps : Les amateurs de fonds marin devrait tenter le jeu vidéo [Aquaria](http://www.bit-blot.com/aquaria/).
 Source pour les images : Wikipédia et http://nature.ca.
