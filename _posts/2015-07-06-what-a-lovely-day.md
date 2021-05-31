@@ -13,7 +13,7 @@ J'ai enfin repris l'écriture avec la parution de nouveaux billets et la re-publ
 
 ### 1 - Summer Star Wars 3
 
-> [![ssw-3](/images/blog/15/06/20/ssw-3.jpg)](http://rsfblog.fr/2015/05/27/summer-star-wars-episode-iii/)
+> [![ssw-3](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2015/ssw-3.jpg)](http://rsfblog.fr/2015/05/27/summer-star-wars-episode-iii/)
 
 *Je vais essayer de dépasser les trois billets.*
 
