@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: post
 title: "L'informatique au sein de l'EN dès 2016"
-date: 2016-01-06 23:00:00
-published: 2016-01-06 23:00:00
 categories: blog
 tags: [blog, prof]
 comments: true
