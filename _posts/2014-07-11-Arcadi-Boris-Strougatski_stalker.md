@@ -5,9 +5,9 @@ categories: lectures
 comments: true
 ---
 
-La série **STALKER** fait parti de ce qu'un FPS solo peut donner de meilleurs. J'ai littéralement adoré cette série à la fois très exigeante dans les affrontements tout en nous offrant une grande liberté d'exploration de cette zone de de Tchernobyl peuplée de monstres et d'anomalies. Elle propose de rares jeu où le monde continue de tourner sans nous, nous ne somme pas au centre de ce dernier, **nous ne sommes qu'un écrou au milieu d'une épave de hind**. Le fait d'apprendre récemment que le studio avait fermé et que par conséquent **Stalker 2** ne verrait jamais le jour m'a mis un petit coup au moral, j'ai donc décidé de me pencher vers le livre. 
+![jv](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/strougatski_arcadi-boris/stalker_jv_th.jpg)
 
-> ![jv](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/strougatski_arcadi-boris/stalker_jv_th.jpg)
+La série **STALKER** fait parti de ce qu'un FPS solo peut donner de meilleurs. J'ai littéralement adoré cette série à la fois très exigeante dans les affrontements tout en nous offrant une grande liberté d'exploration de cette zone de de Tchernobyl peuplée de monstres et d'anomalies. Elle propose de rares jeu où le monde continue de tourner sans nous, nous ne somme pas au centre de ce dernier, **nous ne sommes qu'un écrou au milieu d'une épave de hind**. Le fait d'apprendre récemment que le studio avait fermé et que par conséquent **Stalker 2** ne verrait jamais le jour m'a mis un petit coup au moral, j'ai donc décidé de me pencher vers le livre. 
 
 **Une fois n'est pas coutume, je vais commencer par la fin : J'ai adoré**.
 

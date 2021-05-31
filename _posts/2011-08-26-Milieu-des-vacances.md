@@ -5,7 +5,6 @@ categories: blog
 comments: true
 ---
 
-
 Et si je faisais un vrai billet bien bordélique où on retrouve de tout. Ouais, bonne idée.
 
 ### Activité

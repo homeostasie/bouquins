@@ -5,6 +5,8 @@ categories: lectures
 comments: true
 ---
 
+![FolioSF](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/dick_philip-kindred/sm-1.jpg) 
+
 À la lecture de *Substance Mort*, on se retrouve lâcher le quotidien impitoyable d'un petit groupe de toxicomanes totalement timbrés. On comprend vite qu'il ne fait pas croire tout ce qui nous est raconté tant le narrateur lui-même divague, hallucine et psychote en enquillant des doses de cheval de cette nouvelle drogue aux effets dévastateurs qui fait un malheur chez les camés, la *Substance Mort*.
 
 Rien que la première scène met tout de suite dans l'ambiance avec **Jerry** complètement cramé qui se croit envahit de toute part par une espèce de poux, les aphides. Tout en essayant de les éradiqués, il ne fait qu'empirer la situation en infectant son chien et toutes les personnes qui le côtoient... Mais bon, nulle autre personne que lui ne semble pouvoir les observer...
@@ -17,7 +19,7 @@ Rien que la première scène met tout de suite dans l'ambiance avec **Jerry** co
 
 > Jerry (page 10)
 
-> ![FolioSF](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/dick_philip-kindred/sm-1.jpg) ![Présence du Futur](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/dick_philip-kindred/sm-2.jpg)
+![Présence du Futur](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/dick_philip-kindred/sm-2.jpg)
 
 Après cette entrée fracassante dans ce monde de la drogue, on croit, on espère se sortir de cette torpeur en suivant **Fred**, héros malgré lui de ce roman. **Fred** travaille au stup dans son complet brouillé, sorte de combinaison camouflante qui lui donne l'aspect d'une multitude changeante de personnages. Il a infiltré cette fine équipe dans son costume en tant que **Fred** mais également en tant que **Bob Arctor**, camé à la petite semaine possédant une baraque, à la limite du squat qu'il utilise avec ses qu'amis. Le tout va vraiment partir en couille quand il va devoir enquêter sur **Bob**, soupçonné d'être une grosse ponte du coin. Ce n'est pas ses colloques **Charles Freck**, **Luckman** et **Jim Barris** également atteint et dépend de la *Substance Mort* où sa copine **Donna**, dealer choc, qui vont réussir à démêler ses réalités.
 
