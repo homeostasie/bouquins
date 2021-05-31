@@ -61,7 +61,7 @@ comments: true
 
 **Hugh Laurie** - *Tout est sous contrôle*
 
-**China Miéville** - *The City and the City*
+**China Miéville** - [*The City and the City*](https://homeostasie.github.io/bouquins/China-Mieville_The-City-and-the-City/)
 
 
 # 2. Science Fiction
@@ -85,8 +85,8 @@ comments: true
 7. *Harry Potter et les Reliques de la Mort*
 
 **Lucius Shepard**
-* *Lousiana Breakdown*
-* *Sous les cieux étrangers*
+* [*Lousiana Breakdown*](https://homeostasie.github.io/bouquins/Lucius-Shepard_louisiana-breakdown/)
+* [*Sous les cieux étrangers*](https://homeostasie.github.io/bouquins/Lucius-Shepard_sous-les-cieux-etrangers/)
 
 **Dan Simmons** - [*Terreur*](https://homeostasie.github.io/bouquins/Dan-Simmons_terreur/)
 
@@ -104,7 +104,7 @@ comments: true
 
 **Harlan Ellison** - [*Je n'ai pas de bouche et il faut que je crie.*](https://homeostasie.github.io/bouquins/Harlan-Ellison_Je-n-ai-pas-de-bouche-et-il-faut-que-je-crie/)
 
-**Dimitri Gloukhovski** - *Metro 2033*
+**Dimitri Gloukhovski** - [*Metro 2033*](https://homeostasie.github.io/bouquins/Dmitri-glukhovski_metro-2033/)
 
 **Daniel Keyes** - *Des fleurs pour Algernon*
 
@@ -112,22 +112,22 @@ comments: true
 
 * [*Nouvelles - Tome 2*](https://homeostasie.github.io/bouquins/Philip-Kindred-Dick_Nouvelles/) - Partie 1 & 2
 * *Siva*
-* *Substance Mort*
+* [*Substance Mort*](https://homeostasie.github.io/bouquins/Philip-Kindred-Dick_substance-mort/)
 * *Ubik*
 
 **George Orwell** - *1984*
 
-**Arcadi et Boris Strougatski** - *Stalker*
+**Arcadi et Boris Strougatski** - [*Stalker*](https://homeostasie.github.io/bouquins/Arcadi-Boris-Strougatski_stalker/)
 
 
 ### Cyberpunk
 
-**Paolo Bacigalupi** - *La Fille automate*
+**Paolo Bacigalupi** - [*La Fille automate*](https://homeostasie.github.io/bouquins/Paolo-Bacigalupi_La-fille-automate/)
 
 **Philip K. Dick** - [*Blade Runner*](https://homeostasie.github.io/bouquins/Philip-Kindred-Dick_blade-runner/)
 
 **Georges Alec Effinger** - *Marîd Audran*
-1. *Gravité à la manque*
+1. [*Gravité à la manque*](https://homeostasie.github.io/bouquins/George-Alec-Effinger_Gravite-a-la-manque/)
 2. *Privé de désert*
 3. *Le talion du Cheikh*
 
@@ -139,7 +139,7 @@ comments: true
 
 ### Uchronie
 
-**Stéphane Beauverger** - *Le Déchronologue*
+**Stéphane Beauverger** - [*Le Déchronologue*](https://homeostasie.github.io/bouquins/Stephane-beauverger_dechronologue/)
 
 
 ### Space Opera
@@ -155,13 +155,13 @@ comments: true
 1. T1 - Nouvelles
 
 **Orson Scott Card** - *Le cycle d'Ender*
-1. *La Stratégie Ender*
+1. [*La Stratégie Ender*](https://homeostasie.github.io/bouquins/Orson-Scott-Card_la-strategie-ender/)
 2. [*La voix des morts*](https://homeostasie.github.io/bouquins/Orson-Scott-Card_La-voix-des-morts/)
 
 **James S. A. Corey** - *The expanse*
 1. *L'Éveil du Léviathan*
 
-**Frank Herbert** - *Dune*
+**Frank Herbert** - [*Dune*](https://homeostasie.github.io/bouquins/Franck-herbert_dune/)
 1. *Dune*
 2. *Le messie de Dune*
 3. *Les enfants du Dune*
@@ -169,7 +169,7 @@ comments: true
 5. *Les hérétiques de Dune*
 6. *La maison des mères*
 
-**George R. R. Martin** - *Le Volcryn*
+**George R. R. Martin** - [*Le Volcryn*](https://homeostasie.github.io/bouquins/George-R.-R.-Martin_volcryn/)
 
 **Alastair Reynolds** - *Cycle des Inhibiteurs*
 * *Diamond Dogs*, *Turquoise Days*
@@ -184,15 +184,15 @@ comments: true
 
 ### Hard Science
 
-**Poul Anderson** - *Tau Zéro*
+**Poul Anderson** - [*Tau Zéro*](https://homeostasie.github.io/bouquins/Poul-Anderson_Tau-Zero/)
 
 **Kim Stanley Robinson** - *Trilogie Martienne*
-1. *Mars la rouge*
+1. [*Mars la rouge*](https://homeostasie.github.io/bouquins/Kim-Stanley-Robinson_mars-la-rouge/)
 2. [*Mars la verte*](https://homeostasie.github.io/bouquins/Kim-Stanley-Robinson_Mars-verte-bleue/)
 3. [*Mars la bleue*](https://homeostasie.github.io/bouquins/Kim-Stanley-Robinson_Mars-verte-bleue/)
 
 **Peter Watts** - *Les rifteurs*
-1. *Starfish*
+1. [*Starfish*](https://homeostasie.github.io/bouquins/Peter-watts_Starfish/)
 
 **Andy Weir** - [*Seul sur Mars*](https://homeostasie.github.io/bouquins/Andy-Weir_Seul-sur-Mars/)
 
@@ -224,7 +224,7 @@ comments: true
 
 **Jean-Philippe Jaworski** - *Vieux Royaume*
 * *Gagner la guerre*
-* *Janua Vera*
+* [*Janua Vera*](https://homeostasie.github.io/bouquins/Jean-philippe-jaworski_janua-vera/)
 * *Le sentiment du fer*
 
 **Jean-Philippe Jaworski** - *Rois du monde*
