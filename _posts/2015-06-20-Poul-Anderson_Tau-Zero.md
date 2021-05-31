@@ -5,11 +5,11 @@ categories: lectures
 comments: true
 ---
 
+![Le belial](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/anderson_poul/tau-zero.jpeg)
+
 > La Voie lactée barrait le ciel d'une traînée de glace et d'argent ; Les nuages de Magellan n'étaient plus des spectres flous mais des bouquets de braises ;
 
 **Tau Zéro** est un roman assez court, moins de 300 pages. Le récit est intense avec un rythme bien soutenu. Le temps est d'ailleurs au cœur de ce voyage à travers le cosmos. Cinquante personnes parmi les plus brillantes de leur domaine sont à la recherche d'une nouvelle Terre afin d'aider à l'établissement d'une nouvelle colonie. On suit cette épopée dans l'espace à travers les yeux de bons nombres de ces personnages et des relations humaines qui surviennent lorsqu'on enferme des personnes dans un espace clos.
-
-> ![Le belial](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/anderson_poul/tau-zero.jpeg)
 
 On suit principalement **Charles Reymond**. Il représente l'autorité et l'ordre sur le vaisseau. Très vite, il sera surnommée le gendarme. C'est un personnage controversé mais particulièrement actif.
 

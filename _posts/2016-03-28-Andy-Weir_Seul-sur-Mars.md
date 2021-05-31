@@ -7,7 +7,6 @@ comments: true
 
 ![livre](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/weir_andy/ssm-livre.jpg)
 
-
 Moment détente après plusieurs pavés, **Seul sur Mars** d'Andy Weir est un petit bouquin de 400 pages à la cool.
 
 > Journal de bord : Sol 6.

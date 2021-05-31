@@ -5,6 +5,8 @@ categories: lectures
 comments: true
 ---
 
+![Denoël](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/dick_philip-kindred/nvl-2-1.jpg) 
+
 Je suis assez fier, j'ai fini un gros pavé qui traînait sur ma commode depuis pas mal de temps.
 
 Il y a eu 2 ans entre la première et la dernière ligne de ce recueil. Pour autant en quantifiant plus précisément cette lecture s'est étalée sur 4 mois avec 1 mois par par quart de bouquin.
@@ -12,8 +14,6 @@ Il y a eu 2 ans entre la première et la dernière ligne de ce recueil. Pour aut
 Le nombre de nouvelles est assez impressionnant **57** pour un peu moins de **1400** pages si on compte les préfaces. Chaque nouvelle peut prendre de quelques pages à plusieurs dizaines de pages. On retrouve ces nouvelles mélangées dans pas mal d'autres bouquins au format poche. Certaines entretiennent une cohérence entre elles par rapport à l'univers mais cela reste finalement assez rare. Le livre est doté d'une très belle couverture. Il est malheureusement maintenant hors de prix et le premier tome souffre du même problème avec un prix d'appel à 230€...
 
 Il m'est impossible de parler de toutes ces nouvelles pour un paquet de raison. Du coup, petit florilège de celles qui m'ont marquées.
-
-![Denoël](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/dick_philip-kindred/nvl-2-1.jpg) 
 
 > Avec l'aide de vos mutants précogs, vous avez audacieusement et efficacement aboli le système punitif post-crime fondé sur l'emprisonnement et l'amende. Comme nous le savons tous, la perspective du châtiment n'a jamais été très dissuasive ; quant aux victimes, une fois mortes elles n'en retiraient guère de réconfort. (Rapport minoritaire)
 

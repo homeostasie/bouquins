@@ -5,11 +5,13 @@ categories: lectures
 comments: true
 ---
 
+![broché](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/jaworski_jean-philippe/janua-vera-1.jpg) 
+
 > Écrire, c'est se coller dans des situations fausses. C'est même carrément se mettre dans le pétrin. - *Don Benvenuto Gesufal - Avertissement au Lecteur*
 
 Pour faire dans *l'original*, je vais parler brièvement des dix nouvelles séparément. Pour situer le contexte global, on suit des histoires se déroulant dans **Le vieux royaume**. On parcours un monde féodale à travers des âges, des régions et des personnages différents. 
 
-> ![broché](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/jaworski_jean-philippe/janua-vera-1.jpg) ![poche](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/janua-vera-2.jpg) 
+![poche](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/janua-vera-2.jpg) 
 
 ## Janua Vera - an 29 du comput royal
 

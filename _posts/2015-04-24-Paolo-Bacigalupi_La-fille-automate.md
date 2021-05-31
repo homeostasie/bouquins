@@ -5,6 +5,8 @@ categories: lectures
 comments: true
 ---
 
+![Au diable vert](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/bacigalupi_paolo/la-fille-automate.jpeg) 
+
 > Emiko sirote du whisky, espère être saoule et attend le signal de Kannika pour son humiliation.
 
 **La fille automate** est roman qui aborde une multitude de thèmes. De grandes multinationales tentent d'influencer et de commercer de manière illégale avec la **Thailand**. La Thailand est un pays particulièrement ferme sur sa politique d'importation qui ne souhaite pas voir réapparaître la rouille vésiculeuse et tente de protéger la richesse de ses semences.
@@ -31,5 +33,5 @@ Kanya hausse les épaules.
 -- Comme les chiens sur une carcasse dit-elle.
 (page 96)
 
-> ![Au diable vert](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/bacigalupi_paolo/la-fille-automate.jpeg) ![Poche](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/bacigalupi_paolo/la-fille-automate-poche.jpeg)
+![Poche](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/bacigalupi_paolo/la-fille-automate-poche.jpeg)
 

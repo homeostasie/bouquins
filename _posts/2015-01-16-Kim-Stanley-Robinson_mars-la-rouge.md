@@ -5,6 +5,8 @@ categories: lectures
 comments: true
 ---
 
+![La couverture de PRESSES DE LA CITÉ](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/robinson_kim-stanley/mr-1.jpg) 
+
 > "Mars poursuivit John, est un monde sublime, exotique et dangereux. Là, il voulait dire : une sphère glacée de roches oxydées qui dégageaient un taux de quinze rems par an."
 
 **Mars la rouge** est le premier tome de la trilogie Martienne de **Kim Stanley Robinson**. KSR propose d'étudier la *colonisation de Mars* avec une approche scientifique propre au monde de la **hard-sf**. Le point de départ étant la phase de recrutement sur Terre d'un groupe de 100 personnes à-même d'embarqué pour l'aventure : **les 100 premiers**. Quelques personnages serviront de point de repère tout le long du récit :
@@ -15,7 +17,7 @@ comments: true
 * Nadia ; la débrouillarde touche à tout quand il s'agit de réparer et installer des bricolages de grande qualité.
 * Arkady l'expert simulation de vol.
 
-> ![La couverture de PRESSES DE LA CITÉ](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/robinson_kim-stanley/mr-1.jpg) ![Random House](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/robinson_kim-stanley/mr-2.jpg) ![La couverture poche](/https://github.com/homeostasie/bouquins/raw/master/_pics/lv/robinson_kim-stanley/mr-3.jpg)
+![Random House](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/robinson_kim-stanley/mr-2.jpg) ![La couverture poche](/https://github.com/homeostasie/bouquins/raw/master/_pics/lv/robinson_kim-stanley/mr-3.jpg)
 
 Pour une fois, je vais m'y prendre différemment pour parler de ce bouquin. Je vais commencer par mettre en avant *certains défauts* à la limite du rebutant. 
 

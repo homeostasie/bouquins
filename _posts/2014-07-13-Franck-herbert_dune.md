@@ -5,6 +5,8 @@ categories: lectures
 comments: true
 ---
 
+![Tome 1](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/herbert_frank/dune-1.jpg) 
+
 **Dune** de Frank Herbert est sans doute le cycle de science fiction le plus connu. Il est composé de 6 tomes pouvant être regroupé deux par deux :
 	
 1. Dune
@@ -18,7 +20,7 @@ Il est poursuit postmortem par le fiston par un grand nombre de romans que je n'
 
 Je ne vous parlerai que de l'histoire du premier par peur de vous spoiler - *comprendre par flemme*. On suit une maison très noble, la maison des **Atréides** envoyée sur une planète hostile **Dune**. Unique source de l'épice, richesse ultime de l'univers, **Dune** est un cadeau empoissonné de part son climat d'une aridité extrême et de la difficulté d'extraire l'épices de ses déserts, déserts peuplés de verres des sables extrêmement dangereux et d'une tribu de Fremen bien réfractaire au pouvoir. On s'attachera plus particulièrement à **Paul Atréides**, fils du **Duc Leto Atréides** et de l'ex Bene Gesserit **Dame Jessica**. Paul est un gamin exceptionnel a qui va arriver des expériences extraordinaires dans ce monde qu'il ne connaît pas.
 
-> ![Tome 1](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/herbert_frank/dune-1.jpg) ![Tome 2](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/herbert_frank/dune-2.jpg)
+![Tome 2](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/herbert_frank/dune-2.jpg)
 
 Voilà, un bref résumé bien incomplet pour introduire ce cycle. Je vais essayer de me concentrer sur mon expérience face à cette lecture en commençant par ses qualités. **Dune** est un livre univers, on plonge littéralement dans ce mélange de féodalité et de space opéra avec un empereur qui décide de l'affectation de ses seigneurs sur ses terres en fonction de ses inimités. On tombe également très vite sous le charme de cette planète : **Dune** à la fois forte et fragile. Mais surtout, on s'attache à la maison Atréides et à leurs amis qui représente l'honnêteté, le courage, l'honneur, le don de soi...
 

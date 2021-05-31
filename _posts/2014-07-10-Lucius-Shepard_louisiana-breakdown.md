@@ -5,9 +5,11 @@ categories: lectures
 comments: true
 ---
 
+![poche](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/shepard-lucius/lb-1.jpg) 
+
 **Jack Mustaine** est paumé, paumé au beau milieu de cette ville de Graal en plein cœur de la **Louisiane** mais également paumé dans sa vie qu'il tente de fuir à travers cette traversé du pays. Lorsqu'il tombe en panne avec ses guitares et sa BMW, il reconnaît très vite les signes avant coureur des emmerdes qui arrivent à grand pas. Heureusement, les emmerdes, il connaît et les gère même pas trop mal. À l'autre bout de la ville, on va suivre le parcours de **Vida**. Icône de la ville en étant la reine du Solstice et semi-foutraque, Vida ne connaît que trop bien cette ville, ses habitants et ses coutumes au point de ne réussir à s'en échapper. Avec la rencontre de ces deux personnages, tout va éclater.
 
-> ![poche](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/shepard-lucius/lb-1.jpg) ![broche](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/shepard-lucius/lb-2.jpg)
+![broche](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/shepard-lucius/lb-2.jpg)
 
 Comme souvent avec *Lucius Shepard*, on est plus dans la sensation que dans la description. On comprend cependant très vite où on atterri. Ça suinte la misère et l'humidité du bayou, on nage dans un mélange de mysticisme et de folie avec une tension musico-sexuelle transpirante page après page. Pour autant, nul jugement ici avec le personnage de **Mustaine** qui subit et accepte, plus qu'il n'analyse. On ressort de ce format court qui est sans doute l'un de mes formats préférés totalement envoûté.
 

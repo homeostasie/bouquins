@@ -5,12 +5,12 @@ categories: lectures
 comments: true
 ---
 
+![Tor Books](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/card_orson-scott/sender-1.jpg) 
 
 > J'ai vu à travers ses yeux, j'ai entendu à travers ses oreilles, et je vous assure que c'est le bon. - Première ligne
 
 La Terre est sous la menace constante d'une troisième guerre contre les **Dorymorphes**. Cette espèce vivante et pensante de l'univers a presque réussi à mettre en déroute toute la flotte humaine lors de la seconde guerre. Heureusement, **Mazer Rackham**, brillant stratège est intervenu à temps pour annihiler toute la flotte adverse alors en supériorité numérique. Dès lors, un programme militaire visant à sélectionner les enfants dès leur naissance a été mis en place. **Andrew Wiggins** appelé également Ender est le *troisième* enfant de sa famille et se trouve être un candidat idéal selon les instances décisionnelles de la F.I. - la Flotte Internationale. Il est moins méchant que son frère **Peter**, tout en étant moins sensible que sa sœur **Valentine**. Il n'a que 6 ans quand il intègre l'école militaire dans l'espoir de devenir le prochain sauveur de l'humanité.
 
-![Tor Books](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/card_orson-scott/sender-1.jpg) 
 ![Poche](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/card_orson-scott/sender-2.jpg) 
 
 J'ai vraiment apprévié cette lecture. Relativement court dans le genre avec ses 380 pages, on a l'impression de vivre à toute allure au côté **d'Ender**. À cause de sa grande responsabilité, il n'a *pas le droit d'être un enfant*. Sa vie n'est pas drôles au vu de la méchanceté et la manipulation des adultes pour arriver à leur fin.

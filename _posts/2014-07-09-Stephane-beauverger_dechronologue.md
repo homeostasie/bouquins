@@ -5,11 +5,13 @@ categories: lectures
 comments: true
 ---
 
+![Le Déchronologue](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/beauverger_stephane/dechronologue-th-2.jpg) 
+
 > À tous les buveurs de tafia et à tous ceux qui choisissent de rester debout.
 
 Sur la mer des Caraïbes, des perturbations temporelles se déchainent inlassablement, violentant une mer déjà bien agitée. Les espagnols dominent cette zone du globe au XVIIe siècle et traquent toute piraterie susceptible de nuire leur désir de domination et de *Christianisation*. Seuls les plus courageux capitaines osent encore s'aventurer à naviguer vers Baja Mar et la Tortuga. **Henry Villon**, capitaine du **Déchronologue** est de cette trempe. Il brave les *spaniards* et autres anomalies pour aborder de vigoureux vaisseaux corsaire et aller à la recherche des précieuses *maravillas*. Merveilles venues du futur, elles sont particulièrement prisées de part leurs prix et pour leurs incroyables pouvoirs. *Jukebox*, *lampe*, *batterie* sont les plus courantes des ces merveilles avec lesquelles sont censés composés ces marins.
 
-> ![Le Déchronologue](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/beauverger_stephane/dechronologue-th-2.jpg) ![Le Déchronologue](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/beauverger_stephane/dechronologue-4.jpg)
+![Le Déchronologue](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/beauverger_stephane/dechronologue-4.jpg)
 
 > Mort de moi, ces drôles prenaient l'ivrognerie bien au sérieux!
 

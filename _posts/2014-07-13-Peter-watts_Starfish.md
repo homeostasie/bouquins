@@ -5,9 +5,11 @@ categories: lectures
 comments: true
 ---
 
+![poche](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/watts_peter/starfish-0.jpg) 
+
 **Starfish** est le premier roman de la trilogie des **rifteurs**. Il nous propose de suivre dans les fonds abyssaux le destin de plusieurs personnages ... disons *psychologiquement fragiles*. On s'intéressa plus particulièrement à **Lenie Clarke**, personnage principal et désigné de par son ancienneté comme la chef d'équipe de cette petite bande et à **Gerry Fisher**, un rifteur ayant connu quelques problèmes avec son rapport avec les autres humains et notamment les enfants. On vivra avec eux leurs sorties hors de la station [BeeBe](http://fr.wikipedia.org/wiki/William_Beebe) et on découvrira ce monde d'obscurité et de noirceur qui les entoure. Très vite, ils s'adapteront aux grands fonds marins plus qu'ils ne se l'ont jamais été en surface.
 
-> ![poche](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/watts_peter/starfish-0.jpg) ![broché](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/watts_peter/starfish-1.jpg)
+![broché](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/watts_peter/starfish-1.jpg)
 
 **Starfish** est roman étonnant. Je le classe personnellement dans la catégorie hard-sf tellement le travail de fond est riche et sonne juste. Je ne suis pas un expert en biologie des fonds marins, mais l'auteur fourni pas mal de références et semble avoir bossé à haut niveau sur le sujet. On se sent vraiment dans les fonds marins avec la pression, le manque de luminosité, les *poissons* des grands fonds... J'ai trouvé l'ambiance exceptionnelle avec cette station des grands fonds, ces *quasi-timbrés* qui y habitent, plus quelques personnages comme **Scanlon** assez sympa. *On a envie de tout savoir*.
  

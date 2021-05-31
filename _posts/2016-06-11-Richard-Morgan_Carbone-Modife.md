@@ -3,7 +3,6 @@ layout: post
 title: "Carbone Modifié - Richard Morgan"
 categories: lectures
 comments: true
-
 ---
 
 ![milady](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/morgan_richard/cm-1.png)

@@ -5,9 +5,9 @@ categories: lectures
 comments: true
 ---
 
-Je ne sais pas trop comment commencer ce billet. Du coup, je crois que je vais juste présenter légèrement le contexte. Avant de lire le bouquin Metro 2033, je m'étais attaqué au jeu vidéo éponyme dont est tiré l'image ci-dessous. Il s'était révélé être un FPS couloir et linéaire, mais avec une très chouette ambiance. On se retrouvait très vite embarqué dans une histoire où on allait **buter des monstres, des cocos et des nazis** dans **les sombres tunnels du métro moscovite** qui nous happaient de leurs noirceurs. L'expérience a été assez bonne, voir même très bonne une fois le fov légèrement augmenté. Du coup, le bouquin m'a tout de suite attiré, désireux que j'étais de poursuivre l'expérience et de me replonger dans les tunnels tout en espérant secrètement trouver un peu plus d'action que dans le livre Stalker.
+![jv](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/gloukhovski_dimitri/metro-jv-1.jpg)
 
-> ![jv](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/gloukhovski_dimitri/metro-jv-1.jpg)
+Je ne sais pas trop comment commencer ce billet. Du coup, je crois que je vais juste présenter légèrement le contexte. Avant de lire le bouquin Metro 2033, je m'étais attaqué au jeu vidéo éponyme dont est tiré l'image ci-dessous. Il s'était révélé être un FPS couloir et linéaire, mais avec une très chouette ambiance. On se retrouvait très vite embarqué dans une histoire où on allait **buter des monstres, des cocos et des nazis** dans **les sombres tunnels du métro moscovite** qui nous happaient de leurs noirceurs. L'expérience a été assez bonne, voir même très bonne une fois le fov légèrement augmenté. Du coup, le bouquin m'a tout de suite attiré, désireux que j'étais de poursuivre l'expérience et de me replonger dans les tunnels tout en espérant secrètement trouver un peu plus d'action que dans le livre Stalker.
 
 
 Mais voilà, si l'ambiance m'a très vite accroché, un soir, je me suis fais une remarque et je n'ai pu arrêter d'y penser dès lors que je lisais le bouquin :

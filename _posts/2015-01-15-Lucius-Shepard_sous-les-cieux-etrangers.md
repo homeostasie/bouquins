@@ -5,6 +5,8 @@ categories: lectures
 comments: true
 ---
 
+![Poche](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/shepard-lucius/slce-poche.jpg) 
+
 En ce moment, je lis de la hard-sf avec *Mars la verte* et j'ai en tête une courbe du plaisir éprouvé par rapport au chapitre. Pourquoi ne pas étendre l'idée à d'autre bouquin. Comme ça en plus, je n'ai même plus besoin d'écrire.
 
 Je commence ma courbe d'orgasmomètre avec le recueil de nouvelles **Sous des cieux étrangers** de **Lucius Shepard**.
@@ -19,7 +21,7 @@ On entame alors le recueil avec une nouvelle bien *space-opéra*. On suit le che
 
 On retourne sur Terre sans pour autant savoir si on est dans le même monde, la même époque... Voilà une faiblesse de ce recueil : **les nouvelles ne sont pas liées entre elles**. *Dead Money* est sans doute la nouvelle la plus jouissive et la plus sympa du bouquin. J'ai eu l'impression de me retrouver dans un scénario de *Tarantino* avec de *l'embrouille multiple*, trois personnages qui varient du *looser*, au *péteux*, au *sympa*, avec une bonne dose de *"Mais qu'est-ce qu'il fout"*. Des rebondissements, du rythme, la meilleur nouvelle. 
 
-> ![Poche](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/shepard-lucius/slce-poche.jpg) ![Broché](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/shepard-lucius/slce-broche.jpg)
+![Broché](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/shepard-lucius/slce-broche.jpg)
 
 ## Radieuse étoile verte
 
