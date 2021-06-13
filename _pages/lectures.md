@@ -232,18 +232,44 @@ comments: true
 
 **George R. R. Martin** - *Le Trône de Fer*
 
-**O - Préquel**           | **I - A Game of Thrones** | **II - A Clash of Kings**
-1. *L'épée Lige*          |1. *Le Trône de Fer*       |1. *La bataille des rois*
-2. *Le chevalier errant*  |2. *Le donjon rouge*       |2. *L’ombre maléfique*
-                          |                           |3. *L’invincible forteresse*
+* **O - Préquel**   
+
+1. *L'épée Lige* 
+2. *Le chevalier errant*
+                       
+
+* [*I - A Game of Thrones*](https://homeostasie.github.io/bouquins/George-R.-R.-Martin_TDF1-A-Game-of-Thrones/)
+
+1. *Le Trône de Fer*
+2. *Le donjon rouge* 
+
+* *II - A Clash of Kings*
+
+1. *La bataille des rois*
+2. *L’ombre maléfique*
+3. *L’invincible forteresse*
 
 
+* *III - A Storm of Swords*
 
-**III - A Storm of Swords** | **IV - A Feast for Crows**       | **V - A Dance with Dragons**
-1. *Intrigue à Port-Réal*   | 1. *Le chaos*                    | 1. *Le bûcher d'un roi*
-2. *L’épée de Feu*          | 2. *Les sables de Dorne*         | 2. *Les dragons de Meereen*
-3. *Les noces pourpres*     | 3. *Un festin pour les corbeaux* | 3. *Une danse avec les dragons*
-4. *La loi du régicide*     |                                  |
+1. *Intrigue à Port-Réal* 
+2. *L’épée de Feu*         
+3. *Les noces pourpres*    
+4. *La loi du régicide*  
+
+
+* *IV - A Feast for Crows* 
+
+1. *Le chaos*                 
+2. *Les sables de Dorne*       
+3. *Un festin pour les corbeaux*
+
+
+* *V - A Dance with Dragons*
+
+1. *Le bûcher d'un roi*
+2. *Les dragons de Meereen*
+3. *Une danse avec les dragons*
 
 
 **Justine Niogret**
