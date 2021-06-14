@@ -54,7 +54,7 @@ comments: true
 
 **Agatha Christie**
 * *Les 10 petits nègres*
-* *Le meurtre de Roger Ackroyd*
+* [*Le meurtre de Roger Ackroyd*](https://homeostasie.github.io/bouquins/Agatha-Christie_Le-meurtre-de-Roger-Ackroyd/)
 
 **Stieg Larsson** - Millenium
 1. Les Hommes qui n'aimaient pas les femmes
