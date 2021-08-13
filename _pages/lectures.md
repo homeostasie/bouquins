@@ -226,6 +226,10 @@ comments: true
 
 # 3. Fantasy
 
+**Pierre Bottero** - *La Quête d'Ewilan*
+1. D'un monde à l'autre
+2. Les Frontières de glace
+
 **Alain Damasio** - *La horde du contrevent*
 
 **Jean-Philippe Jaworski** - *Vieux Royaume*
