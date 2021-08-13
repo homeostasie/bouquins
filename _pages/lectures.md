@@ -19,6 +19,8 @@ comments: true
 
 **Robert Louis Stevenson** - *L'Île au trésor*
 
+**Jun'Ichiro Tanizaki** - *Dans l'œil du démon*
+
 **Voltaire** - [*Candide*](https://homeostasie.github.io/bouquins/Voltaire_Candide/)
 
 **Akira Yoshimura** - [*Le Convoi de l'eau*](https://homeostasie.github.io/bouquins/Akira-Yoshimura_Le-convoi-de-l-eau/)
@@ -53,8 +55,10 @@ comments: true
 * *La taupe*
 
 **Agatha Christie**
-* *Les 10 petits nègres*
+* *Le crime de l'Orient-Express*
 * [*Le meurtre de Roger Ackroyd*](https://homeostasie.github.io/bouquins/Agatha-Christie_Le-meurtre-de-Roger-Ackroyd/)
+* *Les 10 petits nègres*
+
 
 **Stieg Larsson** - Millenium
 1. Les Hommes qui n'aimaient pas les femmes
@@ -90,6 +94,7 @@ comments: true
 
 **Dan Simmons** - [*Terreur*](https://homeostasie.github.io/bouquins/Dan-Simmons_terreur/)
 
+**Hervé Le Tellier** - *L'anomalie*
 
 ### Anticipation
 
@@ -212,6 +217,7 @@ comments: true
 *Chasseurs de prime* - **K.W. Jeter**
 1. *L'armure Mandalorienne*
 2. *Le vaisseau Esclave*
+3. *Une encombrante cargaison*
 
 *X-Xings* 
 1. *L'escadron Rogue*
@@ -274,6 +280,10 @@ comments: true
 
 **Justine Niogret**
 1. *Chien du Heaume*
+
+**Andrzej Sapkowski** - *Le sorceleur*
+1. *Le dernier vœu*
+
 
 **J.R.R. Tolkien** - *Bilbo le Hobbit*
 
