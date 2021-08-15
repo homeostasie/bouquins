@@ -55,7 +55,7 @@ comments: true
 * *La taupe*
 
 **Agatha Christie**
-* *Le crime de l'Orient-Express*
+* [*Le crime de l'Orient-Express*](https://homeostasie.github.io/bouquins/Agatha-Christie_Le-crime-de-l-Orient-Express/)
 * [*Le meurtre de Roger Ackroyd*](https://homeostasie.github.io/bouquins/Agatha-Christie_Le-meurtre-de-Roger-Ackroyd/)
 * *Les 10 petits nègres*
 
