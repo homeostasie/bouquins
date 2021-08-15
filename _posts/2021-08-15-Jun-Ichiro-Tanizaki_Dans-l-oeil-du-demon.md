@@ -5,7 +5,7 @@ categories: lectures
 comments: true
 ---
 
-![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/tanizaki-jun-ichiro/dans-l-oeil-du-demon.jpg)
+![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/tanizaki_jun-ichiro/dans-l-oeil-du-demon.jpg)
 
 
 **Dans l'œil du démon** est un court roman japonais. On suit un écrivain à Tokyo, un peu décalé par son rythme de travail. Un de ses potes arrive comme ça à l'improviste et lui commence à lui raconter une histoire folle. "Il est au courant qu'un meurtre va se produire", mais il ne sait pas où, ni comment, ni pourquoi. Il lui demande de l'accompagner dans sa recherche avant d'assister cacher dans la pénombre à cette hypnotisant spectacle. 
