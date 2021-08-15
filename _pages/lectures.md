@@ -19,8 +19,6 @@ comments: true
 
 **Robert Louis Stevenson** - *L'Île au trésor*
 
-**Jun'Ichiro Tanizaki** - *Dans l'œil du démon*
-
 **Voltaire** - [*Candide*](https://homeostasie.github.io/bouquins/Voltaire_Candide/)
 
 **Akira Yoshimura** - [*Le Convoi de l'eau*](https://homeostasie.github.io/bouquins/Akira-Yoshimura_Le-convoi-de-l-eau/)
@@ -59,7 +57,6 @@ comments: true
 * [*Le meurtre de Roger Ackroyd*](https://homeostasie.github.io/bouquins/Agatha-Christie_Le-meurtre-de-Roger-Ackroyd/)
 * *Les 10 petits nègres*
 
-
 **Stieg Larsson** - Millenium
 1. Les Hommes qui n'aimaient pas les femmes
 
@@ -67,6 +64,7 @@ comments: true
 
 **China Miéville** - [*The City and the City*](https://homeostasie.github.io/bouquins/China-Mieville_The-City-and-the-City/)
 
+**Jun'Ichiro Tanizaki** - [*Dans l'œil du démon*](https://homeostasie.github.io/bouquins/Jun-Ichiro-Tanizaki_Dans-l-oeil-du-demon/)
 
 # 2. Science Fiction
 
