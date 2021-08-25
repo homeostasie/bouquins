@@ -92,7 +92,8 @@ comments: true
 
 **Dan Simmons** - [*Terreur*](https://homeostasie.github.io/bouquins/Dan-Simmons_terreur/)
 
-**Hervé Le Tellier** - *L'anomalie*
+**Hervé Le Tellier** - [*L'anomalie*](https://homeostasie.github.io/bouquins/Herve-Le-Tellier_L-anomalie/)
+
 
 ### Anticipation
 
@@ -202,12 +203,12 @@ comments: true
 
 ### Star Wars
 
-[*Jedi fou*](https://homeostasie.github.io/bouquins/SW-Jedi-fou/) - **Timothy Zahn** - 
+[*Jedi fou*](https://homeostasie.github.io/bouquins/SW_Jedi-fou/) - **Timothy Zahn** - 
 1. *L'Héritier de l'Empire*
 2. *La Bataille des Jedi*
 3. *L'Ultime Commandement*
 
-[*Solo*](https://homeostasie.github.io/bouquins/SW-Solo/) - **Ann C. Crispin**
+[*Solo*](https://homeostasie.github.io/bouquins/SW_Solo/) - **Ann C. Crispin**
 1. *Le Coup du paradis*
 2. *Le gambit du Hutt*
 3. *L'aube de la Rébellion*
