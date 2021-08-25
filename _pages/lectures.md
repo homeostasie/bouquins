@@ -11,6 +11,8 @@ comments: true
 
 **Albert Camus** - *L'Étranger*
 
+**Fiodor Dostoïevski** - *Crime et Châtiment*
+
 **Herman Melville** - *Moby Dick*
 
 **Arto Paasilinna** - *Le lièvre de Vatanem*
@@ -23,7 +25,7 @@ comments: true
 
 **Akira Yoshimura** - [*Le Convoi de l'eau*](https://homeostasie.github.io/bouquins/Akira-Yoshimura_Le-convoi-de-l-eau/)
 
-**Marguerite Yourcenar** - *Mémoires d'Hadrien*
+**Marguerite Yourcenar** - [*Mémoires d'Hadrien*](https://homeostasie.github.io/bouquins/Marguerite-Yourcenar_Memoires-d-Hadrien)
 
 
 ### Guerre
@@ -207,6 +209,9 @@ comments: true
 1. *L'Héritier de l'Empire*
 2. *La Bataille des Jedi*
 3. *L'Ultime Commandement*
+
+*La Haute République* - **Charles Soule**
+1. La lumière des Jedi 
 
 [*Solo*](https://homeostasie.github.io/bouquins/SW_Solo/) - **Ann C. Crispin**
 1. *Le Coup du paradis*
