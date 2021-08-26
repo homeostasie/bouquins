@@ -5,8 +5,6 @@ categories: blog
 comments: true
 ---
 
-![linus](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2021/linux.png)
-
 ```
 From: torvalds@klaava.Helsinki.FI (Linus Benedict Torvalds)
   Newsgroups: comp.os.minix
