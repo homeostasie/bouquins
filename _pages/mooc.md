@@ -89,42 +89,29 @@ Le MOOC "Voyages de l'infiniment grand à l'infiniment petit" a été conçu ave
 
 ## 1. Astronomie
 
-### Analyzing the Universe
-
-### Astrobiology: Exploring Other Worlds
-
-### The Science of the Solar System
-
-### Confronting The Big Questions: Highlights of Modern Astronomy
-
-### Archaeoastronomy
-
-### Imaginer d'autres Terres
-
-### Origins - Formation of the Universe, Solar System, Earth and Life
-
-### L'exobiologie et la recherche de vie extraterrestre
+* Analyzing the Universe
+* Astrobiology: Exploring Other Worlds
+* The Science of the Solar System
+* Confronting The Big Questions: Highlights of Modern Astronomy
+* Archaeoastronomy
+* Imaginer d'autres Terres
+* Origins - Formation of the Universe, Solar System, Earth and Life
+* L'exobiologie et la recherche de vie extraterrestre
 
 # 2. Mathématiques
 
-### Introduction to numerical analysis
-
-### Paradox and Infinity
-
-### Mathematical Thinking in Computer Science
+* Introduction to numerical analysis
+* Paradox and Infinity
+* Mathematical Thinking in Computer Science
 
 # 3. Informatiques
 
-### Build a Modern Computer from First Principles: From Nand to Tetris 
-
-### Programming Languages, Part A
+* Build a Modern Computer from First Principles: From Nand to Tetris 
+* Programming Languages, Part A
 
 # 4. Autres
 
-### Philosophy of Science
-
-### Mountains 101
-
-### Bugs 101: Insect-Human Interactions
-
-### Éducation par la recherche : climatologie à l'École
+* Philosophy of Science
+* Mountains 101
+* Bugs 101: Insect-Human Interactions
+* Éducation par la recherche : climatologie à l'École
