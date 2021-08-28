@@ -5,6 +5,8 @@ permalink: /lectures/
 comments: true
 ---
 
+La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
+
 # 1. Classique
 
 **Svetlana Alexievitch** - [*La supplication*](https://homeostasie.github.io/bouquins/Alexievitch-Svetlana_La-supplication/)
