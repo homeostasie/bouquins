@@ -50,6 +50,23 @@ The class will consist of video lectures, weekly quizzes, and discussion forums.
 
 ![astrotech](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/mooc/astro101.jpg)
 
+### Vers l'infiniment grand
+
+*Coursera* - *Université Paris-Saclay* - **3/4s**
+
+```
+Partez à la découverte de l'infiniment grand, en compagnie de physiciens et de physiciennes qui vont vous faire découvrir l'Univers aux distances les plus grandes connues à ce jour et les outils scientifiques utilisés pour l'étudier. Vous comprendrez ce que les scientifiques ont pu apprendre sur l'histoire et la structure de l'Univers, ses composantes, et comment ils ont pu accumuler ces observations sur les étoiles, les galaxies, les amas de galaxies, et l'Univers dans son ensemble.
+
+Ce cours en français fait partie du MOOC "Voyages de l'infiniment grand à l'infiniment petit", conçus par des physiciens et des physiciennes du Labex P2IO (Physique des 2 Infinis et des Origines, IPP et Université Paris-Saclay) regroupant des laboratoires de physique de l'infiniment grand et de l'infiniment petit situés à Orsay et Saclay. Les différents parcours de ce MOOC vous montreront les connaissances et les énigmes de l'infiniment grand et de l'infiniment petit, les relations que ces deux infinis entretiennent, et les liens de ces découvertes avec la société :
+
+https://www.coursera.org/learn/physique-2-infinis-infiniment-petit
+https://www.coursera.org/learn/physique-2-infinis-infiniment-grand
+https://www.coursera.org/learn/physique-2-infinis-liens
+https://www.coursera.org/learn/physique-2-infinis-et-nous
+
+Le MOOC "Voyages de l'infiniment grand à l'infiniment petit" a été conçu avec le soutien financier du Labex P2IO (Physique des 2 Infinis et des Origines) présenté sur www.labex-p2io.fr (IPP et Université Paris-Saclay)
+```
+
 ## 2. Mathématiques
 
 ### Mathématiques : préparation à l'entrée dans l'enseignement supérieur
@@ -68,21 +85,12 @@ Différentes modalités d’évaluation sont proposées : des QCM, de nombreux e
 
 # En cours
 
-### Vers l'infiniment grand
+### The Science of the Solar System
 
-*Coursera* - *Université Paris-Saclay* - **3/4s**
+*Coursera* - *Caltech* - **10s**
 
 ```
-Partez à la découverte de l'infiniment grand, en compagnie de physiciens et de physiciennes qui vont vous faire découvrir l'Univers aux distances les plus grandes connues à ce jour et les outils scientifiques utilisés pour l'étudier. Vous comprendrez ce que les scientifiques ont pu apprendre sur l'histoire et la structure de l'Univers, ses composantes, et comment ils ont pu accumuler ces observations sur les étoiles, les galaxies, les amas de galaxies, et l'Univers dans son ensemble.
-
-Ce cours en français fait partie du MOOC "Voyages de l'infiniment grand à l'infiniment petit", conçus par des physiciens et des physiciennes du Labex P2IO (Physique des 2 Infinis et des Origines, IPP et Université Paris-Saclay) regroupant des laboratoires de physique de l'infiniment grand et de l'infiniment petit situés à Orsay et Saclay. Les différents parcours de ce MOOC vous montreront les connaissances et les énigmes de l'infiniment grand et de l'infiniment petit, les relations que ces deux infinis entretiennent, et les liens de ces découvertes avec la société :
-
-https://www.coursera.org/learn/physique-2-infinis-infiniment-petit
-https://www.coursera.org/learn/physique-2-infinis-infiniment-grand
-https://www.coursera.org/learn/physique-2-infinis-liens
-https://www.coursera.org/learn/physique-2-infinis-et-nous
-
-Le MOOC "Voyages de l'infiniment grand à l'infiniment petit" a été conçu avec le soutien financier du Labex P2IO (Physique des 2 Infinis et des Origines) présenté sur www.labex-p2io.fr (IPP et Université Paris-Saclay)
+Learn about the science behind the current exploration of the solar system in this free class. Use principles from physics, chemistry, biology, and geology to understand the latest from Mars, comprehend the outer solar system, ponder planets outside our solar system, and search for habitability in our neighborhood and beyond. This course is generally taught at an advanced level assuming a prior knowledge of undergraduate math and physics, but the majority of the concepts and lectures can be understood without these prerequisites. The quizzes and final exam are designed to make you think critically about the material you have learned rather than to simply make you memorize facts. The class is expected to be challenging but rewarding.
 ```
 
 # Prochains
@@ -91,7 +99,6 @@ Le MOOC "Voyages de l'infiniment grand à l'infiniment petit" a été conçu ave
 
 * Analyzing the Universe
 * Astrobiology: Exploring Other Worlds
-* The Science of the Solar System
 * Confronting The Big Questions: Highlights of Modern Astronomy
 * Archaeoastronomy
 * Imaginer d'autres Terres
