@@ -22,21 +22,22 @@ comments: true
 - Mort sur le nil - Agatha Christie
 - À la poursuite d'Octobre Rouge - Tom Clancy
 - Cruel est le ciel - Tetsuya Honda
-- Le dernier lapon - Olivier Truc
 - Au revoir là-haut - Pierre Lemaitre
+- Le dernier lapon - Olivier Truc
 
 ### Pavé
 
-- Lonesome Dove - Larry McMurtry
-- Le comte de Monte-Cristo - Alexandre Dumas
+
 - Shogun - James Clavell
-- Vie et Destin - Vassili Grossman
+- Le comte de Monte-Cristo - Alexandre Dumas
 - Le nom de la Rose - Umberto Eco
+- Vie et Destin - Vassili Grossman
+- Lonesome Dove - Larry McMurtry
 
 ### SF
 
-- Abominable de Dan Simmons
 - The Expanse 2 - La Guerre de Caliban - James S. A. Corey
+- Abominable de Dan Simmons
 - Vision aveugle - Peter Watts
 
 ### Fantasy
