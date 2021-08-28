@@ -37,7 +37,7 @@ comments: true
 
 - Abominable de Dan Simmons
 - The Expanse 2 - La Guerre de Caliban - James S. A. Corey
-- 
+- Vision aveugle - Peter Watts
 
 ### Fantasy
 
