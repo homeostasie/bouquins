@@ -17,6 +17,8 @@ comments: true
 
 **Arto Paasilinna** - *Le lièvre de Vatanem*
 
+**Daniel Pennac** - *Au bonheur des ogres*
+
 **John Steinbeck** - *Des souris et des hommes*
 
 **Robert Louis Stevenson** - *L'Île au trésor*
