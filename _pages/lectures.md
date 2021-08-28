@@ -17,7 +17,7 @@ comments: true
 
 **Arto Paasilinna** - *Le lièvre de Vatanem*
 
-**Daniel Pennac** - *Au bonheur des ogres*
+**Daniel Pennac** - [*Au bonheur des ogres*](https://homeostasie.github.io/bouquins/Daniel-Pennac_Au-bonheur-des-ogres/)
 
 **John Steinbeck** - *Des souris et des hommes*
 
