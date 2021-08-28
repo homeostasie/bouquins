@@ -19,7 +19,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Arto Paasilinna** - *Le lièvre de Vatanem*
 
-**Daniel Pennac** - [*Au bonheur des ogres*](https://homeostasie.github.io/bouquins/Daniel-Pennac_Au-bonheur-des-ogres/)
+**Daniel Pennac** - Saga Malaussène
+1. [*Au bonheur des ogres*](https://homeostasie.github.io/bouquins/Daniel-Pennac_Au-bonheur-des-ogres/)
 
 **John Steinbeck** - *Des souris et des hommes*
 
@@ -50,9 +51,9 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Jake Adelstien** - *Tokyo Vice*
 
 **Arthur Conan Doyle**
-1. Une étude en rouge
-3. Le Chien des Baskerville
-4. Les aventures (5/12)
+1. *Une étude en rouge*
+3. *Le Chien des Baskerville*
+4. *Les aventures (5/12)*
 
 **John le Carré**
 * *L'espion qui venait du froid*
@@ -64,7 +65,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 * *Les 10 petits nègres*
 
 **Stieg Larsson** - Millenium
-1. Les Hommes qui n'aimaient pas les femmes
+1. *Les Hommes qui n'aimaient pas les femmes*
 
 **Hugh Laurie** - *Tout est sous contrôle*
 
@@ -80,7 +81,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 1. *Le Pistolero*
 
 **Jasper F Forde** - Thursday Next
-1. L'affaire Jane Eyre
+1. *L'affaire Jane Eyre*
 
 
 **J. K. Rowling** - *Harry Potter*
@@ -106,9 +107,9 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Max Brooks** - *World War Z*
 
 **Suzanne Collins** - *Hunger Games*
-1. Hunger Games
-2. L’Embrasement
-3. La révolte
+1. *Hunger Games*
+2. *L’Embrasement*
+3. *La révolte*
 
 **Doctor Who** - Justin Richards - *Apollo 23*
 
@@ -155,9 +156,9 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 ### Space Opera
  
 **Alien**
-1. La sortie des profondeurs
-2. Le fleuve des souffrances
-3. La mer des désolations
+1. *La sortie des profondeurs*
+2. *Le fleuve des souffrances*
+3. *La mer des désolations*
 
 **Douglas Adams** - *Le guide du voyageur galactique*
 
@@ -214,8 +215,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 2. *La Bataille des Jedi*
 3. *L'Ultime Commandement*
 
-*La Haute République* - **Charles Soule**
-1. La lumière des Jedi 
+*La Haute République*
+1. La lumière des Jedi - **Charles Soule**
 
 [*Solo*](https://homeostasie.github.io/bouquins/SW_Solo/) - **Ann C. Crispin**
 1. *Le Coup du paradis*
