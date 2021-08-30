@@ -22,6 +22,3 @@ J'ai vraiment aimé cette lecture et je crois que cela vient en partie de mon â
 ![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/taniguchi_jiro/ql-4.jpg)
 
 ![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/taniguchi_jiro/ql-5.jpg)
-
-
-

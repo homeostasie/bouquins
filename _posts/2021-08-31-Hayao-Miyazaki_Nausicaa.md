@@ -22,5 +22,3 @@ La lecture a été très prenante mais aussi assez exigeante. On a des complots,
 ![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/miyazaki_hayao/nausicaa-3.jpg)
 
 ![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/miyazaki_hayao/nausicaa-5.jpg)
-
-
