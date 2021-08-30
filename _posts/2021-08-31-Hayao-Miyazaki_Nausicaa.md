@@ -13,13 +13,13 @@ Dans un monde dévasté par la guerre, la Terre est un territoire hostile occup�
 
 J'attendais une petite histoire pépouse avec un peu de nature et plein de bon sentiment... J'ai été surpris. **Nausicaä** est aussi un roman de guerre, de ses massacres, des ses absurdités. On retrouve le thème de l'aviation où vient s'opposer le vent et les moteurs. Bien évidement le thème de la nature est lui aussi présent mais on retrouve une nature forte, une nature organique, bref une nature claquée au sol. Le tout est sublimé par le rôle de la princesse qui est vraiment un personnage fort. Plus on avance dans les volumes et plus on plonge dans du fantastique avec des monstres et du divin. 
 
-![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/miyazaki_hayao/nausicaa-2.jpg)
+![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/miyazaki_hayao/nausicaa-4.jpg)
 
 La lecture a été très prenante mais aussi assez exigeante. On a des complots, des scènes de guerre, des vaisseaux, des paysages, des forêts, des déserts. Il y a un mélange d'action et de contemplation. Les cases sont vraiment travaillées et touffes. L'œuvre est très complète. Il n'y a bien que la fin qui m'a un peu déçue tellement elle est rapide, expéditive et brutale. 
 
-![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/miyazaki_hayao/nausicaa-3.jpg)
+![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/miyazaki_hayao/nausicaa-2.jpg)
 
-![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/miyazaki_hayao/nausicaa-4.jpg)
+![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/miyazaki_hayao/nausicaa-3.jpg)
 
 ![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/miyazaki_hayao/nausicaa-5.jpg)
 
