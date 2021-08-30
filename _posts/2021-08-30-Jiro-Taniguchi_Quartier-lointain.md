@@ -7,7 +7,7 @@ comments: true
 
 ![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/taniguchi_jiro/ql-1.jpg)
 
-J'ai reçu **Quartier lointain** en cadeau par mes parents il y a une bonne quinzaine d'année. Je n'étais pas du tout attiré. Pendant ces vacances, j'ai essayé de faire un peu de place sur mes étagères alors pourquoi pas essayer de le lire.
+J'ai reçu **Quartier lointain** en cadeau par mes parents il y a une bonne quinzaine d'années. Je n'étais pas du tout attiré. Pendant ces vacances, j'ai essayé de faire un peu de place sur mes étagères alors pourquoi ne pas essayer de le lire.
 
 ![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/taniguchi_jiro/ql-2.jpg)
 
