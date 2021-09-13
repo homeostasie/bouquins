@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Star Wars - Trilogie Solo - Ann C. Crispin"
+title: "Star Wars - Chasseurs de Prime - K.W. Jeter"
 categories: lectures
 comments: true
 ---
