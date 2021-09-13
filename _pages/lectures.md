@@ -146,7 +146,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Richard Morgan**
 1. [*Carbone modifié*](https://homeostasie.github.io/bouquins/Richard-Morgan_Carbone-Modife/)
-2. *Anges déchus*
+2. [*Anges déchus*](https://homeostasie.github.io/bouquins/Richard-Morgan_Anges-dechus/)
 
 ### Uchronie
 
