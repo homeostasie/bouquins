@@ -5,12 +5,12 @@ categories: lectures
 comments: true
 ---
 
-![milady](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/conrad_joseph/hod-1.png)
+![milady](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/conrad_joseph/hod-1.jpg)
 
 
 Instant classique. J'ai lu **Au cœur des ténèbres** de *Joseph Conrad*. J'avais d'abord été attiré par l'inspiration sur le film **Apocalypse Now** avec *Martin Sheen* dans le rôle du *Captain Willard* et sa célèbre **Seiko**.
 
-![milady](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/conrad_joseph/hod-2.png)
+![milady](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/conrad_joseph/hod-2.jpg)
 
 
 Il est assez compliqué de résumé le roman et de parler d'histoire. On se retrouve avec un procédé de narration assez atypique. On se retrouve coincé entre plusieurs narrations avec des personnages racontent et se racontent des histoires. Globalement, Marlow sur son bateau raconte son histoire au Congo et sa rencontre avec Kurtz personnage emblématique pour la compagnie et cette partie du Congo. 
@@ -19,4 +19,4 @@ J'ai eu du mal à rentrer dans le bouquin. La narration est complexe à suivre, 
 
 Une lecture classique recommandée aux les amateurs de littérature habitués de narrations complexes. Bref pas pas trop ma came et pas pour tout le monde. 
 
-![milady](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/conrad_joseph/hod-3.png)
+![milady](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/conrad_joseph/hod-3.jpg)
