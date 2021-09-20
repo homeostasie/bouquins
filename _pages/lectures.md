@@ -13,6 +13,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Albert Camus** - *L'Étranger*
 
+**Joseph Conrad** - [*Au cœeur des ténèbres*](https://homeostasie.github.io/bouquins/Joseph-Conrad_Coeur-des-tenebres/)
+
 **Fiodor Dostoïevski** - *Crime et Châtiment*
 
 **Herman Melville** - *Moby Dick*
