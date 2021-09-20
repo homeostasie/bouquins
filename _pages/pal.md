@@ -7,14 +7,13 @@ comments: true
 
 # En cours 
 
-- Au cœur des ténèbres - Joseph Conrad
 - SW HR2 - En pleines ténèbres - Claudia Gray
+- Les mémoires d'un chat - Hiro Arikawa
 
 # En PAL
 
 ### Jap
 
-- Les mémoires d'un chat - Hiro Arikawa
 - La course au mouton sauvage - Haruki Murakami
 
 ### Enquête
