@@ -218,7 +218,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 3. *L'Ultime Commandement*
 
 *La Haute République*
-1. La lumière des Jedi - **Charles Soule**
+1. [*La lumière des Jedi*](https://homeostasie.github.io/bouquins/SW_Lumiere-des-Jedi/)  - **Charles Soule**
 
 [*Solo*](https://homeostasie.github.io/bouquins/SW_Solo/) - **Ann C. Crispin**
 1. *Le Coup du paradis*
