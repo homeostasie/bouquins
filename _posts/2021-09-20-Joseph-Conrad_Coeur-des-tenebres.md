@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Au Cœur des ténèbres - Joseph Conrad"
+title: "Au cœur des ténèbres - Joseph Conrad"
 categories: lectures
 comments: true
 ---
