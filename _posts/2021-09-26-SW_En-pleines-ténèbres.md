@@ -13,6 +13,6 @@ J'ai assez vite enchaîné avec la suite de [La lumière des Jedi](https://homeo
 
 On rentre là encore très vite dans le récit. Le départ est moins marquant que celui du premier. Mais le fait de vivre l'aventure en parallèle procure un petit plaisir non négligeable. J'ai eu l'impression d'avoir plus de certitude sur la vision globale mais par contre j'étais beaucoup plus dans le flou quant à l'avenir des personnages. Ils sont bien réussi. Un peu moins grandioses comme Jedi peut-être. Ils se posent plus de questions et ne sont pas des Jedi d'exception comme peut le sembler **Triss**. 
 
-Le rythme est peut-être un peu plus lent avec des méchants un peu moins charismatique. Quelques rebondissement plutôt bien menés viennent donner un peu de piquant. 
+Le rythme est peut-être un peu plus lent avec des méchants un peu moins charismatique. Quelques rebondissement sont bien menés viennent donner un peu de piquant. La fin donne plutôt le sourire et peut sembler un poil facile.
 
 Un peu moins recommandable que le premier mais tout de même plaisant. À lire pour sûr pour ceux qui ont aimé le premier. 
