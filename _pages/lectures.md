@@ -15,7 +15,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Joseph Conrad** - [*Au cœur des ténèbres*](https://homeostasie.github.io/bouquins/Joseph-Conrad_Coeur-des-tenebres/)
 
-**Fiodor Dostoïevski** - *Crime et Châtiment*
+**Fiodor Dostoïevski** - [*Crime et Châtiment*](https://homeostasie.github.io/bouquins/Fiodor-Dostoievski_Crime-et-chatiment)
 
 **Herman Melville** - *Moby Dick*
 
