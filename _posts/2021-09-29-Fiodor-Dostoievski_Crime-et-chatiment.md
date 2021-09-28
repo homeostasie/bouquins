@@ -5,7 +5,7 @@ categories: lectures
 comments: true
 ---
 
-![milady](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/dostoievski_fiodor/cec-1.jpg)
+![milady](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/dostoievski_fiodor/cec.jpg)
 
 J'étais assez confiant en plein dans une période classique à dévorer de petits romans les uns après les autres. Je me suis dit pourquoi ne pas tenter un classique, pavé de la littérature russe. Je me renseigne. Je remarque que **Crime et Châtiment** est particulièrement acclamé et donc je porte mon choix sur ce roman.
 
