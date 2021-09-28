@@ -9,7 +9,7 @@ comments: true
 
 J'étais assez confiant en plein dans une période classique à dévorer de petits romans les uns après les autres. Je me suis dit pourquoi ne pas tenter un classique, pavé de la littérature russe. Je me renseigne. Je remarque que **Crime et Châtiment** est particulièrement acclamé et donc je porte mon choix sur ce roman.
 
-L'histoire est assez simple. On suit un miséreux à trois quarts malade qui décide de s'organiser l'assassinat d'une vieille pour lui piquer son pognon. Il pense que ça va rouler tout seul... mais bien évidemment, ça foire. Comment va-t-il réagir. 
+L'histoire est assez simple. On suit un miséreux à trois quarts malade qui décide de s'organiser l'assassinat d'une vieille pour lui piquer son pognon. Il pense que ça va rouler tout seul... mais bien évidemment, ça foire. Comment va-t-il réagir ?
 
 **Crime et Châtiment** est un roman qui se passe beaucoup dans la tête, le personnage principal cogite, se fait des plans, s'imagine des trucs. Ses actions ne sont pas forcement logiques et peuvent frisées la folie.
 
