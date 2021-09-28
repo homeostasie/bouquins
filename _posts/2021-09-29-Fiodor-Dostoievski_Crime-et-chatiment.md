@@ -11,7 +11,7 @@ J'étais assez confiant en plein dans une période classique à dévorer de peti
 
 L'histoire est assez simple. On suit un miséreux à trois quarts malade qui décide de s'organiser l'assassinat d'une vieille pour lui piquer son pognon. Il pense que ça va rouler tout seul... mais bien évidemment, ça foire. Comment va-t-il réagir ?
 
-**Crime et Châtiment** est un roman qui se passe beaucoup dans la tête, le personnage principal cogite, se fait des plans, s'imagine des trucs et délire à cause de la fièvre. Ses actions ne sont pas forcement logiques et peuvent frisées la folie. On baigne dans une ambiance de misère, de froid, de faim avec dun grand nombre de personnages. 
+**Crime et Châtiment** est un roman qui se passe beaucoup dans la tête, le personnage principal cogite, se fait des plans, s'imagine des trucs et délire à cause de la fièvre. Ses actions ne sont pas forcement logiques et peuvent frisées la folie. On baigne dans une ambiance de misère, de froid, de faim avec un grand nombre de personnages. 
 
 J'ai eu vraiment du mal à rentrer dans le roman. Le rythme est lent. De part son état déplorable, le protagoniste fait des conneries, psycotte et raconte vraiment ce qu'il lui passe par la tête. Du coup, on n'est pas forcement surpris au moment où il passe à l'acte. Entre sa famille, le clodo qui dépense tout son argent au bar et meure, la femme battu, abandonnée et extrêmement pauvre, la fille qui fait pute, les mariages arrangés... C'est trop pour moi. Je n'ai jamais réussi à éprouver du plaisir à la lecture et je n'ai pas le recul nécessaire pour comprendre et apprécier ce genre de roman. Rien que les multiples noms des personnages a été un énorme frein.
 
