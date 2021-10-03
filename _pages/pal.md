@@ -7,8 +7,8 @@ comments: true
 
 # En cours 
 
-- SW HR2 - En pleines ténèbres - Claudia Gray
 - Les mémoires d'un chat - Hiro Arikawa
+- À la poursuite d'Octobre Rouge - Tom Clancy
 
 # En PAL
 
@@ -19,7 +19,6 @@ comments: true
 ### Enquête
 
 - Mort sur le nil - Agatha Christie
-- À la poursuite d'Octobre Rouge - Tom Clancy
 - Cruel est le ciel - Tetsuya Honda
 - Au revoir là-haut - Pierre Lemaitre
 - Le dernier lapon - Olivier Truc
@@ -47,4 +46,3 @@ comments: true
 ### Autre 
 
 - Le horla - Guy de Maupassant
-
