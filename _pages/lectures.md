@@ -11,6 +11,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Svetlana Alexievitch** - [*La supplication*](https://homeostasie.github.io/bouquins/Alexievitch-Svetlana_La-supplication/)
 
+**Hiro Arikawa** - [*Les mémoires d'un chat*](https://homeostasie.github.io/bouquins/Hiro-Arikawa_Les-memoires-d-un-chat)
+
 **Albert Camus** - *L'Étranger*
 
 **Joseph Conrad** - [*Au cœur des ténèbres*](https://homeostasie.github.io/bouquins/Joseph-Conrad_Coeur-des-tenebres/)
@@ -103,6 +105,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Hervé Le Tellier** - [*L'anomalie*](https://homeostasie.github.io/bouquins/Herve-Le-Tellier_L-anomalie/)
 
+**Jeff VanderMeer** - *La trilogie du Rempart Sud.*
+1. *Annihilation*
 
 ### Anticipation
 

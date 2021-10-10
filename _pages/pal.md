@@ -7,8 +7,9 @@ comments: true
 
 # En cours 
 
-- Les mémoires d'un chat - Hiro Arikawa
 - À la poursuite d'Octobre Rouge - Tom Clancy
+- The Expanse 2 - La Guerre de Caliban - James S. A. Corey
+- L'assommoir - Émile Zola
 
 # En PAL
 
@@ -34,7 +35,7 @@ comments: true
 
 ### SF
 
-- The Expanse 2 - La Guerre de Caliban - James S. A. Corey
+
 - Abominable de Dan Simmons
 - Vision aveugle - Peter Watts
 
