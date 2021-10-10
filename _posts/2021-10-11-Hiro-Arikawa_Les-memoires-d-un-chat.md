@@ -7,11 +7,11 @@ comments: true
 
 ![milady](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/arikawa_hiro/lmuc-1.jpg)
 
-Je suis tombé sur ce livre un peu par hasard chez mes parents. Ma mère avait prévu de l'offrir  à une de ses copines qui est a toujours eu des chats dans sa vie. De plus, la couverture m'a fait vraiment penser à mon chat. J'ai été plutôt séduit des mes incursions dans la littérature japonaise avec [Le convoi de l'eau]() et [Dans l'œil du démon](), j'ai décidé de continuer. 
+Je suis tombé sur ce livre un peu par hasard chez mes parents. Ma mère avait prévu de l'offrir à l'une de ses copines. De plus, la couverture m'a fait vraiment penser à mon chat. J'ai été plutôt séduit des mes incursions dans la littérature japonaise avec [Le convoi de l'eau](https://homeostasie.github.io/bouquins/Akira-Yoshimura_Le-convoi-de-l-eau/) et [Dans l'œil du démon](https://homeostasie.github.io/bouquins/Jun-Ichiro-Tanizaki_Dans-l-oeil-du-demon/), j'ai décidé de poursuivre. 
 
 ![milady](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/arikawa_hiro/lmuc-2.jpg)
 
-**Les mémoires d'un chat** est un mélange de road-trip au Japon et de tranche de vie. On suit Sakoru et son chat Nana à travers plusieurs rencontres issues du passé de Sakoru à travers diverses villes du Japon. C'est l'occasion de vivre des flashback pour mieux comprendre le personnage principal et son amour pour les chats. Mais c'est aussi l'occasion de voyager à travers le Japon et de vivre des morceaux d'instants présents avec le chat qui comprend les humains et tente de communiquer avec eux. Ça m'a fait un peu penser aux petites bd *Putain de chat*.
+**Les mémoires d'un chat** est un mélange de road-trip au Japon et de tranche de vie. On suit Sakoru, un mec célibataire et son chat Nana à travers plusieurs rencontres issues du passé de Sakoru. C'est l'occasion de vivre des flashback pour mieux comprendre le personnage principal, son histoire et son amour pour les chats. Mais c'est aussi l'occasion de voyager à travers le Japon et de vivre de petits morceaux d'instant présent avec son chat qui comprend les humains et tente de communiquer avec eux à la manière d'un chat. Ça m'a fait un peu penser aux petites bd *Putain de chat* pour les dialogues.
 
 ![milady](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/arikawa_hiro/lmuc-3.jpg)
 
