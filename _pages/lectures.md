@@ -87,7 +87,6 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Jasper F Forde** - Thursday Next
 1. *L'affaire Jane Eyre*
 
-
 **J. K. Rowling** - *Harry Potter*
 1. *Harry Potter à l'école des sorciers*
 2. *Harry Potter et la Chambre des secrets*
