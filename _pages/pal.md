@@ -11,6 +11,10 @@ comments: true
 - The Expanse 2 - La Guerre de Caliban - James S. A. Corey
 - L'assommoir - Émile Zola
 
+# En audio
+
+- Star Wars 1 - La menace fantôme - Terry Brooks -  Emmanuel Dekoninck
+
 # En PAL
 
 ### Jap
@@ -22,7 +26,6 @@ comments: true
 - Mort sur le nil - Agatha Christie
 - Cruel est le ciel - Tetsuya Honda
 - Au revoir là-haut - Pierre Lemaitre
-- Le dernier lapon - Olivier Truc
 
 ### Pavé
 

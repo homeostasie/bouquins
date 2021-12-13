@@ -52,7 +52,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 ### Enquête / Polar
 
-**Jake Adelstien** - *Tokyo Vice*
+**Jake Adelstein** - [*Tokyo Vice*](https://homeostasie.github.io/bouquins/Jake-Adelstein_Tokyo-Vice/)
 
 **Arthur Conan Doyle**
 1. *Une étude en rouge*
