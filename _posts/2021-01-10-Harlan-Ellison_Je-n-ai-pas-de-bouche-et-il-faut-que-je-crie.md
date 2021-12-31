@@ -8,7 +8,7 @@ comments: true
 ![](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/ellison_harlan/crie-1.jpg)
 
 
-**Je n'ai pas de bouche et il faut que je crie** est une courte nouvelle de *Harlan Ellison*. Elle a donnée lieu à une adaptation en jv et fait partie des nouvelles très célèbres. On suit un petit groupe de personnages : savoir Benny, Ellen, Gorrister, Ted et Nimdok. Ils sont coincés à l'intérieur d'une machine qui s'amuse à les torturer. En effet, l'ordinateur A.M. les affame, les piège, les mutile tout en les maintenant en vie et ce depuis très longtemps. 
+**Je n'ai pas de bouche et il faut que je crie** est une courte nouvelle de *Harlan Ellison*. Elle a donnée lieu à une adaptation en jv et fait partie des nouvelles très célèbres. On suit un petit groupe de personnages : Benny, Ellen, Gorrister, Ted et Nimdok. Ils sont coincés à l'intérieur d'une machine qui s'amuse à les torturer. En effet, l'ordinateur A.M. les affame, les piège, les mutile tout en les maintenant en vie et ce depuis très longtemps. 
 
 ![](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/ellison_harlan/crie-2.jpg)
 
