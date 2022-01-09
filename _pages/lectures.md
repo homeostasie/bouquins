@@ -215,7 +215,10 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 ### Star Wars
 
-[*Jedi fou*](https://homeostasie.github.io/bouquins/SW_Jedi-fou/) - **Timothy Zahn** - 
+[*Prélogie*]
+1. *La menace fantôme* - **Terry Brooks**
+
+[*Jedi fou*](https://homeostasie.github.io/bouquins/SW_Jedi-fou/) - **Timothy Zahn**
 1. *L'Héritier de l'Empire*
 2. *La Bataille des Jedi*
 3. *L'Ultime Commandement*
