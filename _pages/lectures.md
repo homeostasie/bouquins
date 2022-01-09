@@ -216,7 +216,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 ### Star Wars
 
 [*Prélogie*]
-1. *La menace fantôme* - **Terry Brooks**
+1. [*La menace fantôme*](https://homeostasie.github.io/bouquins/SW_La-menace-fantome) - **Terry Brooks**
 
 [*Jedi fou*](https://homeostasie.github.io/bouquins/SW_Jedi-fou/) - **Timothy Zahn**
 1. *L'Héritier de l'Empire*
