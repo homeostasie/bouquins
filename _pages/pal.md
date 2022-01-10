@@ -13,7 +13,7 @@ comments: true
 
 # En audio
 
--4 TDF4 - L'ombre maléfique - G.R.R MArtin - lu par Bernard Métraux
+- TDF4 - L'ombre maléfique - G.R.R MArtin - lu par Bernard Métraux
 
 # En PAL
 
