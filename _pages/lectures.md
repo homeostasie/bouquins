@@ -215,7 +215,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 ### Star Wars
 
-[*Prélogie*]
+*Prélogie*
 1. [*La menace fantôme*](https://homeostasie.github.io/bouquins/SW_La-menace-fantome) - **Terry Brooks**
 
 [*Jedi fou*](https://homeostasie.github.io/bouquins/SW_Jedi-fou/) - **Timothy Zahn**
