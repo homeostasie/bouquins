@@ -273,31 +273,31 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 * *II - A Clash of Kings*
 
-1. *La bataille des rois*
-2. *L’ombre maléfique*
-3. *L’invincible forteresse*
+3. *La bataille des rois*
+4. *L’ombre maléfique*
+5. *L’invincible forteresse*
 
 
 * *III - A Storm of Swords*
 
-1. *Intrigue à Port-Réal* 
-2. *L’épée de Feu*         
-3. *Les noces pourpres*    
-4. *La loi du régicide*  
+6. *Intrigue à Port-Réal* 
+7. *L’épée de Feu*         
+8. *Les noces pourpres*    
+9. *La loi du régicide*  
 
 
 * *IV - A Feast for Crows* 
 
-1. *Le chaos*                 
-2. *Les sables de Dorne*       
-3. *Un festin pour les corbeaux*
+10. *Le chaos*                 
+11. *Les sables de Dorne*       
+12. *Un festin pour les corbeaux*
 
 
 * *V - A Dance with Dragons*
 
-1. *Le bûcher d'un roi*
-2. *Les dragons de Meereen*
-3. *Une danse avec les dragons*
+13. *Le bûcher d'un roi*
+14. *Les dragons de Meereen*
+15. *Une danse avec les dragons*
 
 
 **Justine Niogret**
