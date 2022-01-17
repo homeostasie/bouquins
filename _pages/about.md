@@ -6,9 +6,10 @@ permalink: /about/
 
 ## À PROPOS
 
-Un petit bilan écrit de mes lectures et autres activités :
+Il y a une bonne dizaine d'années j'ai commencé à écrire pour ce blog. J'écris principalement pour moi, pour me rappeler, pour me faire des souvenirs, pour ùme faire plaisir. 
 
-* Lectures,
-* Enseignements,
-* Mooc,
-* et tranches de vie.
+
+* [Lectures](/lectures)
+* [BD](/bd)
+* [JV](/jv)
+* [Mooc](/mooc)
