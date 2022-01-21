@@ -7,7 +7,7 @@ comments: true
 
 Cela fait quelques temps que ce billet me trotte dans la tête. J'ai envie d'écrire un petit mot sur ces communautés Internet qui m'ont marqué. J'ai eu la chance de connaître Internet à son commencement. Mais quelque chose m'a plus marqué que le reste : Le web communautaire avec des forums.
 
-# avant
+# Avant
 
 ## RPG-Legends
 
