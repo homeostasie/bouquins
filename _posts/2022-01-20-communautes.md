@@ -65,7 +65,7 @@ Un peu en lien, mais j'ai vraiment eu ma période Linux et notamment LinuxFr. J'
 
 ## Labolyon
 
-Je ne me rappelle plus vraiment comment je suis arrivé là. Mais en gros, j'ai essayé de prendre part quelques années au **Hackerspace de Lyon**. Peut-être pour dire, j'y suis allé. Je n'y ai pas fait grand chose, mais ça correspondait aussi à une période de ma vie heureuse et simple. 
+Je ne me rappelle plus vraiment comment je suis arrivé là. Mais en gros, j'ai essayé de prendre part quelques années au **Hackerspace de Lyon**. Peut-être pour dire, j'y suis allé. Je n'y ai pas fait grand chose, mais ça correspondait aussi à une période de ma vie heureuse et simple. Je me rappelle du supercalculateur. Je me rappelle d'une forme d'opposition entre la philosophie indé et ceux qui voulait en faire la promotion. Il y avait une belle inertie.
 
 [https://labolyon.fr/](https://labolyon.fr/)
 
