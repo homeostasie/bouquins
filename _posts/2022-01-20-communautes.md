@@ -44,11 +44,23 @@ Gros site, gros forum. J'y ai pas mal participé. J'y ai appris et découvert pl
 
 [https://forum.canardpc.com/](https://forum.canardpc.com/)
 
-#ConfigsPC
+# ConfigsPC
 
 J'ai vraiment aimé cette communauté. Elle était bienveillante. On se discutait à longueur de journée de **config de pc à monter** selon les budgets, les envies. J'y fait mes premières armes en OC sur mon E6300 et le site m'a suivi de longues années pour les upgrades de mon matos. L'admin SquawK a l'air d'être encore très présent mais j'ai tout de même l'impression que le forum est un peu moins bavard.
 
 [https://www.configspc.com/](https://www.configspc.com/)
+
+# Archlinux
+
+J'ai eu ma période Arch. Je lisais le site, le forum, le participais en postant des photos de mon écran avec un gestionnaire de fenêtre pavant (subtle). Je faisais mon petit pacman -Syu tous les jours. J'avais mon petit script pour monter les clés usb automatiquement. Personne à part moi, n'arrivais à se servir de mon pc. 
+
+[https://archlinux.org/](https://archlinux.org/)
+
+# LinuxFR
+
+Un peu en lien, mais j'ai vraiment eu ma période Linux et notamment LinuxFr. J'écrivais quelques journaux. J'ai participé à quelques dépêches. Mais la communauté ne m'a jamais été très sympatique. Un peu trop exigeante pour moi. L'impossibilité d'éditer les messages. Le côté un peu "ça pue, c'est pas libre" a fait que je me suis un peu désengagé. 
+
+[https://linuxfr.org/](https://linuxfr.org/)
 
 # Labolyon
 
