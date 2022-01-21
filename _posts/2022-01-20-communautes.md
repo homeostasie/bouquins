@@ -23,7 +23,7 @@ Iscariote est le site qui m'a fait découvrir les **manga**. J'y ai découvert *
 
 ## Néant Vert
 
-Gros dossier. Je crois que c'est la communauté à laquelle je me suis le plus attaché. Il y avait une méga ambiance. Plein de topic pour **papoter**. Néant Vert correspond aussi à une période de vie où j'étais fondamentalement heureux. La fac, les sorties, le sport, les jc, la science, les potes,... J'ai annoncé avoir chopé celle qui est aujourd'hui ma femme. La taille de la communauté était idéale : ni trop grande, ni trop petite. Elle a parcouru un chemin ouf entre quand j'y suis rentré et quand j'en suis sorti. Je regrette un peu parfois de ne pas m'y être un peu plus investi dans le sens asso. Je crois que je suis peut-être passé un peu à côté de quelque chose qui m'aurait plus. Le blog associé tenu par Amo est un modèle de qualité. Le forum existe toujours mais plus en archive. Le tout a plutôt été transféré sur leur discord. J'y suis étonnamment assez peu actif. Il faut dire que j'ai un peu plus de mal avec les discord qu'avec les forums pour vraiment m'attaquer. 
+Gros dossier. Je crois que c'est la communauté à laquelle je me suis le plus attaché. Il y avait une méga ambiance. Plein de topic pour **papoter**. Néant Vert correspond aussi à une période de vie où j'étais fondamentalement heureux. La fac, les sorties, le sport, les jc, la science, les potes,... J'ai annoncé avoir chopé celle qui est aujourd'hui ma femme. La taille de la communauté était idéale : ni trop grande, ni trop petite. Les smiley étaient vraiment sympa. Pour une fois, je n'avais pas mon [pseudo habituel](https://forum-thalie.fr/thalie/viewtopic.php?f=2&t=264&p=134676#p3321). Elle a parcouru un chemin ouf entre quand j'y suis rentré et quand j'en suis sorti. Je regrette un peu parfois de ne pas m'y être un peu plus investi dans le sens asso. Je crois que je suis peut-être passé un peu à côté de quelque chose qui m'aurait plus. Le blog associé tenu par Amo est un modèle de qualité. Le forum existe toujours mais plus en archive. J'ai réussi à dire merci dans le [topic des 10ans](https://forum-thalie.fr/thalie/viewtopic.php?f=1&t=4348&p=138533#p138533). Le tout a plutôt été transféré sur leur discord. J'y suis étonnamment assez peu actif. Il faut dire que j'ai un peu plus de mal avec les discord qu'avec les forums pour vraiment m'attaquer. 
 
 [http://neantvert.eu/](http://neantvert.eu/)
 
@@ -53,13 +53,13 @@ J'ai vraiment aimé cette communauté. Elle était bienveillante. On se discutai
 
 ## Archlinux
 
-J'ai eu ma période Arch. Je lisais le site, le forum, le participais en postant des photos de mon écran avec un gestionnaire de fenêtre pavant (subtle). Je faisais mon petit pacman -Syu tous les jours. J'avais mon petit script pour monter les clés usb automatiquement. Personne à part moi, n'arrivais à se servir de mon pc. 
+J'ai eu ma période Arch. Je lisais le site, le forum, le participais en postant des photos de mon écran avec un gestionnaire de fenêtre pavant (**subtle**). Je faisais mon petit **pacman -Syu** tous les jours. J'avais mon petit script pour monter les clés usb automatiquement. Personne à part moi, n'arrivais à se servir de mon pc. 
 
 [https://archlinux.org/](https://archlinux.org/)
 
 ## LinuxFR
 
-Un peu en lien, mais j'ai vraiment eu ma période Linux et notamment LinuxFr. J'écrivais quelques journaux. J'ai participé à quelques dépêches. Mais la communauté ne m'a jamais été très sympatique. Un peu trop exigeante pour moi. L'impossibilité d'éditer les messages. Le côté un peu "ça pue, c'est pas libre" a fait que je me suis un peu désengagé. 
+Un peu en lien, mais j'ai vraiment eu ma période Linux et notamment LinuxFr. J'écrivais quelques journaux. J'ai participé à quelques dépêches. Mais la communauté ne m'a jamais été très sympathique. Un peu trop exigeante pour moi. L'impossibilité d'éditer les messages. Le côté un peu *"ça pue, c'est pas libre"* a fait que je me suis un peu désengagé. J'ai quand même eu envie de lui dire [merci](https://linuxfr.org/users/thom/journaux/et-moi-6ans-plus-tard). 
 
 [https://linuxfr.org/](https://linuxfr.org/)
 
@@ -71,13 +71,13 @@ Je ne me rappelle plus vraiment comment je suis arrivé là. Mais en gros, j'ai 
 
 ## Tellement Nomade
 
-Pas rien. Je ne sais pas comment j'ai atterri là-bas. J'ai adoré l'ambiance. Plein de sujet de discussions. Mais aussi tellement de découverte sur le monde de l'audio et notamment mes **écouteurs**. Par contre, le budget a été un frein à ce que je m'y investisse d'avantage. Même si mes écouteurs les ATH im04 coûte encore une petite blinde. À chaque fois que je les mets, je me dit *"merde, c'est quand même autre chose"*. Il y avait une ambiance assez particulière sur le commu, c'était un poil plus fouille merde avec des divergences du côté asso. Je reste curieux d'y retourner, mais j'ai l'impression d'être passé à autre chose. 
+Pas rien. Je ne sais pas comment j'ai atterri là-bas. J'ai adoré l'ambiance. Plein de sujet de discussions. Mais aussi tellement de découverte sur le monde de l'audio et notamment mes écouteurs. Par contre, le budget a été un frein à ce que je m'y investisse d'avantage. Même si mes écouteurs les **ATH im04** coûte encore une petite blinde. À chaque fois que je les mets, je me dit *"merde, c'est quand même autre chose"*. Il y avait une ambiance assez particulière sur le commu, c'était un poil plus fouille merde avec des divergences du côté asso. Je reste curieux d'y retourner, mais j'ai l'impression d'être passé à autre chose. 
 
 [https://tellementnomade.org/](https://tellementnomade.org/)
 
 ## Planete-SF
 
-Petit à petit lire est devenu mon passe temps favori. Au point de presque pourvoir parler de passion maintenant. J'adore lire. Mais, ça a pris du temps. C'est d'abord venu avec de la SF et de la Fantasy. Le Planete-SF est un agrégateur de blog de passionné(e)s. Je n'écrivais que peu sur mon site, je ne lisais que peu de livre "de l'année", du coup, j'ai assez peu participé. Après, il faut avouer qu'ils tiennent un discord des plus agréables. Vraiment une petite communauté en or. 
+Petit à petit lire est devenu mon passe temps favori. Au point de presque pourvoir parler de passion maintenant. J'adore lire. Mais, ça a pris du temps. C'est d'abord venu avec de la SF et de la Fantasy. Le Planete-SF est un agrégateur de blog de passionné(e)s. Je n'écrivais que peu sur mon site, je ne lisais que peu de livre "de l'année", du coup, j'ai assez peu participé. Par contre, cela m'a donné des grosses envies de lire. Après, il faut avouer qu'ils tiennent un discord des plus agréables. Vraiment une petite communauté en or. 
 
 [http://planete-sf.com/](http://planete-sf.com/])
 
@@ -85,15 +85,15 @@ Petit à petit lire est devenu mon passe temps favori. Au point de presque pourv
 
 ## Maths
 
-Un petit discord de maths où je partage mon latex, mon cours, mes éval, les news de sciences. Je n'ai pas vraiment le temps ni l'énergie de me remettre dans des maths de haut vol. Mais lire régulièrement ce discord me fait du bien. 
+Un petit discord de **maths** où je partage mon mon cours, mes éval, les news de sciences. Je n'ai pas vraiment le temps ni l'énergie de me remettre dans des maths de haut vol. Mais lire régulièrement ce discord me fait du bien. J'aurai aimé avoir un tel outil pendant mes études. 
 
 ## Calc
 
-Bon, c'est un petit truc, mais j'aime bien l'ambiance de ce discord sur les calculatrices. C'est tranquille. Ça ne se la joue pas trop expert, mais pas trop *"jeune teubé"* non plus. Je peux partagé assez facilement sur mes temps de correction. Bref, une bonne petite ambiance.
+Bon, c'est un petit truc, mais j'aime bien l'ambiance de ce discord sur les **calculatrices**. C'est tranquille. Ça ne se la joue pas trop expert, mais pas trop *"jeune teubé"* non plus. Je peux partagé assez facilement sur mes temps de correction. Bref, une bonne petite ambiance.
 
-## Nananmi
+## Nanami
 
-Assez proche de celle de Néant Vert dans la communauté. Le discord est vraiment différent avec beaucoup, beaucoup de chanels. Bref, je m'éparpille un peu dans les différentes catégories. Il y a beaucoup de monde, mais je communique surtout avec les mêmes. Une ambiance chill avec de la bouffe, des fringues, de la politique, du sérieux... 
+Assez proche de celle de Néant Vert dans la communauté. Le discord est vraiment différent avec beaucoup, beaucoup de chanels. Bref, je m'éparpille un peu dans les différentes catégories. Il y a beaucoup de monde, mais je communique surtout avec les mêmes. Une ambiance chill avec de **la bouffe, des fringues, de la politique, du sérieux...**
 
 ## Reddit / r/france
 
@@ -101,6 +101,6 @@ Reddit n'est pas simple ni toujours agréable. Force est de constaté que j'y pa
 
 ## WatchUS Seiko
 
-Je suis un poil actif du côté du gros forum de montre dans la rubrique Seiko que je lis avec délectation. Toutes les nouveautés sont postés.
+Je suis un poil actif du côté du gros forum de montre dans la rubrique **Seiko** que je lis avec délectation. Toutes les nouveautés sont postés.
 
 [https://www.watchuseek.com/forums/seiko.21/](https://www.watchuseek.com/forums/seiko.21/)
