@@ -59,3 +59,9 @@ comments: true
 - Hotline Miami 1 & 2
 
 - Into the Breach
+
+# Ceux d'avant sur console
+
+- FF7
+- Vagrant story
+- Chrono Cross
