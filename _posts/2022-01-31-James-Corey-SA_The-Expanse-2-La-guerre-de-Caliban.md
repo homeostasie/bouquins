@@ -19,7 +19,7 @@ Ensuite, on enchaîne les chapitres avec plusieurs points de vue de personnages.
 - **Bobbie** est la marine de Mars qui a survécu à la protomolécule.
 - **Avasarala** est une politicienne sur Terre.
 
-L'intrigue est bien menée. La trame avec Holden laisse peu de répis. On est vraiment au cœur de l'action. La trame d'Avasarala est un peu plus cérébrale. On est plus plongée dans l'intrigue avec ses complots et ses imbrications. On a toujours cette idée que l'information avance à vitesse de chapitre et que seule nous avons toutes les informations. Les personnages ne sachant pas vraiment ce qui se passe à côté. Le récit est très rythmé. Il y a plus d'action que dans le premier. C'est presque méta de voir que cela tracasse aussi Holden. 
+L'intrigue est bien menée. La trame avec Holden laisse peu de répit. On est vraiment au cœur de l'action. La trame d'Avasarala est un peu plus cérébrale. On est plus plongée dans l'intrigue avec ses complots et ses imbrications. On a toujours cette idée que l'information avance à vitesse de chapitre et que seule nous avons toutes les informations. Les personnages ne sachant pas vraiment ce qui se passe à côté. Le récit est très rythmé. Il y a plus d'action que dans le premier. C'est presque méta de voir que cela tracasse aussi Holden. 
 
 Le livre est un peu long (600p) mais les chapitres sont petits (10p). Du coup, on a quand même l'impression d'avancer assez vite. On change assez vite de point de vu. Arriver à la moitié du roman, on voit les trames se croiser et on a vraiment envie de voir comment ça va tourner. 
 
