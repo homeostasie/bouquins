@@ -8,7 +8,6 @@ comments: true
 # En cours 
 
 - À la poursuite d'Octobre Rouge - Tom Clancy
-- The Expanse 2 - La Guerre de Caliban - James S. A. Corey
 - L'assommoir - Émile Zola
 
 # En audio
@@ -37,7 +36,6 @@ comments: true
 - Lonesome Dove - Larry McMurtry
 
 ### SF
-
 
 - Abominable de Dan Simmons
 - Vision aveugle - Peter Watts
