@@ -43,4 +43,4 @@ Il faut que je reprenne les **Akira**. J'en suis au tome 4. C'est toujours aussi
 
 # En audio
 
-En ce moment, ce qui m'attire le plus en audio pour mes trajets domicile / travail reste la fantasy. Je pense continuer **Le trône de Fer** et alterner avec du J.R.R. Tolkien avec notamment le dernier tome du **Seigneur des Anneaux**, **Bilboo le hobbit** et **Silmarion**.
+En ce moment, ce qui m'attire le plus en audio pour mes trajets domicile / travail reste la fantasy. Je pense continuer **Le trône de Fer** et alterner avec du J.R.R. Tolkien avec notamment le dernier tome du **Seigneur des Anneaux**, **Bilbo le hobbit** et **Silmarion**.
