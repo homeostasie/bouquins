@@ -16,7 +16,7 @@ comments: true
 
 - **La course au mouton sauvage** : J'ai envie de me faire un *Haruki Murakami*. Celui-là à l'air assez fun. 
 
-- **Le nom de la Rose** : En ce moment, dans ma longue liste de pavés : *Shogun, Le comte de Monte-Cristo, Vie et Destin, Lonesome Dove,..* c'est celui-là que j'ai envie de lire. Mais, je vais peut-être attendre les vacances pour l'attaquer. Par certain de trouver le courage avant.
+- **Le nom de la Rose** : En ce moment, dans ma longue liste de pavés : *Shogun, Le comte de Monte-Cristo, Vie et Destin, Lonesome Dove,..* c'est celui-là que j'ai envie de lire. Mais, je vais peut-être attendre les vacances pour l'attaquer. Pas certain de trouver le courage avant.
 
 
 ### J'en ai envie, mais je ne suis pas sûr
