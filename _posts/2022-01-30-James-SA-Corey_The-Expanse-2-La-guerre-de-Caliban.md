@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Expanse 2 - La guerre de Caliban - James Corey SA"
+title: "The Expanse 2 - La guerre de Caliban - James SA Corey"
 categories: lectures
 comments: true
 ---
