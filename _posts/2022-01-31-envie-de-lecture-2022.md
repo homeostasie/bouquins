@@ -10,7 +10,7 @@ comments: true
 
 - **The expanse 3 - La porte d'Abaddon** : J'ai adoré le 2. Il faut que je continue sans perdre trop de temps.
 
-- **Star Wars - Maître et apprenti** : C'est aussi histoire de reprendre un peu les lectures détentes dans l'univers Star Wars. L'occassion de lire le roman avant la prochaine série sur Obi-Wan Kenobi.
+- **Star Wars - Maître et apprenti** : C'est aussi histoire de reprendre un peu les lectures détentes dans l'univers Star Wars. L'occasion de lire le roman avant la prochaine série sur Obi-Wan Kenobi.
 
 - **Mort sur le Nil** : J'ai adoré les trois premiers Agatha Christie lus. Il faut vraiment je continue cette découverte.
 
