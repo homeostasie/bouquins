@@ -25,7 +25,7 @@ comments: true
 
 - **Vita Nostra** : Tous les billets que j'ai lu sur le sujet me donnent envie de le lire. Je ne sais même pas pourquoi j'attends autant.
 
-- **Chasse Royale** : J'ai mis du temps lire *Même pas mort*. J'ai mis du temps rentrer dans la lecture. Mais une fois à la moitié. Impossible de décrocher. J'ai vraiment adoré. J'ai une petite appréhension. J'ai envie de savoir la suite mais j'ai un peu peur de m'y mettre.
+- **Chasse Royale** : J'ai mis du temps à lire *Même pas mort*. J'ai mis du temps rentrer dans la lecture. Mais une fois à la moitié. Impossible de décrocher. J'ai vraiment adoré. J'ai une petite appréhension. J'ai envie de savoir la suite mais j'ai un peu peur de m'y mettre.
 
 - **Shining** : J'ai bien envie de lire un *Stephen King* et celui-là pour son côté fantastique / horreur me fait de l'œeil.
 
