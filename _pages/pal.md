@@ -8,11 +8,10 @@ comments: true
 # En cours 
 
 - À la poursuite d'Octobre Rouge - Tom Clancy
-- L'assommoir - Émile Zola
 
 # En audio
 
-- TDF4 - L'ombre maléfique - G.R.R Martin - lu par Bernard Métraux
+- sda3 - Le retour du roi - J.R.R. Tolkien - lu par Thierry Janssen
 
 # En PAL
 
