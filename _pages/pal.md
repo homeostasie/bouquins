@@ -8,6 +8,7 @@ comments: true
 # En cours 
 
 - À la poursuite d'Octobre Rouge - Tom Clancy
+- Maître et apprenti - Star Wars
 
 # En audio
 
@@ -17,7 +18,7 @@ comments: true
 
 ### Jap
 
-- La course au mouton sauvage - Haruki Murakami
+- Les chroniques de l'oiseau à ressort - Haruki Murakami
 
 ### Enquête
 
@@ -27,16 +28,14 @@ comments: true
 
 ### Pavé
 
-
-- Shogun - James Clavell
 - Le comte de Monte-Cristo - Alexandre Dumas
 - Le nom de la Rose - Umberto Eco
-- Vie et Destin - Vassili Grossman
 - Lonesome Dove - Larry McMurtry
 
 ### SF
 
-- Abominable de Dan Simmons
+- Les Montagnes hallucinées - H. P. Lovecraft
+- La porte d'Abaddon - James S. A. Corey
 - Vision aveugle - Peter Watts
 
 ### Fantasy
@@ -46,4 +45,5 @@ comments: true
 
 ### Autre 
 
+- Shining - Stephen King
 - Le horla - Guy de Maupassant
