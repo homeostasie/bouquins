@@ -36,7 +36,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Marguerite Yourcenar** - [*Mémoires d'Hadrien*](https://homeostasie.github.io/bouquins/Marguerite-Yourcenar_Memoires-d-Hadrien)
 
-**Émile Zola** - *L'assommoir*
+**Émile Zola** - [*L'assommoir*](https://homeostasie.github.io/bouquins/Emile-Zola-L-Assommoir)
 
 
 ### Guerre
