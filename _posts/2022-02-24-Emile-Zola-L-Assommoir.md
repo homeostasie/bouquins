@@ -5,11 +5,11 @@ categories: lectures
 comments: true
 ---
 
-![folio](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/zola-emile/assommoir-1.jpg)
+![folio](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/zola_emile/assommoir-1.jpg)
 
 Cela fait quelques années que j'apprécie des livres de littérature classique comme [Mémoires d'Hadrien](https://homeostasie.github.io/bouquins/Marguerite-Yourcenar_Memoires-d-Hadrien) ou [La supplication](https://homeostasie.github.io/bouquins/Alexievitch-Svetlana_La-supplication/) mais ma dernière expérience en littérature classique un peu ancienne [Crime et Châtiment](https://homeostasie.github.io/bouquins/Fiodor-Dostoievski_Crime-et-chatiment) a été un sombre échec. J'ai détesté, je me suis ennuyé... J'ai été bien refroidi à l'idée de poursuivre l'expérience. Mais, plusieurs personnes m'en ont parlé en bien. De plus, le sujet m'intriguait. Du coup, j'ai fini par me lancer. Par peur de m'ennuyer, j'ai lancé d'autres lectures en même temps... Mais finalement, c'est passé tout seul. 
 
-![folio](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/zola-emile/assommoir-2.jpg)
+![folio](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/zola_emile/assommoir-2.jpg)
 
 L'Assommoir est un roman qui prend place dans la grande saga des Rougon-Macquart de Zola. On est dans le quartier de la Goutte-d'Or à Paris un peu avant 1900. D'habitude je ne donne pas vraiment ce genre d'info, mais là dans ce roman, les personnages et leurs histoires sont aussi là pour faire vivre ce quartier et cette époque. 
 
@@ -25,4 +25,4 @@ Je m'attendais à un roman très, très dur. Peut-être tant mieux comme ça j'a
 
 Sacré lecture aussi marquante que plaisante. J'ai du coup prévu de poursuivre avec Germinal pour savoir un peu comment s'en sort Étienne le fils de Gervaise mais aussi pour retrouver cet auteur. Bref, à recommander chaudement si on est un temps soit peu tenté. 
 
-![folio](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/zola-emile/assommoir-3.jpg)
+![folio](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/zola_emile/assommoir-3.jpg)
