@@ -13,7 +13,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Hiro Arikawa** - [*Les mémoires d'un chat*](https://homeostasie.github.io/bouquins/Hiro-Arikawa_Les-memoires-d-un-chat)
 
-**Albert Camus** - *L'Étranger*
+**Albert Camus** - [*L'Étranger*](https://homeostasie.github.io/bouquins/Albert-Camus-L-Etranger/)
 
 **Joseph Conrad** - [*Au cœur des ténèbres*](https://homeostasie.github.io/bouquins/Joseph-Conrad_Coeur-des-tenebres/)
 
