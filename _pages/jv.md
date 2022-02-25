@@ -15,8 +15,6 @@ comments: true
 
 **Super Meat Boy**
 
-**Nuclear Throne**
-
 **Chrono Trigger**
 
 **Hollow Knight**
@@ -46,15 +44,16 @@ comments: true
 - Salt and Sanctuary
 - Bastion
 - Hyper Light Drifter
+
 - Dead Cells
+- Nuclear Throne
 
 - Aquaria
-
 - Guacamelee 1 & 2
 
 - Shadow Tactics: Blades of the Shogun
 
-- Trine
+- Trine 1, 2 & 3
 
 - Hotline Miami 1 & 2
 

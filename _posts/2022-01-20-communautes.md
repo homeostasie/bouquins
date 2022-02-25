@@ -15,7 +15,7 @@ J'ai découvert le forum en cherchant des iso psx. Je suis tombé sur ce un peti
 
 ## Lost Edens
 
-Je voulais un peu publier sur le site vitrine. Mais impossible sur le site RPG-Legends. Du coup, j'avais cherché un peu à côté et j'étais tombé sur un petit site sur le RPG. J'ai du faire quelques billets mais sans trop de conviction. Le site avait une belle couleur doré et m'a appris le markdown. Le site est également introuvable maintenant. 
+Je voulais un peu publier sur le site vitrine. Mais impossible sur le site RPG-Legends. Du coup, j'avais cherché un peu à côté et j'étais tombé sur un petit site sur le RPG. J'ai dû faire quelques billets mais sans trop de conviction. Le site avait une belle couleur doré et m'a appris le markdown. Le site est également introuvable maintenant. 
 
 ## Iscariote
 
@@ -79,7 +79,7 @@ Pas rien. Je ne sais pas comment j'ai atterri là-bas. J'ai adoré l'ambiance. P
 
 Petit à petit lire est devenu mon passe temps favori. Au point de presque pourvoir parler de passion maintenant. J'adore lire. Mais, ça a pris du temps. C'est d'abord venu avec de la SF et de la Fantasy. Le Planete-SF est un agrégateur de blog de passionné(e)s. Je n'écrivais que peu sur mon site, je ne lisais que peu de livre "de l'année", du coup, j'ai assez peu participé. Par contre, cela m'a donné des grosses envies de lire. Après, il faut avouer qu'ils tiennent un discord des plus agréables. Vraiment une petite communauté en or. 
 
-[http://planete-sf.com/](http://planete-sf.com/])
+[http://planete-sf.com/](http://planete-sf.com/)
 
 # Et maintenant
 

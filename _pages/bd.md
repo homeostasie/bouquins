@@ -17,7 +17,7 @@ comments: true
 
 **Tsukasa Hōjō** - *City Hunter*
 
-**Mitsuru Adachi** - *H2*
+**Mitsuru Adachi** - [*H2*](https://homeostasie.github.io/bouquins/Misturu-Adachi-h2/)
 
 **Toru Fujisawa** - *GTO* 
 
