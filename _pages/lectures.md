@@ -70,6 +70,9 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 * [*Le meurtre de Roger Ackroyd*](https://homeostasie.github.io/bouquins/Agatha-Christie_Le-meurtre-de-Roger-Ackroyd/)
 * *Les 10 petits nègres*
 
+**Tom Clancy**
+* [*À la poursuite d'Octobre Rouge*](https://homeostasie.github.io/bouquins/Tom-Clancy_Octobre-Rouge)
+
 **Stieg Larsson** - Millenium
 1. *Les Hommes qui n'aimaient pas les femmes*
 
