@@ -5,7 +5,7 @@ categories: lectures
 comments: true
 ---
 
-![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/christie-agatha/Le-crime-de-l-orient-express.jpg)
+![moutons](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/christie_agatha/Le-crime-de-l-orient-express.jpg)
 
 
 J'ai continué ma découverte d'Agatha Christie avec **Le crime de l'Orient-Express**. Hercule Poirot doit rentrer sur Londres pour une affaire urgente. M. Bouc, directeur de l'Orient-Express et ami de Poirot lui dégote une place in extrémis. Un  américain Samuel Ratchett est assassiné. Alors que le train est bloqué par la neige, M. Bouc lui demande de mener l'enquête avant l'arrivée de la police Yougoslave.
