@@ -7,12 +7,13 @@ comments: true
 
 # En cours 
 
-- À la poursuite d'Octobre Rouge - Tom Clancy
 - Maître et apprenti - Star Wars
+- Jurassic Park - Michael Crichton
 
 # En audio
 
-- sda3 - Le retour du roi - J.R.R. Tolkien - lu par Thierry Janssen
+- sw2 - L'attaque des clones -  R. A. Salvatore - lu par Emmanuel Dekoninck
+
 
 # En PAL
 
@@ -37,6 +38,7 @@ comments: true
 - Les Montagnes hallucinées - H. P. Lovecraft
 - La porte d'Abaddon - James S. A. Corey
 - Vision aveugle - Peter Watts
+- Haute République 3 - L'Orage Gronde - Star Wars
 
 ### Fantasy
 
