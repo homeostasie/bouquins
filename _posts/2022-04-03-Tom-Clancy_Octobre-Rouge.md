@@ -7,7 +7,7 @@ comments: true
 
 ![folio](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/clancy_tom/octobre.jpg)
 
-Je suis de base assez attiré par les romans d'espionnage et je gardais un très bon souvenir du film avec Sean Connery. J'ai appris que c'était adapté d'un bouquin. J'aime beaucoup l'idée du huit clos dans un sous-marin alors j'ai tenté l'expérience.
+Je suis de base assez attiré par les romans d'espionnage et je gardais un très bon souvenir du film avec Sean Connery. J'ai appris que c'était adapté d'un bouquin. J'aime beaucoup l'idée du huit-clos dans un sous-marin alors j'ai tenté l'expérience.
 
 L'histoire est assez simple. On est en pleine guerre froide, un officier de talent soviétique Ramus veut déserté et rejoindre le camp des USS. Les ricains sont d'abord déstabilisé et font donc appel à la crème de leur analyste **Jack Ryan** pour essayer de comprendre la situation et agir au mieux. En trois heures et avec trois cafés, lui et ses amis vont réussir à tout démêler... 
 
