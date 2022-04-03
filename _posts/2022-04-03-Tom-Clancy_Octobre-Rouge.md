@@ -14,4 +14,3 @@ L'histoire est assez simple. On est en pleine guerre froide, un officier de tale
 Ouah ! Quelle déception. C'est hyper manichéen. Les gentils us, les méchants russes. Le seul bon russe, c'est parce que sa mère la initié à Dieu, les équipement russes sont désuets alors qu'au us, c'est à la pointe. Les ricains ont plusieurs coup d'avance et tout le temps... Bref, c'était tellement stéréotypé que ça a rendu la lecture désagréable. 
 
 Après, il y a la question de la marine et des sous-marins, pour les amateurs du genre, ça peut suffire pour passer un agréable moment. C'est vrai que la course poursuite à la fin est bien mené. Mais sinon, ça a pris un coup de vieux et c'est pas fou fou.
-
