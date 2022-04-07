@@ -239,7 +239,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 2. *Le gambit du Hutt*
 3. *L'aube de la Rébellion*
 
-[*Chasseurs de prime*](https://homeostasie.github.io/bouquins/Chasseurs-de-prime/) - **K.W. Jeter**
+[*Chasseurs de prime*](https://homeostasie.github.io/bouquins/SW_Chasseurs-de-prime/) - **K.W. Jeter**
 1. *L'armure Mandalorienne*
 2. *Le vaisseau Esclave*
 3. *Une encombrante cargaison*
