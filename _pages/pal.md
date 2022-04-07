@@ -7,7 +7,6 @@ comments: true
 
 # En cours 
 
-- Maître et apprenti - Star Wars
 - Jurassic Park - Michael Crichton
 
 # En audio
