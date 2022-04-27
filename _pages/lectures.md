@@ -224,6 +224,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 *Prélogie*
 0. [*Maître et apprenti*](https://homeostasie.github.io/bouquins/SW_maitre-et-apprenti) - **Claudia Gray**
 1. [*La menace fantôme*](https://homeostasie.github.io/bouquins/SW_La-menace-fantome) - **Terry Brooks**
+2. [*L'attaque des clones*](https://homeostasie.github.io/bouquins/SW_attaque-des-clones) - **R. A. Salvatore**
 
 [*Jedi fou*](https://homeostasie.github.io/bouquins/SW_Jedi-fou/) - **Timothy Zahn**
 1. *L'Héritier de l'Empire*
