@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maître & Apprenti - Claudia Gray"
+title: "Star Wars - Maître & Apprenti - Claudia Gray"
 categories: lectures
 comments: true
 ---
