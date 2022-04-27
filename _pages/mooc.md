@@ -56,15 +56,13 @@ The class will consist of video lectures, weekly quizzes, and discussion forums.
 
 ```
 Partez à la découverte de l'infiniment grand, en compagnie de physiciens et de physiciennes qui vont vous faire découvrir l'Univers aux distances les plus grandes connues à ce jour et les outils scientifiques utilisés pour l'étudier. Vous comprendrez ce que les scientifiques ont pu apprendre sur l'histoire et la structure de l'Univers, ses composantes, et comment ils ont pu accumuler ces observations sur les étoiles, les galaxies, les amas de galaxies, et l'Univers dans son ensemble.
+```
+### Vers l'infiniment petit
 
-Ce cours en français fait partie du MOOC "Voyages de l'infiniment grand à l'infiniment petit", conçus par des physiciens et des physiciennes du Labex P2IO (Physique des 2 Infinis et des Origines, IPP et Université Paris-Saclay) regroupant des laboratoires de physique de l'infiniment grand et de l'infiniment petit situés à Orsay et Saclay. Les différents parcours de ce MOOC vous montreront les connaissances et les énigmes de l'infiniment grand et de l'infiniment petit, les relations que ces deux infinis entretiennent, et les liens de ces découvertes avec la société :
+*Coursera* - *Université Paris-Saclay* - **3/4s**
 
-https://www.coursera.org/learn/physique-2-infinis-infiniment-petit
-https://www.coursera.org/learn/physique-2-infinis-infiniment-grand
-https://www.coursera.org/learn/physique-2-infinis-liens
-https://www.coursera.org/learn/physique-2-infinis-et-nous
-
-Le MOOC "Voyages de l'infiniment grand à l'infiniment petit" a été conçu avec le soutien financier du Labex P2IO (Physique des 2 Infinis et des Origines) présenté sur www.labex-p2io.fr (IPP et Université Paris-Saclay)
+```
+Partez à la découverte de l'infiniment petit, en compagnie de physiciens et de physiciennes qui vont vous faire découvrir les secrets de la matière quand on l'étudie aux distances les plus courtes, aux énergies les plus élevées. Vous vous initierez aux progrès les plus récents de la recherche en physique nucléaire et de la physique des particules, et vous découvrirez les principes des accélérateurs et des détecteurs avec lesquels on a pu étudier la matière à ces échelles, pour arriver jusqu'à la découverte du boson de Higgs en 2012 auprès du collisionneur de particules du CERN, le LHC.
 ```
 
 ## 2. Mathématiques
