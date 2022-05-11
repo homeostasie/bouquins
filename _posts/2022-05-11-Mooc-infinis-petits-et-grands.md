@@ -12,9 +12,9 @@ Ce mooc propose une grosse introduction pour comprendre les liens entre l'infini
 Le mooc était passionnant sans être trop exigeant ni très long. Bref, un bon moment.
 
 
-* https://www.coursera.org/learn/physique-2-infinis-infiniment-petit
-* https://www.coursera.org/learn/physique-2-infinis-infiniment-grand
-* https://www.coursera.org/learn/physique-2-infinis-liens
-* https://www.coursera.org/learn/physique-2-infinis-et-nous
+* [https://www.coursera.org/learn/physique-2-infinis-infiniment-petit](https://www.coursera.org/learn/physique-2-infinis-infiniment-petit)
+* [https://www.coursera.org/learn/physique-2-infinis-infiniment-grand](https://www.coursera.org/learn/physique-2-infinis-infiniment-grand)
+* [https://www.coursera.org/learn/physique-2-infinis-liens](https://www.coursera.org/learn/physique-2-infinis-liens)
+* [https://www.coursera.org/learn/physique-2-infinis-et-nous](https://www.coursera.org/learn/physique-2-infinis-et-nous)
 
 Le livre qui complète et illustre est également librement disponible : [PASSEPORT POUR LES DEUX INFINIS](/pics/blog/mooc/PasseportPourLesDeuxInfinis_Dunod.pdf)
