@@ -11,7 +11,7 @@ Cela fait quelques temps que ce billet me trotte dans la tête. J'ai envie d'éc
 
 ## RPG-Legends
 
-J'ai découvert le forum en cherchant des iso psx. Je suis tombé sur ce un petit site, pas spécialement beau ni convivial. Par contre le forum, la grande classe, un beau **vbulletin**, très haut de gamme avec beaucoup de fonctionnalités. C'est un peu là que j'ai découvert qu'on pouvait partager, communiquer. Il y a avait de superbes tests réalisés par des membres. Les modo étaient charismatiques. Je me rappelle d'un *Jet Black* notamment. On pouvait parler de tout. Il y avait un beau topic science. Cela restait assez sérieux et sans trop de débordement. Il y avait un seul topic de flood ou l'on pouvait se défouler. Je crois que j'ai compris que le mot flood est simplement une trad de l'anglais. Le forum s'est éteint petit à petit. Notamment parce que l'admin était assez peu présent et qu'aucun projet ne s'engageait pour mettre à jour le site. Tristement aujourd'hui, ni le site, ni le forum n'existe encore. 
+J'ai découvert le forum en cherchant des iso psx. Je suis tombé sur ce petit site, pas spécialement beau ni convivial. Par contre le forum, la grande classe, un beau **vbulletin**, très haut de gamme avec beaucoup de fonctionnalités. C'est un peu là que j'ai découvert qu'on pouvait partager, communiquer. Il y a avait de superbes tests réalisés par des membres. Les modo étaient charismatiques. Je me rappelle d'un *Jet Black* notamment. On pouvait parler de tout. Il y avait un beau topic science. Cela restait assez sérieux et sans trop de débordement. Il y avait un seul topic de flood ou l'on pouvait se défouler. Je crois que je n'ai compris d'où venait le mot flood que récemment. C'est simplement une trad de l'anglais . Le forum s'est éteint petit à petit. Notamment parce que l'admin était assez peu présent et qu'aucun projet ne s'engageait pour mettre à jour le site. Tristement aujourd'hui, ni le site, ni le forum n'existe encore. 
 
 ## Lost Edens
 
@@ -23,7 +23,7 @@ Iscariote est le site qui m'a fait découvrir les **manga**. J'y ai découvert *
 
 ## Néant Vert
 
-Gros dossier. Je crois que c'est la communauté à laquelle je me suis le plus attaché. Il y avait une méga ambiance. Plein de topic pour **papoter**. Néant Vert correspond aussi à une période de vie où j'étais fondamentalement heureux. La fac, les sorties, le sport, les jc, la science, les potes,... J'ai annoncé avoir chopé celle qui est aujourd'hui ma femme. La taille de la communauté était idéale : ni trop grande, ni trop petite. Les smiley étaient vraiment sympa. Pour une fois, je n'avais pas mon [pseudo habituel](https://forum-thalie.fr/thalie/viewtopic.php?f=2&t=264&p=134676#p3321). Elle a parcouru un chemin ouf entre quand j'y suis rentré et quand j'en suis sorti. Je regrette un peu parfois de ne pas m'y être un peu plus investi dans le sens asso. Je crois que je suis peut-être passé un peu à côté de quelque chose qui m'aurait plus. Le blog associé tenu par Amo est un modèle de qualité. Le forum existe toujours mais plus en archive. J'ai réussi à dire merci dans le [topic des 10ans](https://forum-thalie.fr/thalie/viewtopic.php?f=1&t=4348&p=138533#p138533). Le tout a plutôt été transféré sur leur discord. J'y suis étonnamment assez peu actif. Il faut dire que j'ai un peu plus de mal avec les discord qu'avec les forums pour vraiment m'attaquer. 
+Gros dossier. Je crois que c'est la communauté à laquelle je me suis le plus attaché. Il y avait une méga ambiance. Plein de topics pour **papoter**. Néant Vert correspond aussi à une période de vie où j'étais fondamentalement heureux. La fac, les sorties, le sport, les jv, la science, les potes,... J'ai annoncé avoir chopé celle qui est aujourd'hui ma femme. La taille de la communauté était idéale : ni trop grande, ni trop petite. Les smiley étaient vraiment sympa. Pour une fois, je n'avais pas mon [pseudo habituel](https://forum-thalie.fr/thalie/viewtopic.php?f=2&t=264&p=134676#p3321). Cette commu a parcouru un chemin ouf entre quand j'y suis rentré et quand j'en suis sorti. Je regrette un peu parfois de ne pas m'y être un peu plus investi dans le sens asso. Je crois que je suis peut-être passé un peu à côté de quelque chose qui m'aurait plus. Le blog associé tenu par Amo est un modèle de qualité. Le forum existe toujours mais plus en archive. J'ai réussi à dire merci dans le [topic des 10ans](https://forum-thalie.fr/thalie/viewtopic.php?f=1&t=4348&p=138533#p138533). Le tout a plutôt été transféré sur leur discord. J'y suis étonnamment assez peu actif. Il faut dire que j'ai un peu plus de mal avec les discord qu'avec les forums pour vraiment m'attaquer. 
 
 [http://neantvert.eu/](http://neantvert.eu/)
 
@@ -35,7 +35,7 @@ Gros dossier. Je ne me rappelle plus vraiment comment je me suis retrouvé là-b
 
 ## Dystopia
 
-Jeu assez important pour moi. Je lui ai dédié mon premier site. J'ai essayé d'animer une petite communauté : **Holomrophe** autour de ce jeu en fr. J'y ai pas mal joué et comme on n'était pas si nombreux, j'ai rencontré en jeu une grosse partie de la communauté. Les **pub** gardent une part assez importante pour moi dans ce qui a été ma découverte des jeux vidéo en général. 
+Jeu assez important pour moi. Je lui ai dédié mon premier site. J'ai essayé d'animer une petite communauté : **Holomorphe** autour de ce jeu en fr. J'y ai pas mal joué et comme on n'était pas si nombreux, j'ai rencontré en jeu une grosse partie de la communauté. Les **pub** gardent une part assez importante pour moi dans ce qui a été ma découverte des jeux vidéo en général. 
 
 [https://forum.punyhuman.com/](https://forum.punyhuman.com/)
 
@@ -53,7 +53,7 @@ J'ai vraiment aimé cette communauté. Elle était bienveillante. On se discutai
 
 ## Archlinux
 
-J'ai eu ma période Arch. Je lisais le site, le forum, le participais en postant des photos de mon écran avec un gestionnaire de fenêtre pavant (**subtle**). Je faisais mon petit **pacman -Syu** tous les jours. J'avais mon petit script pour monter les clés usb automatiquement. Personne à part moi, n'arrivais à se servir de mon pc. 
+J'ai eu ma période Arch. Je lisais le site, le forum, le participais en postant des photos de mon écran avec un gestionnaire de fenêtre pavant (**subtle**). Je faisais mon petit **pacman -Syu** tous les jours. J'avais mon petit script pour monter les clés usb automatiquement. Personne à part moi, n'arrivait à se servir de mon pc. 
 
 [https://archlinux.org/](https://archlinux.org/)
 
@@ -65,13 +65,13 @@ Un peu en lien, mais j'ai vraiment eu ma période Linux et notamment LinuxFr. J'
 
 ## Labolyon
 
-Je ne me rappelle plus vraiment comment je suis arrivé là. Mais en gros, j'ai essayé de prendre part quelques années au **Hackerspace de Lyon**. Peut-être pour dire, j'y suis allé. Je n'y ai pas fait grand chose, mais ça correspondait aussi à une période de ma vie heureuse et simple. Je me rappelle du supercalculateur. Je me rappelle d'une forme d'opposition entre la philosophie indé et ceux qui voulait en faire la promotion. Il y avait une belle inertie.
+Je ne me rappelle plus vraiment comment je suis arrivé là. Mais en gros, j'ai essayé de prendre part quelques années au **Hackerspace de Lyon**. Peut-être pour dire, j'y suis allé. Je n'y ai pas fait grand chose, mais ça correspondait aussi à une période de ma vie heureuse et simple. Je me rappelle du supercalculateur. Je me rappelle d'une forme d'opposition entre la philosophie indé et ceux qui voulait en faire la promotion. Il y avait une sacré inertie.
 
 [https://labolyon.fr/](https://labolyon.fr/)
 
 ## Tellement Nomade
 
-Pas rien. Je ne sais pas comment j'ai atterri là-bas. J'ai adoré l'ambiance. Plein de sujet de discussions. Mais aussi tellement de découverte sur le monde de l'audio et notamment mes écouteurs. Par contre, le budget a été un frein à ce que je m'y investisse d'avantage. Même si mes écouteurs les **ATH im04** coûte encore une petite blinde. À chaque fois que je les mets, je me dit *"merde, c'est quand même autre chose"*. Il y avait une ambiance assez particulière sur le commu, c'était un poil plus fouille merde avec des divergences du côté asso. Je reste curieux d'y retourner, mais j'ai l'impression d'être passé à autre chose. 
+Pas rien. Je ne sais pas comment j'ai atterri là-bas. J'ai adoré l'ambiance. Plein de sujets de discussions. Mais aussi tellement de découverte sur le monde de l'audio et notamment mes écouteurs. Par contre, le budget a été un frein à ce que je m'y investisse d'avantage. Même si mes écouteurs les **ATH im04** coûte encore une petite blinde. À chaque fois que je les mets, je me dit *"merde, c'est quand même autre chose"*. Il y avait une ambiance assez particulière sur le commu, c'était un poil plus *fouille-merde* avec des divergences du côté asso. Je reste curieux d'y retourner, mais j'ai l'impression d'être passé à autre chose. 
 
 [https://tellementnomade.org/](https://tellementnomade.org/)
 
