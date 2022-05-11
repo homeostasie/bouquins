@@ -5,7 +5,7 @@ categories: blog
 comments: true
 ---
 
-Finir un mooc, c'est toujours un bon moment, une bonne nouvelle. Je viens de finir les 4 petits moocs dispensé par X-Polytechnique sur les deux infinis. Chaque mooc se finissait en 4 semaines et proposait quelques vidéos d'introductions et de présentations. Les graphiques explicatifs était d'une grande qualité. La lecture et l'écoute en Français m'ont aussi un peu reposé. Je n'ai pas pu faire les tests qui n'était pas vérifiables pour les auditeurs libres. 
+Finir un mooc, c'est toujours un bon moment, une bonne nouvelle. Je viens de finir les 4 petits moocs dispensé par X-Polytechnique sur les deux infinis. Chaque mooc se finissait en 4 semaines et proposait quelques vidéos d'introductions et de présentations. Les graphiques explicatifs était d'une grande qualité. La lecture et l'écoute en Français m'ont aussi un peu reposé. Je n'ai pas passé les tests qui n'étaient pas vérifiables pour les auditeurs libres. Dommage.
 
 Ce mooc propose une grosse introduction pour comprendre les liens entre l'infiniment petit avec les particules et l'infiniment grand avec les objets du cosmos. On découvre notamment les gros laboratoires de sciences comme le LHC et comment ils fonctionnent. 
 
