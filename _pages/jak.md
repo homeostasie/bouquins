@@ -11,7 +11,7 @@ comments: true
 
 * *Georges Bernanos* - **Sous le soleil de Satan** : 
 
-* *Jun'Ichiro Tanizaki* - **Dans l'oeil du demon** : 
+* *Jun'Ichiro Tanizaki* - **Dans l'oeil du demon** : ★★
 
 # Guerre
 
@@ -32,6 +32,7 @@ comments: true
 4. **Peine de mort** : ★★
 10. **Tempête sur la Manche** : ★★
 13. **Ceux du Grand-Café** : ★★ 
+18.. **L'Amoureux de madame Maigret** : ★★★
 
 # Poirot - Agatha Christie
 
