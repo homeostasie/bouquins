@@ -21,11 +21,11 @@ comments: true
 
 # Polar
 
-* *Franck Thilliez* - **Il etait deux fois** ★★★
+* *Franck Thilliez* - **Il etait deux fois** : ★★★
 
 # Maigret - Georges Simenon
 
-1. **Pietr-le-Letton** ★★★
+1. **Pietr-le-Letton** : ★★★
 
 ## Les nouvelles de Maigret
 
