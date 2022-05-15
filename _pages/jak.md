@@ -32,7 +32,7 @@ comments: true
 4. **Peine de mort** : ★★
 10. **Tempête sur la Manche** : ★★
 13. **Ceux du Grand-Café** : ★★ 
-18.. **L'Amoureux de madame Maigret** : ★★★
+18. **L'Amoureux de madame Maigret** : ★★★
 
 # Poirot - Agatha Christie
 
