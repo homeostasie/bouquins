@@ -9,7 +9,9 @@ comments: true
 
 * *Svetlana Alexievitch* - **La supplication** : ★★★★
 
-* *Georges Bernanos* - **Sous le soleil de Satan** : 
+* *Georges Bernanos* - **Sous le soleil de Satan** : ★★
+
+* *Albert Camus* - **La peste** : ★★★★
 
 * *Jun'Ichiro Tanizaki* - **Dans l'oeil du demon** : ★★
 
