@@ -86,6 +86,9 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 ### Fantastique 
 
+**Michael Crichton**
+1. *Jurassic Park*
+
 **Stephen King** - *La Tour Sombre*
 1. *Le Pistolero*
 
