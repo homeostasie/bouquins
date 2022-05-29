@@ -7,11 +7,11 @@ comments: true
 
 # En cours 
 
-- Jurassic Park - Michael Crichton
+- Haute République 3 - L'Orage Gronde - Star Wars
 
 # En audio
 
-- sw2 - L'attaque des clones -  R. A. Salvatore - lu par Emmanuel Dekoninck
+- Intrigue à Port-Réal - George R. R. Martin
 
 
 # En PAL
@@ -37,7 +37,7 @@ comments: true
 - Les Montagnes hallucinées - H. P. Lovecraft
 - La porte d'Abaddon - James S. A. Corey
 - Vision aveugle - Peter Watts
-- Haute République 3 - L'Orage Gronde - Star Wars
+
 
 ### Fantasy
 
