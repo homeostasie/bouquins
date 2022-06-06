@@ -40,6 +40,7 @@ comments: true
 10. **Tempête sur la Manche** : ★★
 13. **Ceux du Grand-Café** : ★★ 
 18. **L'Amoureux de madame Maigret** : ★★★
+21. **La Pipe de Maigret** : ★★ 
 
 # Poirot - Agatha Christie
 
