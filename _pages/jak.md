@@ -21,6 +21,10 @@ comments: true
 
 * *Erich Maria Remarque* - **À L'Ouest rien de nouveau** : ★★★★★
 
+# Nouvelles
+
+* *Flannery O'Connor* - **Les Braves Gens ne courent pas les rues** : ★
+
 # Polar
 
 * *Franck Thilliez* - **Il etait deux fois** : ★★★
@@ -31,6 +35,7 @@ comments: true
 
 ## Les nouvelles de Maigret
 
+1. **Jeumont, 51 minutes d'arrêt !** : ★
 4. **Peine de mort** : ★★
 10. **Tempête sur la Manche** : ★★
 13. **Ceux du Grand-Café** : ★★ 
