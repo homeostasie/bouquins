@@ -24,9 +24,11 @@ comments: true
 # Nouvelles
 
 * *Flannery O'Connor* - **Les Braves Gens ne courent pas les rues** : ★
+* *Gabriel García Márquez* - **Douze Contes Vagabonds** : ★★
 
 # Polar
 
+* *Ian McGuire* - **Dans les eaux du Grand Nord** : ★★★★
 * *Franck Thilliez* - **Il etait deux fois** : ★★★
 
 # Maigret - Georges Simenon
@@ -39,6 +41,7 @@ comments: true
 4. **Peine de mort** : ★★
 10. **Tempête sur la Manche** : ★★
 13. **Ceux du Grand-Café** : ★★ 
+16. **Stan le tueur** : ★★ 
 18. **L'Amoureux de madame Maigret** : ★★★
 21. **La Pipe de Maigret** : ★★ 
 
