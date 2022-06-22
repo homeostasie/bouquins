@@ -11,7 +11,7 @@ comments: true
 
 # En audio
 
-- Intrigue à Port-Réal - George R. R. Martin
+- L'épée de feu - George R. R. Martin
 
 
 # En PAL
@@ -19,6 +19,7 @@ comments: true
 ### Jap
 
 - Les chroniques de l'oiseau à ressort - Haruki Murakami
+- Konbini - Sayaka Murata
 
 ### Enquête
 
@@ -32,19 +33,19 @@ comments: true
 - Le nom de la Rose - Umberto Eco
 - Lonesome Dove - Larry McMurtry
 
+
 ### SF
 
-- Les Montagnes hallucinées - H. P. Lovecraft
+- Métro 2034 - Dmitry Glukhovsky
 - La porte d'Abaddon - James S. A. Corey
+- Le monde perdu - Michael Crichton
 - Vision aveugle - Peter Watts
-
+- Dans la toile du temps - Adrian Tchaikovsky
+- Projet Dernière Chance - Andy Weir 
+- Le problème à trois corps - Liu Cixin
 
 ### Fantasy
 
 - Au guet - Terry Pratchett 
 
 
-### Autre 
-
-- Shining - Stephen King
-- Le horla - Guy de Maupassant
