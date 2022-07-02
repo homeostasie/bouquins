@@ -7,7 +7,7 @@ comments: true
 
 # En cours 
 
-- Haute République 3 - L'Orage Gronde - Star Wars
+- La porte d'Abaddon - James S. A. Corey
 
 # En audio
 
@@ -19,7 +19,7 @@ comments: true
 ### Jap
 
 - Les chroniques de l'oiseau à ressort - Haruki Murakami
-- Konbini - Sayaka Murata
+
 
 ### Enquête
 
@@ -37,7 +37,6 @@ comments: true
 ### SF
 
 - Métro 2034 - Dmitry Glukhovsky
-- La porte d'Abaddon - James S. A. Corey
 - Le monde perdu - Michael Crichton
 - Vision aveugle - Peter Watts
 - Dans la toile du temps - Adrian Tchaikovsky
