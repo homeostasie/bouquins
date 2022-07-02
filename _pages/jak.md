@@ -13,13 +13,18 @@ comments: true
 
 * *Albert Camus* - **La peste** : ★★★★
 
+* *Larry McMurtry* - **Lonesome Dove** : ★★★
+
 * *Jun'Ichiro Tanizaki* - **Dans l'oeil du demon** : ★★
+
 
 # Guerre
 
 * *Louis-Ferdinand Celine* - **Voyage au bout de la Nuit** : ★★★★★
 
 * *Erich Maria Remarque* - **À L'Ouest rien de nouveau** : ★★★★★
+
+* *Stefan Zweig* - **Le Joueur d'échecs** : ★★
 
 # Nouvelles
 
