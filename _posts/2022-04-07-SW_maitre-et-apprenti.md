@@ -13,6 +13,6 @@ On suit le maître Jedi Qui-Gon Jinn et son jeune padawan Obiwan Kenobi. Le jedi
 
 Le roman est très facile à lire avec un enchaînement de petits chapitres d'une dizaine de pages maximum. Il y a beaucoup de raisons de se laisser prendre. La relation entre Qui-Gon et Obiwan est loin d'être parfaite et on suit les deux personnages qui ont des doutes et sont parfois dans l'incompréhension voir la maladresse. C'est assez bien fait. La descriptions des personnages est très cohérente avec le premier épisode de la prélogie. Il y a d'ailleurs pas mal de lien avec la prélogie. On retrouve les prophéties, les esclaves, une princesse dont la vie est en danger, Dooku, les cristaux Kyber. On est en territoire connu. 
 
-L'intrigue principale gravite autour de la planète Pijal est également plutôt bien menée. Elle sert un peu de prétexte pour mettre en lumière les jedi. On suit pour autant l'enquête avec sans difficulté. Bref, une lecture plaisante.
+L'intrigue principale gravite autour de la planète Pijal est également plutôt bien menée. Elle sert un peu de prétexte pour mettre en lumière les jedi. On suit pour autant l'enquête  sans difficulté. Bref, une lecture plaisante.
 
 ![folio](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/star-wars/prelogie-0b.jpg)
