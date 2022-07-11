@@ -8,6 +8,7 @@ comments: true
 # En cours 
 
 - La porte d'Abaddon - James S. A. Corey
+- Le comte de Monte-Cristo - Alexandre Dumas
 
 # En audio
 
@@ -29,7 +30,6 @@ comments: true
 
 ### Pavé
 
-- Le comte de Monte-Cristo - Alexandre Dumas
 - Le nom de la Rose - Umberto Eco
 - Lonesome Dove - Larry McMurtry
 
