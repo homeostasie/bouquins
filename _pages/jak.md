@@ -29,23 +29,30 @@ comments: true
 # Nouvelles
 
 * *Flannery O'Connor* - **Les Braves Gens ne courent pas les rues** : ★
+
 * *Gabriel García Márquez* - **Douze Contes Vagabonds** : ★★
 
 # Polar
 
+* *Joël Dicker* - **La vérité sur l'affaire Harry Quebert** : ★
+
 * *Ian McGuire* - **Dans les eaux du Grand Nord** : ★★★★
+
 * *Franck Thilliez* - **Il etait deux fois** : ★★★
 
 # Maigret - Georges Simenon
 
 1. **Pietr-le-Letton** : ★★★
+11. **La Guinguette à deux sous** : ★★★
 
 ## Les nouvelles de Maigret
 
 1. **Jeumont, 51 minutes d'arrêt !** : ★
+3. **La fenêtre ouverte** : ★★
 4. **Peine de mort** : ★★
 10. **Tempête sur la Manche** : ★★
 13. **Ceux du Grand-Café** : ★★ 
+15. **L'Auberge aux noyés** : ★★★ 
 16. **Stan le tueur** : ★★ 
 18. **L'Amoureux de madame Maigret** : ★★★
 21. **La Pipe de Maigret** : ★★ 
