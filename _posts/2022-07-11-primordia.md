@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Ori and the Blind Forest"
+title: "Primordia"
 categories: blog
 comments: true
 ---
 
-![folio](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/wadget-eye/primordia-1)
+![folio](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/wadget-eye/primordia-1.png)
 
 J'ai toujours adoré les Point & Click. J'avais adoré les **Monkey Island** et les **Runaway**. J'avais commencé Gemuini Rue il y a très longtemps sans jamais l'avoir fini. Un petit peu dans le creux avec le premier **Ori**, j'ai décidé de me lancer dans un autre jeu édité chez Wadjet Eye : **Primordia**. 
 
@@ -15,6 +15,6 @@ L'ambiance est particulièrement bonne. Les actes gardent une cohérence tout en
 
 Bref, j'ai passé un très bon moment.
 
-![folio](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/wadget-eye/primordia-2)
+![folio](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/wadget-eye/primordia-2.jpg)
 
-![folio](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/wadget-eye/primordia-3)
+![folio](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/wadget-eye/primordia-3.jpg)
