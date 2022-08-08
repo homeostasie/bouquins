@@ -13,6 +13,8 @@ comments: true
 
 * *Albert Camus* - **La peste** : ★★★★
 
+* *Joseph Conrad* - **Au cœur des ténèbres** : ★★
+
 * *Larry McMurtry* - **Lonesome Dove** : ★★★
 
 * *Jun'Ichiro Tanizaki* - **Dans l'oeil du demon** : ★★
@@ -40,6 +42,8 @@ comments: true
 
 * *Franck Thilliez* - **Il etait deux fois** : ★★★
 
+* *Josephine Tey* - **La Fille Du Temps** : ★★
+
 # Maigret - Georges Simenon
 
 1. **Pietr-le-Letton** : ★★★
@@ -51,7 +55,10 @@ comments: true
 3. **La fenêtre ouverte** : ★★
 4. **Peine de mort** : ★★
 10. **Tempête sur la Manche** : ★★
+11. **Le notaire de Châteauneuf** : ★
+12. **L'Improbable Monsieur Owen** : ★★ 
 13. **Ceux du Grand-Café** : ★★ 
+14. **L'Étoile du nord** : ★★
 15. **L'Auberge aux noyés** : ★★★ 
 16. **Stan le tueur** : ★★ 
 18. **L'Amoureux de madame Maigret** : ★★★
@@ -63,4 +70,6 @@ comments: true
 
 # SF
 
-* *Andy Weir* - **Seul sur Mars** : ★★★★
+*Andy Weir*
+* **Seul sur Mars** : ★★★★
+* **Projet dernière chance** : ★
