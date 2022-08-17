@@ -19,6 +19,8 @@ comments: true
 
 * *Jun'Ichiro Tanizaki* - **Dans l'oeil du demon** : ★★
 
+* *Hervé Le Tellier* - **L'anomalie** : ★★
+
 
 # Guerre
 
@@ -33,6 +35,8 @@ comments: true
 * *Flannery O'Connor* - **Les Braves Gens ne courent pas les rues** : ★
 
 * *Gabriel García Márquez* - **Douze Contes Vagabonds** : ★★
+
+* *Stefan Zweig* - **Le mariage à Lyon** : ★★
 
 # Polar
 
@@ -54,6 +58,8 @@ comments: true
 1. **Jeumont, 51 minutes d'arrêt !** : ★
 3. **La fenêtre ouverte** : ★★
 4. **Peine de mort** : ★★
+5. **Les larmes de bougie** : ★★
+6. **Rue Pigalle** : ★★
 10. **Tempête sur la Manche** : ★★
 11. **Le notaire de Châteauneuf** : ★
 12. **L'Improbable Monsieur Owen** : ★★ 
@@ -61,7 +67,10 @@ comments: true
 14. **L'Étoile du nord** : ★★
 15. **L'Auberge aux noyés** : ★★★ 
 16. **Stan le tueur** : ★★ 
+17. **La Vieille dame de Bayeux** : ★★ 
 18. **L'Amoureux de madame Maigret** : ★★★
+19. **L'Homme dans la rue** : ★★
+20. **Vente à la bougie** : ★★
 21. **La Pipe de Maigret** : ★★ 
 
 # Poirot - Agatha Christie
@@ -70,6 +79,10 @@ comments: true
 
 # SF
 
-*Andy Weir*
-* **Seul sur Mars** : ★★★★
-* **Projet dernière chance** : ★
+*Andy Weir* - **Seul sur Mars** : ★★★★
+
+
+
+# Tombé
+
+*Andy Weir* - **Projet dernière chance** : ★
