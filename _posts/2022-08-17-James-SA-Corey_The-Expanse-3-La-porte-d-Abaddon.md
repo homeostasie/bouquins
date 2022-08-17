@@ -5,7 +5,7 @@ categories: lectures
 comments: true
 ---
 
-![folio](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/corey-sa_james/exp2-porte-abaddon-3.jpg)
+![folio](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/corey-sa_james/exp3-porte-abaddon-1.jpg)
 
 Je suis content, j'ai réussi assez rapidement à enchaîner les lectures du volume 2 et du 3 de la série The Expanse.
 
@@ -20,4 +20,4 @@ J'ai été un peu déçu de ne pas revoir Bobbie... Tant pis. Peut-être plus ta
 
 J'ai encore passé un très bon moment. L'histoire n'a pas beaucoup avancée si je devais émettre une critique. J'ai assez envie de me faire la suite. Peut-être début 2023 histoire de ne pas risquer l'indigestion. Surtout que là, je suis un peu sur des classiques. 
 
-
+![folio](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/corey-sa_james/exp3-porte-abaddon-2.jpg)
