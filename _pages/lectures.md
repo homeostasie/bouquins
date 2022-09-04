@@ -71,6 +71,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 * [*Le crime de l'Orient-Express*](https://homeostasie.github.io/bouquins/Agatha-Christie_Le-crime-de-l-Orient-Express/)
 * [*Le meurtre de Roger Ackroyd*](https://homeostasie.github.io/bouquins/Agatha-Christie_Le-meurtre-de-Roger-Ackroyd/)
 * *Les 10 petits nègres*
+* *Meurtre en Mésopotamie*
 
 **Tom Clancy**
 * [*À la poursuite d'Octobre Rouge*](https://homeostasie.github.io/bouquins/Tom-Clancy_Octobre-Rouge)
@@ -239,8 +240,9 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 *La Haute République*
 1. [*La lumière des Jedi*](https://homeostasie.github.io/bouquins/SW_Lumiere-des-Jedi/) - **Charles Soule**
-2. [*En pleines ténèbres*](https://homeostasie.github.io/bouquins/SW_En-pleines-tenebres/) - **Claudia Gray** 
-3. *L'Orage Gronde* - **Cavan Scott**
+2. *L'Orage Gronde* - **Cavan Scott**
+
+1. [*En pleines ténèbres*](https://homeostasie.github.io/bouquins/SW_En-pleines-tenebres/) - **Claudia Gray** 
 
 [*Solo*](https://homeostasie.github.io/bouquins/SW_Solo/) - **Ann C. Crispin**
 1. *Le Coup du paradis*
@@ -330,4 +332,3 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 1. *La communauté de l'anneau*
 2. *Les deux tours*
 3. *Le retour du roi*
-
