@@ -21,7 +21,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Herman Melville** - *Moby Dick*
 
-**Sayaka Murata** - *Konbini* 
+**Sayaka Murata** - [*Konbini*](https://homeostasie.github.io/bouquins/Sayaka-Murata_Konbini) 
 
 **Arto Paasilinna** - *Le lièvre de Vatanem*
 
