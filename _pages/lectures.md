@@ -242,6 +242,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 1. [*La lumière des Jedi*](https://homeostasie.github.io/bouquins/SW_Lumiere-des-Jedi/) - **Charles Soule**
 2. *L'Orage Gronde* - **Cavan Scott**
 
+
+*La Haute République - jeunesse* 
 1. [*En pleines ténèbres*](https://homeostasie.github.io/bouquins/SW_En-pleines-tenebres/) - **Claudia Gray** 
 
 [*Solo*](https://homeostasie.github.io/bouquins/SW_Solo/) - **Ann C. Crispin**
