@@ -7,12 +7,12 @@ comments: true
 
 # En cours 
 
-- La porte d'Abaddon - James S. A. Corey
 - Le comte de Monte-Cristo - Alexandre Dumas
+- sw-hr3 - La Chute de l’étoile - Star Wars
 
 # En audio
 
-- L'épée de feu - George R. R. Martin
+- Kenobi
 
 
 # En PAL
@@ -46,5 +46,3 @@ comments: true
 ### Fantasy
 
 - Au guet - Terry Pratchett 
-
-
