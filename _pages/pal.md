@@ -8,12 +8,11 @@ comments: true
 # En cours 
 
 - Le comte de Monte-Cristo - Alexandre Dumas
-- sw-hr3 - La Chute de l’étoile - Star Wars
 
 # En audio
 
-- Kenobi
-
+- La loi du régicide
+- Maître-Tempête
 
 # En PAL
 
@@ -42,6 +41,8 @@ comments: true
 - Dans la toile du temps - Adrian Tchaikovsky
 - Projet Dernière Chance - Andy Weir 
 - Le problème à trois corps - Liu Cixin
+- Hors de l'ombre 
+- Horizon funèbre 
 
 ### Fantasy
 
