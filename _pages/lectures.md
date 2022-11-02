@@ -241,7 +241,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 *La Haute République*
 1. [*La lumière des Jedi*](https://homeostasie.github.io/bouquins/SW_Lumiere-des-Jedi/) - **Charles Soule**
 2. *L'Orage Gronde* - **Cavan Scott**
-
+3. *La Chute de l’étoile* - **Claudia Gray**
 
 *La Haute République - jeunesse* 
 1. [*En pleines ténèbres*](https://homeostasie.github.io/bouquins/SW_En-pleines-tenebres/) - **Claudia Gray** 
@@ -260,7 +260,10 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 1. *L'escadron Rogue*
 2. *Le Jeu de la Mort*
 
-
+*Obiwan* 
+1. *Maître & Apprenti* - **Claudia Gray**
+2. *Kenobi* - **John Miller**
+3. 
 # 3. Fantasy
 
 **Pierre Bottero** - *La Quête d'Ewilan*
