@@ -246,6 +246,9 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 *La Haute République - jeunesse* 
 1. [*En pleines ténèbres*](https://homeostasie.github.io/bouquins/SW_En-pleines-tenebres/) - **Claudia Gray** 
 
+*La Haute République - audiodrama* 
+1. *Maître-Tempête* - ** Cavan Scott**
+
 [*Solo*](https://homeostasie.github.io/bouquins/SW_Solo/) - **Ann C. Crispin**
 1. *Le Coup du paradis*
 2. *Le gambit du Hutt*
