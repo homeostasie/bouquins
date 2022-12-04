@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FSword Of Mana et poursuite du rétrogaming"
+title: "Sword Of Mana et poursuite du rétrogaming"
 categories: blog
 comments: true
 ---
