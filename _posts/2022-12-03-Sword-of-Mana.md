@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FF7 - CD2 - la sortie du glacier"
+title: "FSword Of Mana et poursuite du rétrogaming"
 categories: blog
 comments: true
 ---
