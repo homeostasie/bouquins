@@ -263,7 +263,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 *Obiwan* 
 1. *Maître & Apprenti* - **Claudia Gray**
 2. *Kenobi* - **John Miller**
-3. 
+
 # 3. Fantasy
 
 **Pierre Bottero** - *La Quête d'Ewilan*
