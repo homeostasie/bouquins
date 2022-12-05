@@ -8,11 +8,12 @@ comments: true
 # En cours 
 
 - Le comte de Monte-Cristo - Alexandre Dumas
+- Dans la toile du temps - Adrian Tchaikovsky
 
 # En audio
 
-- La loi du régicide
-- Maître-Tempête
+- tdf9 - La loi du régicide - George R. R. Martin
+
 
 # En PAL
 
@@ -38,7 +39,6 @@ comments: true
 - Métro 2034 - Dmitry Glukhovsky
 - Le monde perdu - Michael Crichton
 - Vision aveugle - Peter Watts
-- Dans la toile du temps - Adrian Tchaikovsky
 - Projet Dernière Chance - Andy Weir 
 - Le problème à trois corps - Liu Cixin
 - Hors de l'ombre 
