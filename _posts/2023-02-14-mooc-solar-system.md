@@ -14,6 +14,8 @@ Je viens de finir ce mooc. Quelle claque. On est à la fois sur une démarche sc
 
 J’aurai aimé avoir d'autres semaines avec les actualités récentes des robots sur Mars et du JWST. Mais c’était déjà génial.
 
+* [Perseverance - National Geographic](https://www.nationalgeographic.fr/espace/perseverance-un-an-apres-son-arrivee-sur-mars-le-robot-de-la-nasa-releve-tous-les-defis)
+
 Bref, un énorme plaisir. Je ne peux que vous conseiller de le faire.
 
 
