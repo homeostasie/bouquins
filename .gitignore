@@ -12,3 +12,5 @@ package.json
 .jekyll-cache
 *~ 
 .gitignore
+.github/*
+.vscode/*
