@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "clap de fin sur FF7"
+title: "Reprise de Zelda ALTTP"
 categories: blog
 comments: true
 ---
