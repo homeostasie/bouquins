@@ -8,12 +8,11 @@ comments: true
 # En cours 
 
 - Le comte de Monte-Cristo - Alexandre Dumas
-- Dans la toile du temps - Adrian Tchaikovsky
 
 
 # En audio
 
-- tdf9 - La loi du régicide - George R. R. Martin
+Star Wars, épisode III : La Revanche des Sith
 
 
 # En PAL
