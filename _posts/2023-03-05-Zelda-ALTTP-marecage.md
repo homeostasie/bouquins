@@ -5,7 +5,7 @@ categories: blog
 comments: true
 ---
 
-> ![Zelda](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/zelda/zelda-alttp-1.jpg)
+![Zelda](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/zelda/zelda-alttp-1.jpg)
 
 Du coup, après cet épisode intense avec FF7, je reprends **Zelda - A Link to the Past** sur gba. 
 
