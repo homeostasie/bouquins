@@ -25,7 +25,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Arto Paasilinna** - *Le lièvre de Vatanem*
 
-**Daniel Pennac** - Saga Malaussène
+**Daniel Pennac** - *Saga Malaussène*
 1. [*Au bonheur des ogres*](https://homeostasie.github.io/bouquins/Daniel-Pennac_Au-bonheur-des-ogres/)
 
 **John Steinbeck** - *Des souris et des hommes*
@@ -76,7 +76,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Tom Clancy**
 * [*À la poursuite d'Octobre Rouge*](https://homeostasie.github.io/bouquins/Tom-Clancy_Octobre-Rouge)
 
-**Stieg Larsson** - Millenium
+**Stieg Larsson** - *Millenium*
 1. *Les Hommes qui n'aimaient pas les femmes*
 
 **Hugh Laurie** - *Tout est sous contrôle*
@@ -95,7 +95,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Stephen King** - *La Tour Sombre*
 1. *Le Pistolero*
 
-**Jasper F Forde** - Thursday Next
+**Jasper F Forde** - *Thursday Next*
 1. *L'affaire Jane Eyre*
 
 **J. K. Rowling** - *Harry Potter*
@@ -127,7 +127,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 2. *L’Embrasement*
 3. *La révolte*
 
-**Doctor Who** - Justin Richards - *Apollo 23*
+**Doctor Who**
+* *Apollo 23* - *Justin Richards*
 
 **Harlan Ellison** - [*Je n'ai pas de bouche et il faut que je crie.*](https://homeostasie.github.io/bouquins/Harlan-Ellison_Je-n-ai-pas-de-bouche-et-il-faut-que-je-crie/)
 
@@ -163,6 +164,10 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Richard Morgan**
 1. [*Carbone modifié*](https://homeostasie.github.io/bouquins/Richard-Morgan_Carbone-Modife/)
 2. [*Anges déchus*](https://homeostasie.github.io/bouquins/Richard-Morgan_Anges-dechus/)
+
+**Martha Wells** - *Journal d'un AssaSynth*
+1. Défaillances systèmes
+
 
 ### Uchronie
 
@@ -233,6 +238,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 0. [*Maître et apprenti*](https://homeostasie.github.io/bouquins/SW_maitre-et-apprenti) - **Claudia Gray**
 1. [*La menace fantôme*](https://homeostasie.github.io/bouquins/SW_La-menace-fantome) - **Terry Brooks**
 2. [*L'attaque des clones*](https://homeostasie.github.io/bouquins/SW_attaque-des-clones) - **R. A. Salvatore**
+3. *La Revanche des Sith* - **Matthew Stover**
 
 [*Jedi fou*](https://homeostasie.github.io/bouquins/SW_Jedi-fou/) - **Timothy Zahn**
 1. *L'Héritier de l'Empire*
@@ -273,6 +279,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Pierre Bottero** - *La Quête d'Ewilan*
 1. *D'un monde à l'autre*
 2. *Les Frontières de glace*
+3. *L'Île du destin*
 
 **Alain Damasio** - *La horde du contrevent*
 
