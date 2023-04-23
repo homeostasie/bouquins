@@ -166,7 +166,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 2. [*Anges déchus*](https://homeostasie.github.io/bouquins/Richard-Morgan_Anges-dechus/)
 
 **Martha Wells** - *Journal d'un AssaSynth*
-1. Défaillances systèmes
+1. [Défaillances systèmes](https://homeostasie.github.io/bouquins/Martha-Wells_Defaillances-systemes/)
 
 
 ### Uchronie
@@ -254,7 +254,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 1. [*En pleines ténèbres*](https://homeostasie.github.io/bouquins/SW_En-pleines-tenebres/) - **Claudia Gray** 
 
 *La Haute République - audiodrama* 
-1. *Maître-Tempête* - ** Cavan Scott**
+1. *Maître-Tempête* - **Cavan Scott**
 
 [*Solo*](https://homeostasie.github.io/bouquins/SW_Solo/) - **Ann C. Crispin**
 1. *Le Coup du paradis*
