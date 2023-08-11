@@ -17,7 +17,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Joseph Conrad** - [*Au cœur des ténèbres*](https://homeostasie.github.io/bouquins/Joseph-Conrad_Coeur-des-tenebres/)
 
-**Alexandre Dumas** - *Le comte de Monte-Cristo*
+**Alexandre Dumas** - [*Le comte de Monte-Cristo*](https://homeostasie.github.io/bouquins/Alexandre-Dumas_comte-monte-cristo/)
 
 **Fiodor Dostoïevski** - [*Crime et Châtiment*](https://homeostasie.github.io/bouquins/Fiodor-Dostoievski_Crime-et-chatiment)
 
