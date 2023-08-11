@@ -7,7 +7,6 @@ comments: true
 
 # En cours 
 
-- Le comte de Monte-Cristo - Alexandre Dumas
 - The Expanse 4 - Les feu de Bibola - James S.A. Corey
 - Métro 2034 - Dmitry Glukhovsky
 
