@@ -7,7 +7,7 @@ comments: true
 
 # En cours 
 
-- The Expanse 4 - Les feu de Bibola - James S.A. Corey
+- The Expanse 4 - Les feu de Cibola - James S.A. Corey
 - Métro 2034 - Dmitry Glukhovsky
 
 # En audio
