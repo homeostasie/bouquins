@@ -38,7 +38,7 @@ comments: true
 - La voie de la duperie - Haute République 1 - SW
 - Horizon funèbre - Haute République 3 - SW
 - Death Troopers - SW
-- Schéma Articiels - Assasynth 2 - Martha Wells
+- Schéma Artificiels - Assasynth 2 - Martha Wells
 - Le monde perdu - Michael Crichton
 - Le problème à trois corps - Liu Cixin
 - La Nef des Fous - Richard Paull Russo
