@@ -7,15 +7,24 @@ comments: true
 
 # Classique
 
-* *Svetlana Alexievitch* - **La supplication** : ★★★★
+**Svetlana Alexievitch**
+
+* **La supplication** : ★★★★
+* **Les cercueils de zinc** : ★★
 
 * *Georges Bernanos* - **Sous le soleil de Satan** : ★★
+
+* *Charlotte Brontë - Jane Eyrre
 
 * *Albert Camus* - **La peste** : ★★★★
 
 * *Joseph Conrad* - **Au cœur des ténèbres** : ★★
 
-* *Larry McMurtry* - **Lonesome Dove** : ★★★
+**Larry McMurtry** 
+
+3. *Lonesome Dove 1* : ★★★
+4. *Lonesome Dove 2* : ★★★
+
 
 * *Jun'Ichiro Tanizaki* - **Dans l'oeil du demon** : ★★
 
@@ -24,7 +33,10 @@ comments: true
 
 # Guerre
 
-* *Louis-Ferdinand Celine* - **Voyage au bout de la Nuit** : ★★★★★
+**Louis-Ferdinand Celine** 
+
+* *Voyage au bout de la Nuit* : ★★★★★
+* *Guerre*
 
 * *Erich Maria Remarque* - **À L'Ouest rien de nouveau** : ★★★★★
 
@@ -48,18 +60,33 @@ comments: true
 
 * *Josephine Tey* - **La Fille Du Temps** : ★★
 
+Tetsuya Honda - Cruel est le ciel 
+
 # Maigret - Georges Simenon
 
 1. **Pietr-le-Letton** : ★★★
-11. **La Guinguette à deux sous** : ★★★
+3. **La Guinguette à deux sous** : ★★★
+4. **Le pendu de Saint-Pholien**
+5. **La tête d'un homme**
+6. **Le chien jaune**
+7. **La nuit du carrefour**
+8. m09 - Au Rendez-vous des Terre-Neuvas
+9. m10 - La danseuse du Gai-Moulin
+10. **La Guinguette à deux sous**
+11. **L'ombre chinoise**
+
 
 ## Les nouvelles de Maigret
 
 1. **Jeumont, 51 minutes d'arrêt !** : ★
+2. L'Affaire du boulevard Beaumarchais
 3. **La fenêtre ouverte** : ★★
 4. **Peine de mort** : ★★
 5. **Les larmes de bougie** : ★★
 6. **Rue Pigalle** : ★★
+7. Monsieur Lundi
+8. Une erreur de Maigret 
+9. Mademoiselle Berthe et son amant
 10. **Tempête sur la Manche** : ★★
 11. **Le notaire de Châteauneuf** : ★
 12. **L'Improbable Monsieur Owen** : ★★ 
@@ -79,9 +106,11 @@ comments: true
 
 # SF
 
-*Andy Weir* - **Seul sur Mars** : ★★★★
+* *Andy Weir* - **Seul sur Mars** : ★★★★
 
+* *Michael Crichton - Jurassic Park
 
+* *Stanilas Lem* - Solaris
 
 # Tombé
 

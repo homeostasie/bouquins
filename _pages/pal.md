@@ -8,11 +8,11 @@ comments: true
 # En cours 
 
 - Le comte de Monte-Cristo - Alexandre Dumas
-
+- The Expanse 4 - Les feu de Bibola - James S.A. Corey
+- Métro 2034 - Dmitry Glukhovsky
 
 # En audio
 
-Star Wars, épisode III : La Revanche des Sith
 
 
 # En PAL
@@ -31,20 +31,20 @@ Star Wars, épisode III : La Revanche des Sith
 - Lolita - Vladimri Nabokov
 - Germinal - Émile Zola
 - Les chroniques de l'oiseau à ressort - Haruki Murakami
+- Brume - Stephen King
 
 
 ### SF
 
-- Défaillance Système - Martha Wells
-- The Expanse 4 - Les feu de Bibola - James S.A. Corey
-- Métro 2034 - Dmitry Glukhovsky
-- Hors de l'ombre - Haute République 2 - SW
+- La voie de la duperie - Haute République 1 - SW
 - Horizon funèbre - Haute République 3 - SW
+- Death Troopers - SW
+- Schéma Articiels - Assasynth 2 - Martha Wells
 - Le monde perdu - Michael Crichton
-- Projet Dernière Chance - Andy Weir 
 - Le problème à trois corps - Liu Cixin
-- 20 000 Lieues sous les mers - Jules Vernes
-- Vita Nostra - Marina Diatchenko
+- La Nef des Fous - Richard Paull Russo
+- Vision Aveugle - Peter Watts
+- Blind Lake - Robert Charles Wilson
 
 
 ### Fantasy
