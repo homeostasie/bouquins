@@ -254,14 +254,14 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 3. *L'Ultime Commandement*
 
 *La Haute République*
-1a. [*La lumière des Jedi*](https://homeostasie.github.io/bouquins/SW_Lumiere-des-Jedi/) - **Charles Soule**
-2a. *L'Orage Gronde* - **Cavan Scott**
-3a. *La Chute de l’étoile* - **Claudia Gray**
+1. [*La lumière des Jedi*](https://homeostasie.github.io/bouquins/SW_Lumiere-des-Jedi/) - **Charles Soule**
+2. *L'Orage Gronde* - **Cavan Scott**
+3. *La Chute de l’étoile* - **Claudia Gray**
 
-1b. [*En pleines ténèbres*](https://homeostasie.github.io/bouquins/SW_En-pleines-tenebres/) - **Claudia Gray** 
-2b. *Hors de l'ombre* - **Justina Ireland**
+1. [*En pleines ténèbres*](https://homeostasie.github.io/bouquins/SW_En-pleines-tenebres/) - **Claudia Gray** 
+2. *Hors de l'ombre* - **Justina Ireland**
 
-1c. *Maître-Tempête* - **Cavan Scott**
+1. *Maître-Tempête* - **Cavan Scott**
 
 [*Solo*](https://homeostasie.github.io/bouquins/SW_Solo/) - **Ann C. Crispin**
 1. *Le Coup du paradis*
