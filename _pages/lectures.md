@@ -242,18 +242,26 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 2. [*L'attaque des clones*](https://homeostasie.github.io/bouquins/SW_attaque-des-clones) - **R. A. Salvatore**
 3. *La Revanche des Sith* - **Matthew Stover**
 
+*Trilogie*
+1. *Un nouvel espoir*
+2. *L'empire contre-attaque*
+3. *Le retour du Jedi*
+
+
 [*Jedi fou*](https://homeostasie.github.io/bouquins/SW_Jedi-fou/) - **Timothy Zahn**
 1. *L'Héritier de l'Empire*
 2. *La Bataille des Jedi*
 3. *L'Ultime Commandement*
 
 *La Haute République*
-1. [*La lumière des Jedi*](https://homeostasie.github.io/bouquins/SW_Lumiere-des-Jedi/) - **Charles Soule**
-2. [*En pleines ténèbres*](https://homeostasie.github.io/bouquins/SW_En-pleines-tenebres/) - **Claudia Gray** 
-3. *L'Orage Gronde* - **Cavan Scott**
-4. *Hors de l'ombre* - **Justina Ireland**
-5. *La Chute de l’étoile* - **Claudia Gray**
-6. *Maître-Tempête* - **Cavan Scott**
+1a. [*La lumière des Jedi*](https://homeostasie.github.io/bouquins/SW_Lumiere-des-Jedi/) - **Charles Soule**
+2a. *L'Orage Gronde* - **Cavan Scott**
+3a. *La Chute de l’étoile* - **Claudia Gray**
+
+1b. [*En pleines ténèbres*](https://homeostasie.github.io/bouquins/SW_En-pleines-tenebres/) - **Claudia Gray** 
+2b. *Hors de l'ombre* - **Justina Ireland**
+
+1c. *Maître-Tempête* - **Cavan Scott**
 
 [*Solo*](https://homeostasie.github.io/bouquins/SW_Solo/) - **Ann C. Crispin**
 1. *Le Coup du paradis*
