@@ -97,6 +97,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Stephen King** - *La Tour Sombre*
 1. *Le Pistolero*
 
+* *Brume*
+
 **Jasper F Forde** - *Thursday Next*
 1. *L'affaire Jane Eyre*
 
@@ -134,7 +136,10 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Harlan Ellison** - [*Je n'ai pas de bouche et il faut que je crie.*](https://homeostasie.github.io/bouquins/Harlan-Ellison_Je-n-ai-pas-de-bouche-et-il-faut-que-je-crie/)
 
-**Dimitri Gloukhovski** - [*Metro 2033*](https://homeostasie.github.io/bouquins/Dmitri-glukhovski_metro-2033/)
+**Dimitri Gloukhovski**
+
+* [*Metro 2033*](https://homeostasie.github.io/bouquins/Dmitri-glukhovski_metro-2033/)
+* *Metro 2034*
 
 **Daniel Keyes** - *Des fleurs pour Algernon*
 

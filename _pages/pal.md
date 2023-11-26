@@ -8,11 +8,10 @@ comments: true
 # En cours 
 
 - The Expanse 4 - Les feu de Cibola - James S.A. Corey
-- Métro 2034 - Dmitry Glukhovsky
 
 # En audio
 
-- Star Wars, épisode V : L'Empire contre-attaque
+- Star Wars, Ahsoka
 
 # En PAL
 
@@ -30,7 +29,6 @@ comments: true
 - Lolita - Vladimri Nabokov
 - Germinal - Émile Zola
 - Les chroniques de l'oiseau à ressort - Haruki Murakami
-- Brume - Stephen King
 
 
 ### SF
