@@ -97,7 +97,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Stephen King** - *La Tour Sombre*
 1. *Le Pistolero*
 
-* *Brume*
+* [*Brume*](https://homeostasie.github.io/bouquins/Stephen-King_Brume)
 
 **Jasper F Forde** - *Thursday Next*
 1. *L'affaire Jane Eyre*
