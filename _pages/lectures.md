@@ -138,8 +138,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Dimitri Gloukhovski**
 
-* [*Metro 2033*](https://homeostasie.github.io/bouquins/Dmitri-glukhovski_metro-2033/)
-* *Metro 2034*
+* [*Metro 2033*](https://homeostasie.github.io/bouquins/Dmitri-Glukhovski_metro-2033/)
+* [*Metro 2034*](https://homeostasie.github.io/bouquins/Dmitri-Glukhovski_metro-2034/)
 
 **Daniel Keyes** - *Des fleurs pour Algernon*
 
