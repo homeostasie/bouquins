@@ -19,4 +19,4 @@ Quelques petits défauts. Le jeu a un peu vieilli. Les graphiques sont très typ
 
 Bref, vraiment une belle découverte. Je regrette un peu de ne pas l'avoir découvert au moment de sa sortie car il ne lui manque qu'un peu de nostalgie de ma part pour vraiment rentrée dans mon top 3. Le deuxième épisode sur GBA est vraiment une suite qui reprend quelques minutes après la fin du 1. Je pense me faire le 2è épisode GBA dans peu de temps. Je souhaite d'abord finir Sea Of Stars. L'anecdote d'ailleurs est que j'avais commencé Sea of Stars avant... mais que j'ai tellement fini par trouver que Sea of Stars me fait tellement plus penser à Golden Sun qu'à Chrono Trigger au niveau des personnages, des donjons, du rythme, de l'histoire que je me suis mis en pause sur Sea of Stars pour finir Golden Sun et pouvoir l'apprécier au mieux après.
 
-![Golden Sun](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/golden-sun/gs1a.jpg)
+![Golden Sun](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/golden-sun/gs1b.jpg)
