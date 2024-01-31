@@ -1,20 +1,24 @@
 ---
-layout: page
-title: "PAL"
-permalink: /pal/
+layout: post
+title: "La pile à lire en 2024"
+categories: blog
 comments: true
 ---
 
+![The Expanse](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2024/the-expanse.jpg)
+
 # En cours 
 
-- The Expanse 4 - Les feu de Bibola - James S.A. Corey - *673p*
-- Métro 2035 - Dmitri Gloukhovski - *768p*
+
+- L'Épée de la providence - Andrzej Sapkowski - *296p*
+- Schémas artificiels - Martha Wells - *109p*
+- 
 
 # En PAL
 
 ### Enquête
 
-- Une petite ville en Allemagne - John Le Carré - *234p*
+- Une petite ville en Allemagne - John Le Carré - *340p*
 - Mort sur le Nil - Agatha Christie - *200p*
 - Dans les eaux du Grand Nord - Ian McGuire - *240p*
 - Au revoir là-haut - Pierre Lemaitre - *422p*
@@ -29,7 +33,6 @@ comments: true
 ### SF
 
 - The Expanse 5 - Les jeux de Némésis - James S.A. Corey - *642p*
-- Schémas artificiels - Martha Wells - *109p*
 - Death Trooper - SW - *233p*
 - Spes-Nova 1 : La tombée de l'Aurore - Elie Barbati - *435p*
 - Horizon funèbre - Haute République 3 - SW - *384p*
@@ -44,4 +47,10 @@ comments: true
 ### Fantasy
 
 - Au guet - Terry Pratchett - *295p*
-- L'Épée de la providence - Andrzej Sapkowski - *296p*
+
+*ps : faut vraiment que j'échange le poche pour le babel!*
+
+### Finis
+
+- ~~The Expanse 4 - Les feu de Bibola - James S.A. Corey - *673p*~~
+- ~~Métro 2035 - Dmitri Gloukhovski - *768p*~~
