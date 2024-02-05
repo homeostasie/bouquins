@@ -12,7 +12,7 @@ comments: true
 
 - L'Épée de la providence - Andrzej Sapkowski - *296p*
 - Schémas artificiels - Martha Wells - *109p*
-- 
+
 
 # En PAL
 
