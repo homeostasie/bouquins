@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "La pile à lire en 2024"
-categories: blog
+layout: page
+title: "PAL"
+permalink: /pal/
 comments: true
 ---
 
