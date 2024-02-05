@@ -7,7 +7,7 @@ comments: true
 
 ![metro 2035](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/gloukhovski_dimitri/metro2035.jpg)
 
-Pour une trilogie, le plus dur est clairement d'attaquer le 2è. Mais une fois celui-ci lu, il est plus facile de se motiver pour lire la 3è œuvre et conclure l'histoire. 
+J'avais mis beaucoup de temps à lire le 2è tome de la trilogie Métro de Dmitri Glukhovski. Il a été plus facile de se motiver pour lire la 3è et dernière œuvre afin de conclure une fois pour toutes l'histoire. 
 
 J'ai assez accroché à [Métro 2034](https://homeostasie.github.io/bouquins/Dmitri-Glukhovski_metro-2034/) qui propose un peu moins d'action pour des personnages atypiques mais finalement attachants et humains. Dans Métro 2035, on retrouve Artyom en personnage principal. Il est un peu bousillé par son passé et n'arrive pas à se sortir de la tête qu'une vie à l'extérieur du métro est possible. On va suivre toutes ses péripéties pour découvrir la vérité. 
 
