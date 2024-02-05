@@ -49,6 +49,7 @@ comments: true
 - Au guet - Terry Pratchett - *295p*
 
 *ps : faut vraiment que j'échange le poche pour le babel!*
+*done !*
 
 ### Finis
 
