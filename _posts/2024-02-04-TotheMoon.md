@@ -5,7 +5,7 @@ categories: blog
 comments: true
 ---
 
-![To the Moon](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/tothemoon/tothemoon.jpg)
+![To the Moon](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/tothemoon/tothemoon-1.jpg)
 
 J'ai envie d'un peu descendre ma pile de jeux-vidéo. To the Moon traîne dessus depuis déjà trop de temps. 
 
@@ -13,4 +13,4 @@ L'histoire de To the Moon est clairement le point fort. Un viel homme se voit mo
 
 Les critiques de To the Moon sont excellentes et je comprends pourquoi : L'histoire est somptueuse et bien éloignée de ce que le jv offre le plus souvent. Gros coup de cœur. Je suis très content de m'être enfin lancé. 
 
-
+![To the Moon](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/tothemoon/tothemoon.jpg)
