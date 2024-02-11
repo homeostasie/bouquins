@@ -202,6 +202,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 1. *L'Éveil du Léviathan*
 2. [*La guerre de Caliban*](https://homeostasie.github.io/bouquins/James-SA-Corey_The-Expanse-2-La-guerre-de-Caliban/)
 3. [*La porte d'Abaddon*](https://homeostasie.github.io/bouquins/James-SA-Corey_The-Expanse-3-La-porte-d-Abaddon/)
+4. [*Les feux de Cibola*](https://homeostasie.github.io/bouquins/James-SA-Corey_TheExpanse4-Les-feux-de-Cibola/)
 
 **Frank Herbert** - [*Dune*](https://homeostasie.github.io/bouquins/Franck-herbert_dune/)
 1. *Dune*
