@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Métro 2035 - Dmitri Glukhovski"
-categories: blog
+categories: lectures
 comments: true
 ---
 

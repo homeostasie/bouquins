@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Le comte de Monte-Cristo - Alexandre Dumas"
-categories: blog
+categories: lectures
 comments: true
 ---
 

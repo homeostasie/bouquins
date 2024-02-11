@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adrian Tchaikovsky - Dans la toile du temps"
-categories: blog
+categories: lectures
 comments: true
 ---
 

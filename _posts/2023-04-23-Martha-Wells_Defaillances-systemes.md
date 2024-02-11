@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Martha Wells - 1. Défaillances systèmes"
-categories: blog
+categories: lectures
 comments: true
 ---
 
