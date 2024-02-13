@@ -11,7 +11,6 @@ comments: true
 
 
 - L'Épée de la providence - Andrzej Sapkowski - *296p*
-- Schémas artificiels - Martha Wells - *109p*
 
 
 # En PAL
@@ -55,3 +54,4 @@ comments: true
 
 - ~~The Expanse 4 - Les feu de Bibola - James S.A. Corey - *673p*~~
 - ~~Métro 2035 - Dmitri Gloukhovski - *768p*~~
+- ~~Schémas artificiels - Martha Wells - *109p*~~
