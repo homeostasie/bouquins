@@ -174,8 +174,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 2. [*Anges déchus*](https://homeostasie.github.io/bouquins/Richard-Morgan_Anges-dechus/)
 
 **Martha Wells** - *Journal d'un AssaSynth*
-1. [Défaillances systèmes](https://homeostasie.github.io/bouquins/Martha-Wells_Defaillances-systemes/)
-
+1. [*Défaillances systèmes*](https://homeostasie.github.io/bouquins/Martha-Wells_Defaillances-systemes/)
+2. *Schémas artificiels*
 
 ### Uchronie
 
