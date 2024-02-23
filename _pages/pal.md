@@ -11,7 +11,7 @@ comments: true
 
 
 - L'Épée de la providence - Andrzej Sapkowski - *296p*
-
+- Death Trooper - SW - *233p*
 
 # En PAL
 
@@ -32,7 +32,6 @@ comments: true
 ### SF
 
 - The Expanse 5 - Les jeux de Némésis - James S.A. Corey - *642p*
-- Death Trooper - SW - *233p*
 - Spes-Nova 1 : La tombée de l'Aurore - Elie Barbati - *435p*
 - Horizon funèbre - Haute République 3 - SW - *384p*
 - Projet dernière chance - Andy Weir - *433p*
