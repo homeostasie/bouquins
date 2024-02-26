@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "À L’Ouest rien de nouveau - Erich Maria Remarque "
+title: "À L’Ouest rien de nouveau - Erich Maria Remarque"
 categories: lectures
 comments: true
 ---
