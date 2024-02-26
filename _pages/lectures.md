@@ -175,7 +175,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Martha Wells** - *Journal d'un AssaSynth*
 1. [*Défaillances systèmes*](https://homeostasie.github.io/bouquins/Martha-Wells_Defaillances-systemes/)
-2. *Schémas artificiels*
+2. [*Schémas artificiels*](https://homeostasie.github.io/bouquins/Martha-Wells_Schemas-artificiels/)
 
 ### Uchronie
 
