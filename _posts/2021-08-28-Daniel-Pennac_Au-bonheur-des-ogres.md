@@ -9,7 +9,7 @@ comments: true
 
 Petit moment nostalgie, j'ai ma mémoire d'il y a bien 25ans et de ma mère qui me lit cette histoire. On rigole. Moi, sans savoir pourquoi.
 
-**Au bonheur des ogres** est un roman assez dur à classer. On le liste dans les polars, mais on y retrouve de la tranche de vie, de l'absurde, du comique le tout sous une plume assez inhabituelle où le narrateur nous parle en même qu'il se parle à lui-même. 
+**Au bonheur des ogres** est un roman assez dur à classer. On le liste dans les polars, mais on y retrouve de la tranche de vie, de l'absurde, du comique le tout sous une plume assez inhabituelle où le narrateur nous parle en même temps qu'il se parle à lui-même. 
 
 On suit Benjamin Malaussène un grand frère qui s'occupe de tous ses frères et sœurs. La maman n'étant pas présente et les papas encore moins. On apprend à connaître ses frères et sœurs, chacun un peu barré dans son style. Sous couvert d'humour, on nage en pleine misère sociale avec des enfants maltraités dans l'amour. Dans ce cadre un brin marginal, l'intrigue prend place au travail de Malaussène : un grand magasin. Des bombes éclates dans les rayons et butent des clients. Le principal suspect est notre narrateur dont le travail de bouc émissaire consiste à se faire engueuler sous les yeux des clients pour que ceux-ci ne portent pas plainte contre le magasin.
 
