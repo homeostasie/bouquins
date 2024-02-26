@@ -288,6 +288,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 1. *Maître & Apprenti* - **Claudia Gray**
 2. *Kenobi* - **John Miller**
 
+* *Death Troopers* - **Joe Schreiber** 
+
 # 3. Fantasy
 
 **Pierre Bottero** - *La Quête d'Ewilan*
