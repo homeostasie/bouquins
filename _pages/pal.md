@@ -11,7 +11,8 @@ comments: true
 
 
 - L'Épée de la providence - Andrzej Sapkowski - *296p*
-- Death Trooper - SW - *233p*
+- Le monde perdu - Michael Crichton - *489p*
+- Vision Aveugle - Peter Watts - *355p*
 
 # En PAL
 
@@ -35,9 +36,7 @@ comments: true
 - Spes-Nova 1 : La tombée de l'Aurore - Elie Barbati - *435p*
 - Horizon funèbre - Haute République 3 - SW - *384p*
 - Projet dernière chance - Andy Weir - *433p*
-- Vision Aveugle - Peter Watts - *355p*
 - Le problème à trois corps - Liu Cixin - *414p*
-- Le monde perdu - Michael Crichton - *489p*
 - Blind Lake - Robert Charles Wilson - *350p*
 - Silo - Hugh Howey - *523p*
 
@@ -46,11 +45,12 @@ comments: true
 
 - Au guet - Terry Pratchett - *295p*
 
-*ps : faut vraiment que j'échange le poche pour le babel!*
-*done !*
-
 ### Finis
 
 - ~~The Expanse 4 - Les feu de Bibola - James S.A. Corey - *673p*~~
 - ~~Métro 2035 - Dmitri Gloukhovski - *768p*~~
 - ~~Schémas artificiels - Martha Wells - *109p*~~
+- ~~Death Trooper - SW - *233p*~~
+
+*ps : faut vraiment que j'échange le poche pour le babel!*
+*done !*
