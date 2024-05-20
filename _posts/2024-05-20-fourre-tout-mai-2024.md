@@ -11,9 +11,9 @@ J'essaye de poursuivre mes objectifs avec plus ou moins de réussite.
 
 J'ai envie de dire oui. Je viens de finir **Sea Of Stars** sur PC et il faut encore que je réfléchisse à ce que je souhaite écrire comme bilan. J'ai essayé de revenir au FPS mais aucune envie. J'ai également enlever Axiom Verge de ma pal. Je n'ai pas très envie de ça en ce moment. Je pense poursuivre sur PC avec des *petits* jv du type P&C. 
 
-* Finding Paradise et * Impostor Factory 
-* Blackwell 1,2,3,4 et 5
-* Shardlight, Gemini Rue, Resonance, Technobabylon, Strangeland, Unavowed
+* Finding Paradise et Impostor Factory.
+* Blackwell 1,2,3,4 et 5.
+* Shardlight, Gemini Rue, Resonance, Technobabylon, Strangeland et Unavowed.
 
 Sur console, je me suis enfin fixé avec un jv par console : 
 
@@ -32,9 +32,9 @@ J'avance sur **Mort sur le Nil** et c'est toujours autant un petit plaisir. J'ac
 
 Par contre, ça commence déjà à devenir critique pour ma pal de 2025 vu tous les bouquins qui me font envie... Sans compter ceux qui n'auront pas été lus cette année. 
 
-* du cyberpunk : Neal Stephenson, Rosa Montero, William Gibson, Martha Wells, Ann Leckie
-* des polars : Tetsuya Honda, Terry Hayes, Olivier Truc, Dennis Lehane, Franck Thilliez, Olivier Norek
-* des classiques : Jules Verne, John Steinbeck, Marcel Pagnol, Larry McMurtry
+* du cyberpunk : Neal Stephenson, Rosa Montero, William Gibson, Martha Wells, Ann Leckie.
+* des polars : Tetsuya Honda, Terry Hayes, Olivier Truc, Dennis Lehane, Franck Thilliez, Olivier Norek.
+* des classiques : Jules Verne, John Steinbeck, Marcel Pagnol, Larry McMurtry.
 
 ## Sport
 
