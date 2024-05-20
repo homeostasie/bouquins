@@ -38,5 +38,4 @@ Par contre, ça commence déjà à devenir critique pour ma pal de 2025 vu tous 
 
 ## Sport
 
-J'arrive à courir de manière "régulière" mais pas autant que j'aimerai. Je suis à environs 3 séances par mois depuis Janvier... mais pour le moment, une seule en mai. 
-Pareil pour le renforcement et les exo de mobilité. Il faut que je me motive un peu à reprendre avec plus de rythme. 
+J'arrive à courir "régulièrement" mais pas autant que j'aimerai. Je suis à environs 3 séances par mois depuis Janvier mais avec pour le moment une seule en mai. Pareil pour le renforcement et les exo de mobilité. Il faut que je me motive un peu à reprendre avec plus de rythme. 
