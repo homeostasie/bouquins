@@ -47,7 +47,7 @@ Je le savais… mais je ne l’ai pas appliqué et je m’en veux. Si on se mont
 
 Faut être ferme, faut être intransigeant, faut exiger d’avoir l’emploi du temps exacte, faut pas laisser de zone d’ombre, faut faire chier les individus pour avoir ses réponses, toutes les réponses, faut pas être sympa, faut exiger ce dont on a le droit. Il faut être un parent chiant. Il y a trop à perdre. Et c’est encore plus vrai qu’on est dans le champ du handicap.
 
-Je ne sais pas trop comment, on va géré ça. Je pense qu’on va quand même essayer de tirer ça au clair. Au moins voir cette salle où on le faisait dormir… à ce moment là, on verra. Je sais que ce n’est pas comme ça dans toute l’éduc nat. Je suis moi-même enseignant.
+Je ne sais pas trop comment, on va gérer ça. Je pense qu’on va quand même essayer de tirer ça au clair. Au moins voir cette salle où on le faisait dormir… à ce moment là, on verra. Je sais que ce n’est pas comme ça dans toute l’éduc nat. Je suis moi-même enseignant.
 
 Je ne sais pas si le fait de l’avoir tapé va me permettre d’un peu moins en souffrir. Je suis assez pessimiste.
 
