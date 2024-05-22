@@ -53,6 +53,6 @@ Je ne sais pas si le fait de l’avoir tapé va me permettre d’un peu moins en
 
 *si peut-être...*
 
-Finalement, peut-être que heureusement que ça nous arrive à nous. On va le surmonter. On ne va péter des mâchoires demain, on va juste demander de l’aide à nos ortho pour prendre en compte ce nouveau paramètre.
+Finalement, peut-être que heureusement que ça nous arrive à nous. On va le surmonter. On ne va péter des mâchoires demain, on va juste demander de l’aide à nos ortho pour prendre en compte ce nouveau paramètre. C'est un mur, on le sait en plus qu'on allait s'en prendre, c'est une source d'inquiétude qu'on a dans notre quotidien. C'est presque étonnant pour ne pas dire pathétique d'être surpris de s'en prendre un. Mais naïvement,  on espérait qu'en faisant notre max, on pourrait les éviter et lui faire éviter. On pensait qu'en se donnant à fond, on pourrait compenser. C'est presque plus notre échec et cette désillusion qui est dure ce soir. 
 
 Bon, maintenant, je culpabilise car du coup, j’ai pas corrigé mes copies... 
