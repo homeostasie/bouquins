@@ -13,7 +13,7 @@ On a creusé un peu, et on a des éléments de réponses.
 
 - oui, c’est un chiotte, un chiotte adulte classique avec lavabo à côté, sans fenêtre, 3m²
 - oui, ça a duré 3/4 mois.
-- oui, pour nous, ça va dans le sens de plusieurs de ces difficultés qu’on ne savaient pas expliquées.
+- oui, pour nous, ça va dans le sens de plusieurs de ces difficultés qu’on ne savait pas expliquer.
 
 On est tout de même content d’avoir appris que :
 
