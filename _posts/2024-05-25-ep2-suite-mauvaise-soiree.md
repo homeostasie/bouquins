@@ -17,7 +17,7 @@ On a creusé un peu, et on a des éléments de réponses.
 
 On est tout de même content d’avoir appris que :
 
-- les autres PE qui ont découvert « la chose » on pété des plombs et on fait appel pour dénoncé cela à la hiérarchie (IA) qui a elle-même pété des plombs sur la PE (également directive, à la retraite en fin d’année). C’est l’un d’eux qui en parler à ma femme pendant la sortie scolaire en disant « elle a quand même fait ça » en pensant que ma femme était en courant puis en se mortifiant d’excuse devant l’état de ma femme lorsqu’elle appris la nouvelle.
+- les autres PE qui ont découvert « la chose » on pété des plombs et on fait appel pour dénoncé cela à la hiérarchie (IA) qui a elle-même pété des plombs sur la PE (également directive, à la retraite en fin d’année). C’est l’un d’eux qui en parler à ma femme pendant la sortie scolaire en disant « elle a quand même fait ça » en pensant que ma femme était en courant puis en se mortifiant d’excuse devant l’état de ma femme lorsqu'elle a appris la nouvelle.
 - les AESH qui s’en occupaient ont généralement refusé de le faire, ont fait appel au PIAL pour se plaindre de ce qu’on leur demandait de faire, on souvent réussi à lui faire son temps calme ailleurs type salle de motricité quand celle-ci était disponible.
 
 Ils ont globalement réussi à faire arrêter ça. Ce qui d’une part nous rassure. Moi, surtout parce que je suis dans l’éduc nat également… et que j’avais du mal à voir toute une équipe au courant sans rien faire.
