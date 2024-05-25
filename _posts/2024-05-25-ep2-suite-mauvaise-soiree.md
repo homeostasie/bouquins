@@ -24,7 +24,7 @@ Ils ont globalement réussi à faire arrêter ça. Ce qui d’une part nous rass
 
 On a également appris pourquoi cela ne nous avait pas été remonté. C’est là le point critique :
 
-La PE s’est justifié auprès de tout le monde : AESH, PE, PIAL et IA que nous étions au courant et que nous avions donné notre accord et que nous étions OK avec cette solution. La réalité étant qu’elle voulait juste ne pas s’en occupé sur ce temps scolaire parce que les PS « doivent » faire une sieste en débit d’aprem pour que la PE puisse faire bosser les MS, GS en effectif réduit et qu’elle ne pouvait pas le laisser en salle de repos avec les autres gamins… parce que le miens, il ne dort pas et il ne reste pas allonger à rien faire non plus. 
+La PE s’est justifiée auprès de tout le monde : AESH, PE, PIAL et IA que nous étions au courant et que nous avions donné notre accord et que nous étions OK avec cette solution. La réalité étant qu’elle voulait juste ne pas s’en occupé sur ce temps scolaire parce que les PS « doivent » faire une sieste en débit d’aprem pour que la PE puisse faire bosser les MS, GS en effectif réduit et qu’elle ne pouvait pas le laisser en salle de repos avec les autres gamins… parce que le miens, il ne dort pas et il ne reste pas allonger à rien faire non plus. 
 
 Au départ, je pensais qu’on allait rien faire, parce que c’est fini et que bientôt à la retraite, parce que l’important c’est la suite et de continuer à s'attacher à ses apprentissages…
 
