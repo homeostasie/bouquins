@@ -73,6 +73,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 * [*Le crime de l'Orient-Express*](https://homeostasie.github.io/bouquins/Agatha-Christie_Le-crime-de-l-Orient-Express/)
 * [*Le meurtre de Roger Ackroyd*](https://homeostasie.github.io/bouquins/Agatha-Christie_Le-meurtre-de-Roger-Ackroyd/)
 * *Les 10 petits nègres*
+* *Mort sur le Nil*
 * [*Meurtre en Mésopotamie*](https://homeostasie.github.io/bouquins/Agatha-Christie_Meurtre-en-Mesopotamie)
 
 **Tom Clancy**

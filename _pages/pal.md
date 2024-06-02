@@ -10,7 +10,6 @@ comments: true
 # En cours 
 
 
-- L'Épée de la providence - Andrzej Sapkowski - *296p*
 - Le monde perdu - Michael Crichton - *489p*
 - Vision Aveugle - Peter Watts - *355p*
 
@@ -19,7 +18,6 @@ comments: true
 ### Enquête
 
 - Une petite ville en Allemagne - John Le Carré - *340p*
-- Mort sur le Nil - Agatha Christie - *200p*
 - Dans les eaux du Grand Nord - Ian McGuire - *240p*
 - Au revoir là-haut - Pierre Lemaitre - *422p*
 
@@ -51,6 +49,8 @@ comments: true
 - ~~Métro 2035 - Dmitri Gloukhovski - *768p*~~
 - ~~Schémas artificiels - Martha Wells - *109p*~~
 - ~~Death Trooper - SW - *233p*~~
+- ~~L'Épée de la providence - Andrzej Sapkowski - *296p*~~
+- ~~Mort sur le Nil - Agatha Christie - *200p*~~
 
 *ps : faut vraiment que j'échange le poche pour le babel!*
 *done !*
