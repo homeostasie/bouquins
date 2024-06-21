@@ -25,7 +25,10 @@ comments: true
 
 - Lolita - Vladimri Nabokov - *376p*
 - Germinal - Émile Zola - *420p*
-- Les chroniques de l'oiseau à ressort - Haruki Murakami - *726p*
+- Au prochain arrêt - Hiro Arikawa
+- Tant que le café est encore chaud - Kawaguchi Toshikazu
+
+- ~Les chroniques de l'oiseau à ressort - Haruki Murakami - *726p*~
 
 
 ### SF
