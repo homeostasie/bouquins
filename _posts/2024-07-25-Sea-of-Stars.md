@@ -13,7 +13,7 @@ Sea of Stars est un jprg sorti récemment qui est présenté comme inspiré par 
 
 Graphiquement, il est superbe. Les personnages, les décors, les monstres, les cinématiques sont très sublimes. 
 
-Au niveau de la bande son, elle a marché sur moi également avec quelques sons bien reconnaissables. 
+Au niveau de la bande son, elle a marché sur moi avec quelques sons bien reconnaissables. 
 
 Les combats ne sont pas le point fort de Sea of Stars mais ne sont pas son plus gros défaut non plus. Le fait de pouvoir changer de personnage pendant le tour sans perdre l'action permet un peu de dynamisme. Les boss sont un peu plus intéressant que les mob de base. Dommage que la jauge de combo ne soit pas persistante entre les combats, ça permettrait un peu plus de fun. Dommage aussi qu'il n'y ai pas un peu plus de magies différentes par personnage. Ce n'est pas le point fort du jeu clairement même si les options d'accessibilités permettent en partie de palier ce problème.
 
