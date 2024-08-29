@@ -94,6 +94,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Michael Crichton**
 1. [*Jurassic Park*](https://homeostasie.github.io/bouquins/Michael-Crichton_jurassic-park/)
+2. Le monde perdu
 
 **Stephen King** - *La Tour Sombre*
 1. *Le Pistolero*
