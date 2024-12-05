@@ -19,28 +19,31 @@ Depuis que je l'ai essayé, j'ai envie d'une Tuna 1000 comme montre de sport. É
 * **Seiko GS SBGX341** : 200m : blanche/ orange ; quartz ; acier ; 40mm. occas = 3400€
 * **The Citizen AQ4020-54Y** : blanche ; quartz ; titane ; 38mm ; occas = 2500€
 
-![SBGX341](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2024/mon-2024-dec_Seiko-GS-SBGX341.jpg) ![AQ4020](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2024/) 
+> ![SBGX341](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2024/mon-2024-dec_Seiko-GS-Citizen.png)
 
 ### Alternative neuve
 
 * **The Citizen AQ4091** : quartz ; titane ; 40mm/ neuf = 3600€
  *bleue/noire : 56L ; Indigo : 56M ; Blanc : 56A*
-![AQ4091](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2024/mon-2024-dec_The-Citizen-AQ4091.png) 
+
+> ![AQ4091](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2024/mon-2024-dec_The-Citizen-AQ4091.png) 
 
 ### Sport
 
 * **Seiko Tuna SBBN051** : 1000m : bleue/ noire ; quartz ; titane ; 49mm. ocass = 2000€
-![SBBN051](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2024/mon-2024-dec_Seiko-SBBN051.png) 
+
+> ![SBBN051](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2024/mon-2024-dec_Seiko-SBBN051.png) 
 
 ### Autres
 
 * **Seiko GS SBGX295** : blanche ; quartz ; acier ; 37mm. occas = 1500€
 * **Serica 6190 MSL** : blanche ; auto / soprod ; acier ; 38mm. neuf = 1100€
-![SBGX295](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2024/mon-2024-dec_Seiko-GS-SBGX295.png) ![6190](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2024/mon-2024-dec_Serica-6190-MSL.png) 
+
+> ![Serica 6190 et GS](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2024/mon-2024-dec_Serica-GS.png) 
 
 ### Gralls
 
 * **Seiko GS : SBGA413** - Shunbun : rose ; SD ; titane ; 40mm ; neuf = 8000€
 * **Seiko GS : SBGP017** - Sea of Clouds : quartz ; acier ; 40mm. occas = 4500€
 
-![SBGA413](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2024/mon-2024-dec_Seiko-GS-SBGA413.png) ![SBGP017](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2024/mon-2024-dec_Seiko-GS-SBGP017.png) 
+> ![GS graal](https://github.com/homeostasie/bouquins/raw/master/_pics/blog/2024/mon-2024-dec_Seiko-GS-graal.png)
