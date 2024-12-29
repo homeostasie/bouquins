@@ -11,8 +11,6 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Svetlana Alexievitch** - [*La supplication*](https://homeostasie.github.io/bouquins/Alexievitch-Svetlana_La-supplication/)
 
-**Hiro Arikawa** - [*Les mémoires d'un chat*](https://homeostasie.github.io/bouquins/Hiro-Arikawa_Les-memoires-d-un-chat)
-
 **Albert Camus** - [*L'Étranger*](https://homeostasie.github.io/bouquins/Albert-Camus-L-Etranger/)
 
 **Joseph Conrad** - [*Au cœur des ténèbres*](https://homeostasie.github.io/bouquins/Joseph-Conrad_Coeur-des-tenebres/)
@@ -22,8 +20,6 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Fiodor Dostoïevski** - [*Crime et Châtiment*](https://homeostasie.github.io/bouquins/Fiodor-Dostoievski_Crime-et-chatiment)
 
 **Herman Melville** - *Moby Dick*
-
-**Sayaka Murata** - [*Konbini*](https://homeostasie.github.io/bouquins/Sayaka-Murata_Konbini) 
 
 **Arto Paasilinna** - *Le lièvre de Vatanem*
 
@@ -36,12 +32,19 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Voltaire** - [*Candide*](https://homeostasie.github.io/bouquins/Voltaire_Candide/)
 
-**Akira Yoshimura** - [*Le Convoi de l'eau*](https://homeostasie.github.io/bouquins/Akira-Yoshimura_Le-convoi-de-l-eau/)
-
 **Marguerite Yourcenar** - [*Mémoires d'Hadrien*](https://homeostasie.github.io/bouquins/Marguerite-Yourcenar_Memoires-d-Hadrien)
 
 **Émile Zola** - [*L'assommoir*](https://homeostasie.github.io/bouquins/Emile-Zola-L-Assommoir)
 
+### Japonais
+
+**Hiro Arikawa** - [*Les mémoires d'un chat*](https://homeostasie.github.io/bouquins/Hiro-Arikawa_Les-memoires-d-un-chat)
+
+**Toshikazu Kawaguchi** - *Tant que le café est encore chaud* 
+
+**Sayaka Murata** - [*Konbini*](https://homeostasie.github.io/bouquins/Sayaka-Murata_Konbini) 
+
+**Akira Yoshimura** - [*Le Convoi de l'eau*](https://homeostasie.github.io/bouquins/Akira-Yoshimura_Le-convoi-de-l-eau/)
 
 ### Guerre
 
