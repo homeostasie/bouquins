@@ -42,7 +42,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Hiro Arikawa** - [*Les mémoires d'un chat*](https://homeostasie.github.io/bouquins/Hiro-Arikawa_Les-memoires-d-un-chat)
 
-**Toshikazu Kawaguchi** - *Tant que le café est encore chaud* 
+**Toshikazu Kawaguchi** - [*Tant que le café est encore chaud*](https://homeostasie.github.io/bouquins/Toshikazu-Kawaguchi_Tant-que-le-cafe-est-encore-chaud/)
 
 **Sayaka Murata** - [*Konbini*](https://homeostasie.github.io/bouquins/Sayaka-Murata_Konbini) 
 
