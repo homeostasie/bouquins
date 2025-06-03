@@ -12,3 +12,5 @@ J'ai envie de continuer ma découverte des romans Japonais. Après : [Les mémoi
 On retrouve plongé dans un tout petit café dans Tokyo avec quelques tables, quelques habitués,quelques serveurs mais surtout une légende : On peut revenir dans le passé sous certaines conditions le temps d'une tasse de café. On suit quelques histoires avec humour mais aussi émotion dans ce roman qui mélange le chill et les émotions. 
 
 Une petite lecture plaisir, facilement recommandable. 
+
+![Tant que le cafe est encore chaud](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/kawaguchi_toshikazu/cafe.gif)
