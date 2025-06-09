@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bon anniversaire"
+title: "Bon anniversaire de blog : 15ans"
 categories: blog
 comments: true
 ---
