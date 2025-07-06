@@ -53,3 +53,8 @@ Plutôt tournés Sciences :
 * Introduction à l'Arctique : [mooc - coursera](https://www.coursera.org/learn/intro-to-the-arctic/)
 * Rocket Science for Everyone : [mooc - coursera](https://www.coursera.org/learn/rocket-science-for-everyone/)
 
+## Sport
+
+* KB12kg :  Continuer ma petite routine quasi-quotidienne avec la kettlebell 12kg.
+* Quelques sorties courses à pied : J'aime bien faire le tour du chateau de Curis, sinon Cibeins. 
+* Une sortie escalade : Bloc Session à Beynost. 
