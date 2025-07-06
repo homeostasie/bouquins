@@ -43,7 +43,6 @@ C'est surtout pour cette liste que j'ai eu envie de taper ce billet. Je sais que
 Le livre passionnant sur les bugs : 
 * Bug Bounty Bootcamp :  [Livre - NoStarch](https://nostarch.com/bug-bounty-bootcam)
 
-
 Un peu de cyber / info :
 * CS50’s Introduction to Cybersecurity : [mooc - cs50](https://cs50.harvard.edu/cybersecurity/)
 * Fondements mathématiques de la cryptographie : [mooc - coursera](https://www.coursera.org/learn/mathematical-foundations-cryptography)
