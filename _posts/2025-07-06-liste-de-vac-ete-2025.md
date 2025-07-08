@@ -41,7 +41,7 @@ En BD
 C'est surtout pour cette liste que j'ai eu envie de taper ce billet. Je sais que je ne vais pas pouvoir tout faire. Mais j'aimerais bien avancé un peu au moins l'un des suivants. 
 
 Le livre passionnant sur les bugs : 
-* Bug Bounty Bootcamp :  [Livre - NoStarch](https://nostarch.com/bug-bounty-bootcam)
+* Bug Bounty Bootcamp :  [Livre - NoStarch](https://nostarch.com/bug-bounty-bootcamp)
 
 Un peu de cyber / info :
 * CS50’s Introduction to Cybersecurity : [mooc - cs50](https://cs50.harvard.edu/cybersecurity/)
