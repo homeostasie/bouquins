@@ -5,7 +5,7 @@ categories: lectures
 comments: true
 ---
 
-![Germinal(https://github.com/homeostasie/bouquins/raw/master/_pics/lv/zola_emile/germinal-1.jpg)
+![Germinal](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/zola_emile/germinal-1.jpg)
 
 Je continue ma découverte des Rougon-Macquart. Après l'assommoir, je me suis lancé dans Germinal. 
 
