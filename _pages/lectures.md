@@ -36,7 +36,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Émile Zola** 
 *  [*L'assommoir*](https://homeostasie.github.io/bouquins/Emile-Zola-L-Assommoir)
-* *Germinal*
+*  [*Germinal*](https://homeostasie.github.io/bouquins/Emile-Zola_Germinal/)
 
 ### Japonais
 
