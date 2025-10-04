@@ -324,6 +324,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **George R. R. Martin** - *Le Trône de Fer*
 
+*  *Dragon de Glace* 
+
 * **O - Préquel**   
 
 1. *L'épée Lige* 
