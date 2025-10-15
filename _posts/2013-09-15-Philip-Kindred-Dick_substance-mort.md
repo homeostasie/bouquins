@@ -12,11 +12,8 @@ comments: true
 Rien que la première scène met tout de suite dans l'ambiance avec **Jerry** complètement cramé qui se croit envahit de toute part par une espèce de poux, les aphides. Tout en essayant de les éradiqués, il ne fait qu'empirer la situation en infectant son chien et toutes les personnes qui le côtoient... Mais bon, nulle autre personne que lui ne semble pouvoir les observer...
 
 > "Je ne vois pas d'aphides, dit Charles. Qu'est-ce que c'est qu'un aphides ?
-
 > Ça te tue à la longue. Voilà ce que c'est un aphide.
-
 > J'en ai plein les cheveux, la peau, les poumons, et ça me fait mal à en crever - va falloir que j'aille à l'hosto."
-
 > Jerry (page 10)
 
 ![Présence du Futur](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/dick_philip-kindred/sm-2.jpg)
@@ -31,5 +28,5 @@ Peut-être qu'Ils en parlent : [Cachou](http://leslecturesdecachou.over-blog.com
 et quand ils l'ont remonté, ils ont laissé trois vitesses par terre.
 > (Scène mythique où l'on parle d'un vélo à vitesses - page 172)
 
-> ![Alt text](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/dick_philip-kindred/sm-3.jpg) ![Alt text](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/dick_philip-kindred/sm-4.jpg) ![Alt text](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/dick_philip-kindred/sm-5.jpg)
+![Alt text](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/dick_philip-kindred/sm-3.jpg) ![Alt text](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/dick_philip-kindred/sm-4.jpg) ![Alt text](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/dick_philip-kindred/sm-5.jpg)
 
