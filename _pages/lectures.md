@@ -38,6 +38,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 *  [*L'assommoir*](https://homeostasie.github.io/bouquins/Emile-Zola-L-Assommoir)
 *  [*Germinal*](https://homeostasie.github.io/bouquins/Emile-Zola_Germinal/)
 
+**Stefan Zweig** - *Un mariage à Lyon*
+
 ### Japonais
 
 **Hiro Arikawa** 
@@ -216,6 +218,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 3. [*La porte d'Abaddon*](https://homeostasie.github.io/bouquins/James-SA-Corey_The-Expanse-3-La-porte-d-Abaddon/)
 4. [*Les feux de Cibola*](https://homeostasie.github.io/bouquins/James-SA-Corey_TheExpanse4-Les-feux-de-Cibola/)
 5. *Les jeux de Némésis*
+6. *Les cendres de Babylone*
 
 **Frank Herbert** - [*Dune*](https://homeostasie.github.io/bouquins/Franck-herbert_dune/)
 1. *Dune*
@@ -365,6 +368,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 14. *Les dragons de Meereen*
 15. *Une danse avec les dragons*
 
+**George R. R. Martin** - *Le dragon de Glace*
 
 **Justine Niogret**
 1. *Chien du Heaume*
