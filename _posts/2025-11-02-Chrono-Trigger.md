@@ -7,7 +7,7 @@ comments: true
 
 ![Chrono Trigger](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/chrono/CT4.jpg)
 
-J'ai fait pas mal de jrpg ces derniers temps et quand je réfléchis à un classement, j'avais toujours Chrono Trigger en première place. J'ai voulu vérifié. 
+J'ai fait pas mal de jrpg ces derniers temps et quand je réfléchis à un classement, j'avais toujours Chrono Trigger en première place. J'ai voulu vérifier. 
 
 Je l'ai fait sur nds. Il n'a pas pris une ride. Il reste splendide. Il réussi à être varié et cohérent. On s'y retrouve facilement quelques soient les époques. Pour ce qui est des personnages, à part Crono qui est muet et donc un peu mou du genou, tous les autres : Lucca, Marle, Robo, Ayla, Frog sont excellent. Je n'ai pas pris Maggus cette fois. Je me suis dit que c'était plus cohérent avec l'histoire. L'histoire est rempli de moment assez touchant. Elle marche bien sur moi l'histoire. 
 
