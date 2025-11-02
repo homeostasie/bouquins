@@ -11,11 +11,16 @@ comments: true
 5. Les jeux de Némésis
 6. Les cendres de Babylone
 
-J'ai avancé la série The Expanse avec les tomes 5 et 6. J'ai bien fait de ne pas trop attendre pour les lire parce que ces deux tomes forment une seule grosse intrigue et sont indissociables. 
+J'ai avancé la série The Expanse avec les tomes 5 et 6. J'ai bien fait de ne pas trop attendre pour les lire parce que ces deux tomes sont indissociables. 
 
-Ils sont également assez différents des tomes précédents. On suit vraiment le Rocinante et son équipage qui va un peu vivre sa vit séparément dans le 5 pour se retrouver et conclure l'histoire dans le 6 suite à un gros événement qui vient bouleverser l'univers. Du coup, on est un peu moins sur de la découverte, des nouveautés, un côté extra-terrestre, un côté hui clos. En contre-partie, on va avoir de belles batailles dans l'espace comme on en avait encore jamais eu. 
+Ils sont assez différents des tomes précédents. On suit le Rocinante et son équipage : Holden, Naomi, Alex, Amos avec en plus Bobbie, Clarissa, Filip et Michio Pa. 
 
-J'ai un peu moins aimé que le 4 que j'avais adoré mais je reste en adoration de la narration qui est rythmé et dynamique et de l'univers qui est complet et cohérent. 
+L'équipage va d'abord vivre des aventures séparément pendant qu'Holden fait réparer le Rocicante. Dans ce cadre, on va faire la découverte de la flotte libre qui sera "le méchant de cette intrigue". Comme à chaque, plus on avance dans la lecture, plus l'histoire converge pour finalement se conclure de manière satisfaisante à la fin du 6. 
+
+Le déroulé est un peu différent. Il y a un gros événement qui perturbe tout l'univers : la Terre, Mars et les Ceinturiens. On est moins dans une ambiance hui-clos avec des extraterrestres en toile de fond et plus dans une ambiance voyages et combats dans l'espace. 
+
+J'ai un peu moins aimé que le 4 que j'avais adoré mais ça apporté un peu de nouveauté et de renouveau en donnant un peu de légitimé aux vaisseaux et le côté space-op du roman. Surtout que la narration reste très rythmée et très agréables à suivre. 
+
 
 J'ai très envie de connaître la suite mais ça devra attendre l'année prochaine. 
 
