@@ -100,6 +100,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Jun'Ichiro Tanizaki** - [*Dans l'œil du démon*](https://homeostasie.github.io/bouquins/Jun-Ichiro-Tanizaki_Dans-l-oeil-du-demon/)
 
+**Franck Thilliez** - *Norferville*
+
 # 2. Science Fiction
 
 ### Fantastique 
@@ -327,7 +329,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **George R. R. Martin** - *Le Trône de Fer*
 
-*  *Dragon de Glace* 
+*  *Le Dragon de Glace* 
 
 * **O - Préquel**   
 
@@ -367,8 +369,6 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 13. *Le bûcher d'un roi*
 14. *Les dragons de Meereen*
 15. *Une danse avec les dragons*
-
-**George R. R. Martin** - *Le dragon de Glace*
 
 **Justine Niogret**
 1. *Chien du Heaume*
