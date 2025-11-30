@@ -56,7 +56,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 #### WW1 
 
-**Pierre Lemaitre** - *Au revoir là-haut*
+**Pierre Lemaitre** - [*Au revoir là-haut*](https://homeostasie.github.io/bouquins/Pierre-Lemaitre_Au-revoir-la-haut/)
 
 **Erich Maria Remarque** - [*À L’Ouest rien de nouveau*](https://homeostasie.github.io/bouquins/Erich-Maria-Remarque_A-l-ouest-rien-de-nouveau/)
 
