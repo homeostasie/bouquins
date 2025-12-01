@@ -108,7 +108,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Michael Crichton**
 1. [*Jurassic Park*](https://homeostasie.github.io/bouquins/Michael-Crichton_jurassic-park/)
-2. Le monde perdu
+2. [*Le monde perdu*](https://homeostasie.github.io/bouquins/Michael-Crichton_le-monde-perdu/)
 
 **Stephen King** - *La Tour Sombre*
 1. *Le Pistolero*
@@ -192,6 +192,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Martha Wells** - *Journal d'un AssaSynth*
 1. [*Défaillances systèmes*](https://homeostasie.github.io/bouquins/Martha-Wells_Defaillances-systemes/)
 2. [*Schémas artificiels*](https://homeostasie.github.io/bouquins/Martha-Wells_Schemas-artificiels/)
+3. *Stratégie de sortie*
 
 ### Uchronie
 
