@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Martha Wells - 3. Cheval de Troie"
+title: " Assasynth 3 : Cheval de Troie - Martha Wells"
 categories: lectures
 comments: true
 ---

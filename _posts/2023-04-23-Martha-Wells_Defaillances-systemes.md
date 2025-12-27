@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Martha Wells - 1. Défaillances systèmes"
+title: "Assasynth 1 : Défaillances systèmes - Martha Wells"
 categories: lectures
 comments: true
 ---

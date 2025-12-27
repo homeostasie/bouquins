@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Martha Wells - 2. Schémas artificiels"
+title: "Assasynth 2 : Schémas artificiels - Martha Wells"
 categories: lectures
 comments: true
 ---
