@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Franck Thilliez - Norferville"
+title: "Norferville - Franck Thilliez"
 categories: lectures
 comments: true
 ---
