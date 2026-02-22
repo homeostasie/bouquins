@@ -15,7 +15,7 @@ On suit Benjamin Malaussène un grand frère qui s'occupe de tous ses frères et
 
 > - Dis voir, Ben, est-ce que tu pourrais me dire pourquoi cette saloperie de participe passé s'accorde avec ce connard de C.O.D. quand il est placé avant cet enfoiré d'auxiliaire être?
 
-J'ai retrouvé un petit goût de vieux dans le monde de ce bouquin, un petit côté Gaston pour l'ambiance de travail. On y voit le patron, le vigile, le syndiqué, des vieux, des chiens, des gamins qui rêvent, une voleuse, de la photo, de l'astrologie... **Au bonheur des ogres** est vraiment un mélange de tout. J'ai pris plaisir à lire ce bouquin, j'ai ri par moment, je ne me suis pas ennuyé un seul instant. Pour autant dur de le conseiller tellement il est atypique. Je pense me faire une petite pause avant de m'essayer à la suite : La féé Carabosse.
+J'ai retrouvé un petit goût de vieux dans le monde de ce bouquin, un petit côté Gaston pour l'ambiance de travail. On y voit le patron, le vigile, le syndiqué, des vieux, des chiens, des gamins qui rêvent, une voleuse, de la photo, de l'astrologie... **Au bonheur des ogres** est vraiment un mélange de tout. J'ai pris plaisir à lire ce bouquin, j'ai ri par moment, je ne me suis pas ennuyé un seul instant. Pour autant dur de le conseiller tellement il est atypique. Il y a vraiment beaucoup de passage un peu weird, malaisant surtout dès que ça touche sexualité. 
 
 > La dernière des enveloppes émanait du ministère de l'Éducation Nationale. Je l’ai ouverte rien que pour voir combien le Ministre m’offrait pour me faire piétiner en son nom. Il ne m’offrait rien. Il me demandait juste de rembourser le C.E.G. de Jérémy. Ci-joint l’addition.
 
