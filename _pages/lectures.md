@@ -26,7 +26,9 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Daniel Pennac** - *Saga Malaussène*
 1. [*Au bonheur des ogres*](https://homeostasie.github.io/bouquins/Daniel-Pennac_Au-bonheur-des-ogres/)
 
-**John Steinbeck** - *Des souris et des hommes*
+**John Steinbeck** 
+* *Des souris et des hommes*
+* *Rue de la Sardine*
 
 **Robert Louis Stevenson** - *L'Île au trésor*
 
@@ -278,18 +280,23 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 2. *La Bataille des Jedi*
 3. *L'Ultime Commandement*
 
-*La Haute République*
+*La Haute République - Phase 1*
 1. [*La lumière des Jedi*](https://homeostasie.github.io/bouquins/SW_Lumiere-des-Jedi/) - **Charles Soule**
 2. *L'Orage Gronde* - **Cavan Scott**
 3. *La Chute de l’étoile* - **Claudia Gray**
 
-*La Haute République - Jeunesse*
+*La Haute République - Phase 1 - Jeunesse*
 1. [*En pleines ténèbres*](https://homeostasie.github.io/bouquins/SW_En-pleines-tenebres/) - **Claudia Gray** 
 2. *Hors de l'ombre* - **Justina Ireland**
 3. *Horizon funèbre* - **Daniel José Older**
 
-*La Haute République - Audio*
+*La Haute République - Phase 1 - Audio*
 1. *Maître-Tempête* - **Cavan Scott**
+
+*La Haute République - Phase 2 - Jeunesse*
+1. *La Voie de la duperie* - **Justina Ireland** 
+2. *La Voie de la vengeance* - **Cavan Scott**
+
 
 [*Solo*](https://homeostasie.github.io/bouquins/SW_Solo/) - **Ann C. Crispin**
 1. *Le Coup du paradis*
