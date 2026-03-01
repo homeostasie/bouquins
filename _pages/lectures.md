@@ -384,6 +384,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Andrzej Sapkowski** - *Le sorceleur*
 1. *Le dernier vœu*
 2. *L’Épée de la providence*
+3. *Le sang des elfes*
 
 
 **J.R.R. Tolkien** - *Bilbo le Hobbit*
