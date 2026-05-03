@@ -40,13 +40,13 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 *  [*L'assommoir*](https://homeostasie.github.io/bouquins/Emile-Zola-L-Assommoir)
 *  [*Germinal*](https://homeostasie.github.io/bouquins/Emile-Zola_Germinal/)
 
-**Stefan Zweig** - *Un mariage à Lyon*
+**Stefan Zweig** - [*Un mariage à Lyon*](https://homeostasie.github.io/bouquins/Stefan-Zweig_Un-mariage-a-lyon/)
 
 ### Japonais
 
 **Hiro Arikawa** 
 * [*Les mémoires d'un chat*](https://homeostasie.github.io/bouquins/Hiro-Arikawa_Les-memoires-d-un-chat)
-* Au prochain arrêt 
+* [*Au prochain arrêt*](https://homeostasie.github.io/bouquins/Hiro-Arikawa_Au-prochain-arret/) 
 
 **Toshikazu Kawaguchi** - [*Tant que le café est encore chaud*](https://homeostasie.github.io/bouquins/Toshikazu-Kawaguchi_Tant-que-le-cafe-est-encore-chaud/)
 
