@@ -11,6 +11,8 @@ Je garde un très, très bon souvenir *Des souris et des hommes* de John Steinbe
 
 On suit des habitants plus ou moins marginaux de la petite ville de Monterey en Californie. On découvre l'épicier, des petits loubards, le scientifique, les prostitués au fil des pages... Sans être totalement rocambolesque, on suit les aventures et les mésaventures de cette petite troupe avec plaisir. Le style est magnifique. Il y a ce doux mélange d'humour et de drame. On est imprégné de l'ambiance. On se sent dans l'intimité, souvent au plus près de ces vies de misère sans pour autant juger ces personnages qui essayent de faire de leur mieux 
 
+Je crois que ça fait longtemps que je n'avais pas autant apprécié un passage de roman que l'épisode Mack et ses potes vont chercher des grenouilles pour le Doc. 
+
 Cette lecture à été un énorme coup de cœur. Il faut vraiment que je continue de découvrir d'autres romans de Steinbeck. 
 
 Simplement fabuleux. 
