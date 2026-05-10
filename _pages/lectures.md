@@ -28,7 +28,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **John Steinbeck** 
 * *Des souris et des hommes*
-* *Rue de la Sardine*
+* [*Rue de la Sardine*](https://homeostasie.github.io/bouquins/John-Steinbeck_Rue-de-la-sardine/)
 
 **Robert Louis Stevenson** - *L'Île au trésor*
 
