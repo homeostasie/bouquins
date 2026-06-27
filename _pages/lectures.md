@@ -195,7 +195,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Martha Wells** - *Journal d'un AssaSynth*
 1. [*Défaillances systèmes*](https://homeostasie.github.io/bouquins/Martha-Wells_Defaillances-systemes/)
 2. [*Schémas artificiels*](https://homeostasie.github.io/bouquins/Martha-Wells_Schemas-artificiels/)
-3. [*Cheval de Troie*](https://homeostasie.github.io/bouquins/Martha-Wells_Cheval-de-Troie/)
+3. [*Cheval de Troie*](https://homeostasie.github.io/bouquins/Martha-Wells_Cheval-de-troie/)
 4. [*Stratégie de sortie*](https://homeostasie.github.io/bouquins/Martha-Wells_Strategie-de-sortie/)
 
 ### Uchronie
