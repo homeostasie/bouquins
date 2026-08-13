@@ -23,6 +23,9 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Arto Paasilinna** - *Le lièvre de Vatanem*
 
+**Marcel Pagnol** - *L'eau des collines*
+1. Jean De Florette
+
 **Daniel Pennac** - *Saga Malaussène*
 1. [*Au bonheur des ogres*](https://homeostasie.github.io/bouquins/Daniel-Pennac_Au-bonheur-des-ogres/)
 
@@ -51,6 +54,9 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Toshikazu Kawaguchi** - [*Tant que le café est encore chaud*](https://homeostasie.github.io/bouquins/Toshikazu-Kawaguchi_Tant-que-le-cafe-est-encore-chaud/)
 
 **Sayaka Murata** - [*Konbini*](https://homeostasie.github.io/bouquins/Sayaka-Murata_Konbini) 
+
+**Ito Ogawa** - *La Papeterie*
+1. *La Papeterie Tsubaki*
 
 **Akira Yoshimura** - [*Le Convoi de l'eau*](https://homeostasie.github.io/bouquins/Akira-Yoshimura_Le-convoi-de-l-eau/)
 
@@ -93,12 +99,18 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Tom Clancy**
 * [*À la poursuite d'Octobre Rouge*](https://homeostasie.github.io/bouquins/Tom-Clancy_Octobre-Rouge)
 
+**Johana Gustawsson**
+* *Les morsures du silence*
+
 **Stieg Larsson** - *Millenium*
 1. *Les Hommes qui n'aimaient pas les femmes*
 
 **Hugh Laurie** - *Tout est sous contrôle*
 
 **China Miéville** - [*The City and the City*](https://homeostasie.github.io/bouquins/China-Mieville_The-City-and-the-City/)
+
+**Georges Simenon** - *Maigret*
+* *R1 - Pietr-le-Letton*
 
 **Jun'Ichiro Tanizaki** - [*Dans l'œil du démon*](https://homeostasie.github.io/bouquins/Jun-Ichiro-Tanizaki_Dans-l-oeil-du-demon/)
 
@@ -111,6 +123,11 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Michael Crichton**
 1. [*Jurassic Park*](https://homeostasie.github.io/bouquins/Michael-Crichton_jurassic-park/)
 2. [*Le monde perdu*](https://homeostasie.github.io/bouquins/Michael-Crichton_le-monde-perdu/)
+* *Sphère*
+
+**Hugh Howey**
+* *Silo*
+
 
 **Stephen King** - *La Tour Sombre*
 1. *Le Pistolero*
@@ -226,6 +243,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 4. [*Les feux de Cibola*](https://homeostasie.github.io/bouquins/James-SA-Corey_TheExpanse4-Les-feux-de-Cibola/)
 5. *Les jeux de Némésis*
 6. *Les cendres de Babylone*
+7. *Le soulèvement de Persepolis*
+
 
 **Frank Herbert** - [*Dune*](https://homeostasie.github.io/bouquins/Franck-herbert_dune/)
 1. *Dune*
@@ -384,9 +403,10 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 1. *Chien du Heaume*
 
 **Andrzej Sapkowski** - *Le sorceleur*
-1. *Le dernier vœu*
-2. *L’Épée de la providence*
-3. *Le sang des elfes*
+1. *Nouvelles - Le dernier vœu*
+2. *T1 - L’Épée de la providence*
+3. *T2 - Le sang des elfes*
+4. *T3 - Le temps du mépris*
 
 
 **J.R.R. Tolkien** - *Bilbo le Hobbit*
