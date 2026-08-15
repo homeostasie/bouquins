@@ -121,8 +121,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 ### Fantastique 
 
 **Michael Crichton**
-1. [*Jurassic Park*](https://homeostasie.github.io/bouquins/Michael-Crichton_jurassic-park/)
-2. [*Le monde perdu*](https://homeostasie.github.io/bouquins/Michael-Crichton_le-monde-perdu/)
+* [*Jurassic Park*](https://homeostasie.github.io/bouquins/Michael-Crichton_jurassic-park/)
+* [*Le monde perdu*](https://homeostasie.github.io/bouquins/Michael-Crichton_le-monde-perdu/)
 * *Sphère*
 
 **Hugh Howey**
