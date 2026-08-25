@@ -114,6 +114,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Jun'Ichiro Tanizaki** - [*Dans l'œil du démon*](https://homeostasie.github.io/bouquins/Jun-Ichiro-Tanizaki_Dans-l-oeil-du-demon/)
 
+**Hervé Le Tellier** - *Le Poulpe : La Disparition de Perek*
+
 **Franck Thilliez** - [*Norferville*](https://homeostasie.github.io/bouquins/Franck-Thilliez_Norferville/)
 
 # 2. Science Fiction
