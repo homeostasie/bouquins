@@ -5,7 +5,7 @@ categories: lectures
 comments: true
 ---
 
-![Jean de Florette](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/pagnol_marcel/mp1-jean-de-florette.png)
+![Jean de Florette - Sempé](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/pagnol_marcel/mp1-jean-de-florette.png)
 
 Je ne me rappelle plus trop comment il est arrivé sur ma pal celui-là. 
 
