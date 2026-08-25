@@ -24,7 +24,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Arto Paasilinna** - *Le lièvre de Vatanem*
 
 **Marcel Pagnol** - *L'eau des collines*
-1. Jean De Florette
+1. [Jean De Florette](https://homeostasie.github.io/bouquins/Marcel-Pagnol_Jean-de-Florette/)
 
 **Daniel Pennac** - *Saga Malaussène*
 1. [*Au bonheur des ogres*](https://homeostasie.github.io/bouquins/Daniel-Pennac_Au-bonheur-des-ogres/)
@@ -80,11 +80,6 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Jake Adelstein** - [*Tokyo Vice*](https://homeostasie.github.io/bouquins/Jake-Adelstein_Tokyo-Vice/)
 
-**Arthur Conan Doyle**
-1. *Une étude en rouge*
-3. *Le Chien des Baskerville*
-4. *Les aventures (5/12)*
-
 **John le Carré**
 * *L'espion qui venait du froid*
 * *La taupe*
@@ -98,6 +93,11 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Tom Clancy**
 * [*À la poursuite d'Octobre Rouge*](https://homeostasie.github.io/bouquins/Tom-Clancy_Octobre-Rouge)
+
+**Arthur Conan Doyle**
+1. *Une étude en rouge*
+3. *Le Chien des Baskerville*
+4. *Les aventures (5/12)*
 
 **Johana Gustawsson**
 * *Les morsures du silence*
@@ -122,10 +122,11 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 ### Fantastique 
 
-**Michael Crichton**
-* [*Jurassic Park*](https://homeostasie.github.io/bouquins/Michael-Crichton_jurassic-park/)
-* [*Le monde perdu*](https://homeostasie.github.io/bouquins/Michael-Crichton_le-monde-perdu/)
-* *Sphère*
+**Michael Crichton** - *Jurassic World*
+1. [*Jurassic Park*](https://homeostasie.github.io/bouquins/Michael-Crichton_jurassic-park/)
+2. [*Le monde perdu*](https://homeostasie.github.io/bouquins/Michael-Crichton_le-monde-perdu/)
+
+**Michael Crichton** - *Sphère*
 
 **Hugh Howey**
 * *Silo*
