@@ -99,8 +99,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 3. *Le Chien des Baskerville*
 4. *Les aventures (5/12)*
 
-**Johana Gustawsson**
-* *Les morsures du silence*
+**Johana Gustawsson** - [*Les morsures du silence*](https://homeostasie.github.io/bouquins/Johana-Gustawsson_Les-morsures-du-silence/)
 
 **Stieg Larsson** - *Millenium*
 1. *Les Hommes qui n'aimaient pas les femmes*
