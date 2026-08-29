@@ -56,7 +56,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Sayaka Murata** - [*Konbini*](https://homeostasie.github.io/bouquins/Sayaka-Murata_Konbini) 
 
 **Ito Ogawa** - *La Papeterie*
-1. *La Papeterie Tsubaki*
+1. [*La Papeterie Tsubaki*](https://homeostasie.github.io/bouquins/Ito-Ogawa_La-Papeterie-Tsubaki/)
 
 **Akira Yoshimura** - [*Le Convoi de l'eau*](https://homeostasie.github.io/bouquins/Akira-Yoshimura_Le-convoi-de-l-eau/)
 
