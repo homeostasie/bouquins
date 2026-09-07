@@ -317,8 +317,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 1. *Maître-Tempête* - **Cavan Scott**
 
 *La Haute République - Phase 2 - Jeunesse*
-1. *La Voie de la duperie* - **Justina Ireland** 
-2. *La Voie de la vengeance* - **Cavan Scott**
+1. [*La Voie de la duperie*](https://homeostasie.github.io/bouquins/La-Haute-R%C3%A9publique-Phase-2-Jeunesse/) - **Justina Ireland** 
+2. [*La Voie de la vengeance*](https://homeostasie.github.io/bouquins/La-Haute-R%C3%A9publique-Phase-2-Jeunesse/) - **Cavan Scott**
 
 
 [*Solo*](https://homeostasie.github.io/bouquins/SW_Solo/) - **Ann C. Crispin**
