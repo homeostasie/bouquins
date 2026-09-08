@@ -109,7 +109,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **China Miéville** - [*The City and the City*](https://homeostasie.github.io/bouquins/China-Mieville_The-City-and-the-City/)
 
 **Georges Simenon** - *Maigret*
-* *R1 - Pietr-le-Letton*
+* [*R1 - Pietr-le-Letton*](https://homeostasie.github.io/bouquins/Georges-Simenon_Pietr-le-Letton/)
 
 **Jun'Ichiro Tanizaki** - [*Dans l'œil du démon*](https://homeostasie.github.io/bouquins/Jun-Ichiro-Tanizaki_Dans-l-oeil-du-demon/)
 
@@ -129,7 +129,6 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Hugh Howey**
 * *Silo*
-
 
 **Stephen King** - *La Tour Sombre*
 1. *Le Pistolero*
