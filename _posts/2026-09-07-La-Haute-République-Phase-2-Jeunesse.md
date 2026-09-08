@@ -13,5 +13,4 @@ On suit Kevmo Zink un jeune padawan plein d’enthousiasme qui arrive sur Dalna,
 
 Pour faire simple, j'ai bien aimé le premier roman qui met bien place l'univers et ses personnages... mais par contre, le deuxième roman fait un peu plus farfelue avec des personnages qui changent un peu trop radicalement. Bref, pas la meilleure série dans la Haute République.
 
-
 ![Voie Vengeance](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/star-wars/hr2-j1_voie-vengeance.png)
