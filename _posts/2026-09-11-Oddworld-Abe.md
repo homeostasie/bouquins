@@ -5,7 +5,7 @@ categories: lectures
 comments: true
 ---
 
-![Odd 1](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/oddworld/odd1.jpg)
+![Odd 1](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/oddworld/odd1.jpeg)
 
 Grosse session nostalgie avec la série des Oddworld sur ps1 avec l'Odyssée d'Abe et l'Exode d'Abe . Je connaissais bien les démo pour les avoir lancées un grand nombre de fois mais sans jamais les avoir finies. Les jeux sont durs, les checkpoints pas très nombreux contrairement aux possibilités de mourir. J'aurai été bien incapable de les finir ce jeu sans les states saves. C'est très compliqué de sauver tout le monde. Ce que du coup, je n'ai pas fait.
 
@@ -15,4 +15,4 @@ J'ai enchaîné assez rapidement sur la suite : l'Exode d'Abe. Le gameplay est p
 
 Bref, sans être un coup de cœur, je suis très content d'avoir fini cette série. 
 
-![Odd 2](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/oddworld/odd2.jpg)
+![Odd 2](https://github.com/homeostasie/bouquins/raw/master/_pics/jv/oddworld/odd2.jpeg)
