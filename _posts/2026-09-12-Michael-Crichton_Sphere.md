@@ -13,4 +13,4 @@ On suit Norman Johnson, un psy appelé par la Marine sur un site sous-marin où 
 
 J'ai assez bien aimé. On est direct plongé dans l'histoire et dans l'exploration. On est très vite dans un climat de peur et de mort. L'ambiance est bonne. Par contre, les personnages féminins ne sont vraiment pas bien écrits... Et je ne suis pas particulièrement quelqu'un d'attentif à cette question. Là, plusieurs fois je me suis dit "wah, abusé !". Cela a un peu gêné mon adhésion aux personnages. Dans l'ensemble, j'ai moins apprécié que le diptyque Jurassic Park. 
 
-![Sphere - Film](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/crichton_michael/sphere-2.jpg)
+![Sphere - Film](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/crichton_michael/sphere-1.jpg)
