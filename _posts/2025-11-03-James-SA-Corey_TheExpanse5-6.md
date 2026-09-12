@@ -7,21 +7,17 @@ comments: true
 
 ![Les jeux de Némésis](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/corey-sa_james/exp5-jeux-nemesis.jpg)
 
+5 - Les jeux de Némésis
+6 - Les cendres de Babylone
 
-5. Les jeux de Némésis
-6. Les cendres de Babylone
+J'ai avancé la série The Expanse avec les tomes 5 et 6. Ces deux tomes forment une grande histoires et sont indissociables. 
 
-J'ai avancé la série The Expanse avec les tomes 5 et 6. J'ai bien fait de ne pas trop attendre pour les lire parce que ces deux tomes sont indissociables. 
+Ils sont assez différents des tomes précédents. On suit l'équipage du Rocinante : Holden, Naomi, Alex, Amos ainsi que Bobbie, Clarissa, Filip et Michio Pa. 
 
-Ils sont assez différents des tomes précédents. On suit le Rocinante et son équipage : Holden, Naomi, Alex, Amos avec en plus Bobbie, Clarissa, Filip et Michio Pa. 
+L'équipage va d'abord vivre des aventures séparément pendant qu'Holden fait réparer le Rocicante. On a vraiment le droit à quelques passages marquants comme l'épisode du retour sur Terre d'Amo. On va également faire la découverte de la flotte libre qui sera "le méchant de cette intrigue". Comme à chaque fois, plus on avance dans la lecture, plus les histoires convergent afin de se regrouper dans un grand final. On a une ambiance un peu moins huis clos avec des extraterrestres mais plus une ambiance conflit et combats dans l'espace. 
 
-L'équipage va d'abord vivre des aventures séparément pendant qu'Holden fait réparer le Rocicante. Dans ce cadre, on va faire la découverte de la flotte libre qui sera "le méchant de cette intrigue". Comme à chaque, plus on avance dans la lecture, plus l'histoire converge pour finalement se conclure de manière satisfaisante à la fin du 6. 
+J'ai sensiblement un peu moins aimé que le 4... mais c'est surtout parce que j'avais adoré le 4 et son ambiance Aliens 2. Là, on est vraiment dans une ambiance space-op avec son lot de vaisseaux spatiaux. La narration reste très rythmée et très agréables à suivre. 
 
-Le déroulé est un peu différent. Il y a un gros événement qui perturbe tout l'univers : la Terre, Mars et les Ceinturiens. On est moins dans une ambiance hui-clos avec des extraterrestres en toile de fond et plus dans une ambiance voyages et combats dans l'espace. 
-
-J'ai un peu moins aimé que le 4 que j'avais adoré mais ça apporté un peu de nouveauté et de renouveau en donnant un peu de légitimé aux vaisseaux et le côté space-op du roman. Surtout que la narration reste très rythmée et très agréables à suivre. 
-
-
-J'ai très envie de connaître la suite mais ça devra attendre l'année prochaine. 
+Bref, toujours autant un plaisir et un coup de cœur que cette série. J'ai très envie de connaître la suite mais ça devra attendre l'année prochaine. 
 
 ![Les cendres de Babylone](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/corey-sa_james/exp6-cendres-babylone.jpg)
