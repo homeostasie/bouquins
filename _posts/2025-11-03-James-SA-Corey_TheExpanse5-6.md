@@ -7,8 +7,8 @@ comments: true
 
 ![Les jeux de Némésis](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/corey-sa_james/exp5-jeux-nemesis.jpg)
 
-> 5 - Les jeux de Némésis
-> 6 - Les cendres de Babylone
+* 5 - Les jeux de Némésis
+* 6 - Les cendres de Babylone
 
 J'ai avancé la série The Expanse avec les tomes 5 et 6. Ces deux tomes forment une grande histoires et sont indissociables. 
 
