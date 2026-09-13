@@ -127,14 +127,12 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 
 **Michael Crichton** - [*Sphère*](https://homeostasie.github.io/bouquins/Michael-Crichton_Sphere/)
 
-**Hugh Howey**
-* *Silo*
+**Hugh Howey**- [*Silo*](https://homeostasie.github.io/bouquins/Hugh-Howey_Silo/)
 
 **Stephen King** - *La Tour Sombre*
 1. *Le Pistolero*
 
-**Stephen King**
-* [*Brume*](https://homeostasie.github.io/bouquins/Stephen-King_Brume)
+**Stephen King** - [*Brume*](https://homeostasie.github.io/bouquins/Stephen-King_Brume/)
 
 **Jasper F Forde** - *Thursday Next*
 1. *L'affaire Jane Eyre*
