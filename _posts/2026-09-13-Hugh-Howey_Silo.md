@@ -11,5 +11,4 @@ Silo traînait sur ma pile depuis quelques temps. J'aime beaucoup le pitch de d�
 
 J'ai adoré la narration. On est très vite en plein cœur de l'action. Il se passe beaucoup de choses et on n'a pas le temps de s'ennuyer. Le genre me laissait à penser à un univers fait de déprime et de régime autoritaire. Au contraire, j'ai trouvé le roman assez positif avec des personnages qui affrontent plutôt que subissent. Des personnages qui vivent au cœur d'une petite communauté en la faisant vivre. J'ai un peu penser à la série Battlestar Galactica. Le roman a réussi à me surprendre. Je me suis imaginé des dénouements et il en a été tout autre. 
 
-Une lecture avec pas mal de plaisir. J'ai passé un bon moment. C'était plus agréable que ce à quoi je m'attendais. Après, j'avoue que je n'ai pas envie de me lancer dans la suite. Je trouve que l'histoire se finit bien et ça me va comme ça. 
-
+Une lecture avec pas mal de plaisir. J'ai passé un bon moment. C'était plus agréable que ce à quoi je m'attendais. Après, j'avoue que je n'ai pas envie de me lancer dans la suite. Je trouve que l'histoire se finit bien et ça me va comme ça.
