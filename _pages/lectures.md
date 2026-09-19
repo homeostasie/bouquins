@@ -242,7 +242,7 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 4. [*Les feux de Cibola*](https://homeostasie.github.io/bouquins/James-SA-Corey_TheExpanse4-Les-feux-de-Cibola/)
 5. [*Les jeux de Némésis*](https://homeostasie.github.io/bouquins/James-SA-Corey_TheExpanse5-6/)
 6. [*Les cendres de Babylone*](https://homeostasie.github.io/bouquins/James-SA-Corey_TheExpanse5-6/)
-7. *Le soulèvement de Persepolis*
+7. [*Le soulèvement de Persepolis*](https://homeostasie.github.io/bouquins/James-SA-Corey_TheExpanse7/)
 
 
 **Frank Herbert** - [*Dune*](https://homeostasie.github.io/bouquins/Franck-herbert_dune/)
