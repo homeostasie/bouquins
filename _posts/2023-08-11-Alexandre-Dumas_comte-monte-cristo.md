@@ -13,4 +13,4 @@ La lecture est assez facile. Les chapitres sont courts, bien rythmés. On est da
 
 Le thème de la vengeance fonctionne à merveille. Il est universel. Il est traité sans trop de sentiment. Sa fiancé Mercédès est par exemple bien moins mise en avant que dans les adaptations télé.
 
-Comme souvent avec les classiques, une très bon lecture, recommandable très facilement. L’avantage que je tire de cette lecture est que je ne suis plus du tout effrayé des lectures de 400p. Par contre, je ne suis pas très attiré par les trois mousquetaires.
+Comme souvent avec les classiques, une très bonne lecture, recommandable facilement. L’avantage que je tire de cette lecture est que je ne suis plus du tout effrayé des lectures de 400p. Par contre, je ne suis pas vraiment attiré par les trois mousquetaires.
