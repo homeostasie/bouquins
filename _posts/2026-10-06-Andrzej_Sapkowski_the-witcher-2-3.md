@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Le sorceleur T2&3 - Andrzej Sapkowski"
+title: "Le sorceleur 1&2 - Andrzej Sapkowski"
 categories: lectures
 comments: true
 ---
 
 ![T2 - Le sang des elfes](https://github.com/homeostasie/bouquins/raw/master/_pics/lv/sapkowski_andrzej/witcher2_sang-des-elfes.jpg)
 
-* T2 - Le sang des elfes
-* T3 - Le temps du mépris
+* R1 - Le sang des elfes
+* R2 - Le temps du mépris
 
 Je suis un peu dans une période où j'ai envie de reprendre de la Fantasy. J'avais été doucement refroidi par les deux premiers tomes du Sorceleur / de The Witcher qui sont des recueils de nouvelles. J'avais trouvé le ton assez mauvais et l'histoire pas assez souvent intéressante. Entre temps, je me suis relancé dans la série en enchaînant les saison 2,3 et 4. Je me suis redonné un essai en m'attaquant cette fois aux romans. 
 

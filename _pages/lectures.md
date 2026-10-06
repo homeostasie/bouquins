@@ -402,10 +402,10 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 1. *Chien du Heaume*
 
 **Andrzej Sapkowski** - *Le sorceleur*
-1. *Nouvelles - Le dernier vœu*
-2. *T1 - L’Épée de la providence*
-3. [*T2 - Le sang des elfes*](https://homeostasie.github.io/bouquins/Andrzej_Sapkowski_the-witcher-2-3/)
-4. [*T3 - Le temps du mépris*](https://homeostasie.github.io/bouquins/Andrzej_Sapkowski_the-witcher-2-3/)
+1. *Nouvelles 1 - Le dernier vœu*
+2. *Nouvelles 2 - L’Épée de la providence*
+3. [*R1 - Le sang des elfes*](https://homeostasie.github.io/bouquins/Andrzej_Sapkowski_the-witcher-2-3/)
+4. [*R2 - Le temps du mépris*](https://homeostasie.github.io/bouquins/Andrzej_Sapkowski_the-witcher-2-3/)
 
 
 **J.R.R. Tolkien** - *Bilbo le Hobbit*
