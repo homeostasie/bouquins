@@ -404,8 +404,8 @@ La PAL : [**(lien)**](https://homeostasie.github.io/bouquins/pal/)
 **Andrzej Sapkowski** - *Le sorceleur*
 1. *Nouvelles 1 - Le dernier vœu*
 2. *Nouvelles 2 - L’Épée de la providence*
-3. [*R1 - Le sang des elfes*](https://homeostasie.github.io/bouquins/Andrzej_Sapkowski_the-witcher-2-3/)
-4. [*R2 - Le temps du mépris*](https://homeostasie.github.io/bouquins/Andrzej_Sapkowski_the-witcher-2-3/)
+3. [*R1 - Le sang des elfes*](https://homeostasie.github.io/bouquins/Andrzej_Sapkowski_the-witcher-r1-r2/)
+4. [*R2 - Le temps du mépris*](https://homeostasie.github.io/bouquins/Andrzej_Sapkowski_the-witcher-r1-r2/)
 
 
 **J.R.R. Tolkien** - *Bilbo le Hobbit*
